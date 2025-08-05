@@ -1,0 +1,8 @@
+{
+    "model_name": "moonshot-v1-128k",
+    "num_successful_dialogues": 10,
+    "avg_rounds_per_dialogue": "13.90",
+    "avg_prompt_tokens_per_turn": "787.98",
+    "avg_completion_tokens_per_turn": "22.72",
+    "total_completion_tokens": 3022
+}

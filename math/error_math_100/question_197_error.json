@@ -1,0 +1,50 @@
+[
+    {
+        "错误维度": ["知识性"],
+        "典型表现": ["公式错用"],
+        "具体错误点": "学生误认为“中线的中点”E到B的向量$\\overrightarrow{EB}$应为$\\overrightarrow{EB} = \\overrightarrow{AB} + \frac{1}{2} \\overrightarrow{AD}$，直接将中线的向量加一半作为结果，最终答案选C ($\\frac{3}{4} \\overrightarrow{\\mathrm{AB}}+\\frac{1}{4} \\overrightarrow{\\mathrm{AC}}$)。",
+        "错误维度导致错误点出现原因": "学生混淆了向量分点公式和中线性质，没有准确掌握“由A到E再到B”的向量关系，错误以为中线的中点到B就是A到B加上A到D的一半，未理解‘减去’的本质，导致公式误用，选了错误的答案C。",
+        "main": 0,
+        "index": 0
+    },
+    {
+        "错误维度": ["逻辑性"],
+        "典型表现": ["不等价变换"],
+        "具体错误点": "在推导$\\overrightarrow{EB} = \\overrightarrow{AB} - \\overrightarrow{AE}$时，学生错误地将$\\overrightarrow{EB}$理解为$\\overrightarrow{AE} - \\overrightarrow{AB}$，得到$\\overrightarrow{EB} = \\overrightarrow{AE} - \\overrightarrow{AB}$，最后计算出D选项($\\frac{1}{4}\\overrightarrow{AB} + \\frac{3}{4}\\overrightarrow{AC}$)。",
+        "错误维度导致错误点出现原因": "在向量表达转换时，学生混淆了起点和终点的对应关系，推理过程中偷换了向量的方向和相对位置，导致不等价变换，最后得出与实际含义相反的答案，选了D。",
+        "main": 0,
+        "index": 1
+    },
+    {
+        "错误维度": ["策略性"],
+        "典型表现": ["模式识别失败"],
+        "具体错误点": "学生未能识别此题考查“分点定理”或“向量分解”，直接用$\\overrightarrow{EB} = \\overrightarrow{AB}$计算，忽略中线和分点的多步推导过程，将答案选为$\\overrightarrow{AB}$，在选项中没有，最终无法给出具体答案或答案为空。",
+        "错误维度导致错误点出现原因": "学生缺乏对本题向量结构的整体把握，没有识别到题目隐藏的多层次分点和向量相加减模式，导致仅凭表面定义简单作答，得不出合理选项或放弃作答。",
+        "main": 1,
+        "index": 2
+    },
+    {
+        "错误维度": ["执行性"],
+        "典型表现": ["计算失误"],
+        "具体错误点": "学生推导到$\\overrightarrow{EB} = \\overrightarrow{AB} - \\frac{1}{2} \\overrightarrow{AD}$后，计算$\\overrightarrow{AD} = \\frac{1}{2}(\\overrightarrow{AB} + \\overrightarrow{AC})$时，由于笔误将$\\frac{1}{2}\\overrightarrow{AD}$误算为$\\frac{1}{4}\\overrightarrow{AB} + \\frac{1}{4}\\overrightarrow{AC}$，但减号写成加号，最后算出$\\frac{5}{4}\\overrightarrow{AB} + \\frac{1}{4}\\overrightarrow{AC}$，不在选项中。",
+        "错误维度导致错误点出现原因": "学生在转化分点公式和代数运算时，出现了加减符号记忆、搬运或计算上的失误，导致量值方向混乱，结果与选项均不符或直接选错。",
+        "main": 0,
+        "index": 3
+    },
+    {
+        "错误维度": ["知识性", "逻辑性"],
+        "典型表现": ["性质误记", "分类讨论不完备"],
+        "具体错误点": "学生记错中线分点公式，认为$D$是$BC$的三等分点（即$AD$三等分），$E$为其一分点，并且在推导$\\overrightarrow{EB}$时，未区分清$E$和$D$的具体位置关系，最后选B ($\\frac{1}{4}\\overrightarrow{AB} - \\frac{3}{4}\\overrightarrow{AC}$)。",
+        "错误维度导致错误点出现原因": "部分学生对“中线”及其分点的信息记忆混淆，以为中线将边三等分，缺乏精确知识；同时在处理$E$和$D$时的分类不清，未考虑中点的分布比例，导致两种思维缺陷共振，直接把选项B当成答案选出。",
+        "main": 0,
+        "index": 4
+    },
+    {
+        "错误维度": ["策略性", "执行性"],
+        "典型表现": ["无法转化问题", "抄写错误"],
+        "具体错误点": "学生推导完$\\overrightarrow{EB}=\\overrightarrow{AB}-\\frac{1}{2}\\overrightarrow{AD}$，想将$\\overrightarrow{AD}$用$\\overrightarrow{AB},\\overrightarrow{AC}$表示时，中途没有分步拆解而是直接试图将所有向量加在一起，手算时把$\\overrightarrow{AB}$的系数3抄成了2，最后得到$\\frac{2}{4}\\overrightarrow{AB}-\\frac{1}{4}\\overrightarrow{AC}$，即$\\frac{1}{2}\\overrightarrow{AB}-\\frac{1}{4}\\overrightarrow{AC}$，未出现在选项中，答题卡留空。",
+        "错误维度导致错误点出现原因": "学生在解题策略上思路不清，无法合理拆解并顺序表达变量；加之书写和抄写不仔细，导致局部细节错误叠加，最后答案无法匹配选项或留空。",
+        "main": 0,
+        "index": 5
+    }
+]

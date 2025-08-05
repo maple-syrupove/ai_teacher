@@ -1,0 +1,1308 @@
+[
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "Failed to transform $f(x)$ into the simpler structure of $1+\\frac{2x+\\sin x}{x^2+1}$. Instead, they directly attempted to find the extrema by differentiating the original expression, but the derivation was complex and led to calculation errors, causing them to abandon the calculation and ultimately fail to provide a specific value for $M+m$.",
+        "reason_for_error": "The student lacks strategic experience and struggles to quickly perform structural transformations on complex fractional expressions. They did not choose an appropriate method of transformation, missing the opportunity to simplify the calculation and use the properties of the function (identifying the odd function component) to solve the problem. They got bogged down in tedious mechanical operations, which led to failure.",
+        "main": 1,
+        "index": 2,
+        "question_index": 10
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student did not correctly interpret the strict inequalities of set M ($-3 < x < 1$). Instead of selecting only the elements from N that fall strictly between -3 and 1, they included the endpoints in their consideration, leading to an incorrect intersection set.",
+        "reason_for_error": "The student lacks a holistic strategy for effectively narrowing down the scope and carefully comparing the members of the sets. They resort to rote application or template-based thinking, failing to clearly translate the interaction between a continuous interval and a discrete set of points, thus being unable to correctly select the elements of the intersection.",
+        "main": 1,
+        "index": 2,
+        "question_index": 113
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking",
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "When faced with finding $\\cos^2(\\alpha+\\frac{\\pi}{4})$, the student mechanically used the identity $\\cos^2A = 1-\\sin^2A$ to get $1-\\sin^2(\\alpha+\\frac{\\pi}{4})$. They then took the given $\\sin 2\\alpha = \\frac{2}{3}$ and substituted it directly, mistakenly assuming that $\\sin^2(\\alpha+\\frac{\\pi}{4})$ was somehow equivalent to $\\sin 2\\alpha$. This led to an inability to calculate the correct answer or an incorrect choice of C ($\\frac{1}{2}$).",
+        "reason_for_error": "The student failed to recognize the relationship between the expressions in the problem and the relevant trigonometric identities (e.g., power-reducing or co-function identities). Their problem-solving strategy remained at the level of superficial formula application without transforming the problem to an appropriate form. This led them to apply an invalid equivalence, getting stuck in a conceptual error, and ultimately guessing an answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 117
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not think to use the definition method (analyzing $f(-x)$ and $g(-x)$) to check each option directly. Instead, they relied on intuition and chose D, incorrectly assuming that $|f(x)\\cdot g(x)|$ is an odd function.",
+        "reason_for_error": "The student lacks familiarity with the standard strategy for parity problems, which involves using the definitions of odd and even functions for direct substitution and analysis. They failed to recognize that the question requires verifying each option systematically rather than making an intuitive judgment, leading to the incorrect selection of D.",
+        "main": 1,
+        "index": 2,
+        "question_index": 124
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student incorrectly viewed $k$ and $x$ as independent in the inequality $f'(x) = k - 1/x \\geq 0$. They mistakenly assumed that $k$ must simply be greater than 0, leading to the incorrect conclusion $k > 0$, which did not match any options, or led to a random guess.",
+        "reason_for_error": "The student failed to correctly identify the problem-solving pattern. They did not understand the meaning of the condition 'holds for all $x > 1$', which requires finding a bound for $k$ over the entire interval. Instead, they applied a superficial treatment, leading to a failure to properly conduct the parameter analysis for the interval and an incorrect conclusion.",
+        "main": 1,
+        "index": 2,
+        "question_index": 134
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to recognize the classic pattern of a Pythagorean triple, not realizing that (3,4,5) is the only combination among the choices that satisfies $a^2+b^2=c^2$. They mechanically tried to test all combinations, thought there might be multiple correct sets, and incorrectly chose A (3/10).",
+        "reason_for_error": "When faced with the combination problem, the student lacked the strategy to recognize special numerical combinations (Pythagorean triples) and did not proactively use the formula to test them. After trying all combinations, their unclear thinking led them to believe there were multiple valid answers when only (3,4,5) works, resulting in the wrong choice.",
+        "main": 1,
+        "index": 2,
+        "question_index": 138
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student failed to think of using the identity $\\sin \\theta = \\cos(\\theta - \\frac{\\pi}{2})$ to convert the two functions into the same type of trigonometric function. This made it impossible for them to set up a correct equation, leading them to either give up or state that '\\phi cannot be solved'.",
+        "reason_for_error": "When faced with different forms of trigonometric functions, the student did not recognize that they could be converted into the same form for comparison. This lack of a holistic strategy and structural thinking led to a failure in problem transformation, preventing them from finding an effective solution path.",
+        "main": 1,
+        "index": 2,
+        "question_index": 16
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student misunderstood the intersection of A and B, mechanically taking the condition $x<2$ from set A and applying it incorrectly, resulting in $A \\cap B = \\{x | x<2\\}$. Since this was not an option, they ultimately chose B, '∅'.",
+        "reason_for_error": "The student did not standardize the inequality for set B before finding the intersection. Instead, they mechanically applied the idea of 'taking the part that satisfies both conditions' without a strategic approach. They failed to simplify the problem to a comparison of specific numerical ranges, leading them to incorrectly choose the empty set (∅), which demonstrates a rigid problem-solving strategy and a disregard for the problem's actual structure.",
+        "main": 1,
+        "index": 2,
+        "question_index": 173
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "Upon seeing the terms $i$ and $(1+i)$ in the question, the student relied on the flawed heuristic that 'if it has i, it must be a purely imaginary number' and immediately chose option A, $i(1+i)^2$, without actually performing the expansion and calculation to verify each option.",
+        "reason_for_error": "The student lacks a holistic view and control over the solution path. They fail to combine calculation with definition for verification, habitually relying on empirical judgment rather than step-by-step reasoning. They did not transform the problem into an algebraic calculation to compare the real and imaginary parts.",
+        "main": 1,
+        "index": 2,
+        "question_index": 175
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to recognize that the function could be analyzed as a composite function $f(x) = \\ln t$ (where one first determines the domain of t and then its monotonicity). Instead, they directly differentiated the entire function $f(x)$ and set the derivative to be greater than zero, which led them to the increasing interval $x>1$ (choosing C) while ignoring the domain constraint.",
+        "reason_for_error": "The student did not adopt the optimal strategy of 'first determine the domain, then determine monotonicity'. They lacked the thinking to effectively break down a complex problem, leading them to use a mechanical algorithm instead of a reasoned analysis, resulting in the omission of interval constraints.",
+        "main": 1,
+        "index": 2,
+        "question_index": 182
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to recognize that the problem involves the section formula or vector decomposition. They directly assumed $\\overrightarrow{EB} = \\overrightarrow{AB}$, ignoring the multi-step derivation process involving the median and midpoints. They then found their answer wasn't an option and were unable to provide a specific answer or left it blank.",
+        "reason_for_error": "The student lacked a holistic understanding of the vector structure in this problem. They did not recognize the hidden multi-level section points and the vector addition/subtraction pattern required. This led them to provide a simplistic answer based only on superficial definitions, resulting in an inability to find a reasonable option or abandoning the question.",
+        "main": 1,
+        "index": 2,
+        "question_index": 197
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student failed to understand how to translate the integral into a probability using the 'random simulation' method. They wrote $S \\approx \\int_0^1 f(x) dx$ as the answer, without providing the probability expression from the simulation.",
+        "reason_for_error": "The student did not reason from the nature of the 'random simulation' tool presented in the problem. They defaulted to an analytical method, failing to grasp the 'dimensionality reduction' strategy (i.e., using the hit rate of points to approximate the area). This led them to write down the integral expression instead of $\\frac{N_1}{N}$, revealing a uni-dimensional problem-solving strategy and a lack of pattern recognition.",
+        "main": 1,
+        "index": 2,
+        "question_index": 1
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When encountering a set problem, the student mechanically applied the rule 'intersection = elements that appear in both sets'. However, they did not understand the definition of A, and simply selected all elements of B that seemed plausible, incorrectly choosing D ({0,1,2}) without detailed analysis.",
+        "reason_for_error": "The student did not flexibly analyze the definition and actual range of set A. Instead, they rigidly applied a standard template, ignoring that the given conditions required special handling. This demonstrates a lack of effective strategy and a poor grasp of the problem's overall structure, which is common in set theory problems.",
+        "main": 1,
+        "index": 2,
+        "question_index": 208
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student assumed that after person A chooses a color, person B can only choose from the remaining two colors. Consequently, they set the denominator to 6 and the numerator to 3, getting an answer of $\\frac{3}{6}=\\frac{1}{2}$.",
+        "reason_for_error": "The student incorrectly identified the problem as 'drawing twice from 3 balls without replacement'. They did not realize that A and B choose independently, which is a 'with replacement' scenario. The total number of possibilities should be 3×3=9. Strategically, they failed to establish the correct model, leading to a misunderstanding of the problem structure and an incorrect answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 20
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student did not express the area of the triangle in the form 'base × height / 2'. They incorrectly used the vector cross product formula S=1/2|AB×AP| but failed to successfully express the relationship between AP and AB, calculating a chaotic range of [0,4].",
+        "reason_for_error": "The student failed to transform the problem of finding the area of triangle ABP into the simpler form of '(length of base AB) × (distance from point P to line AB) / 2'. Instead, they used a more complex vector method with cumbersome expressions, leading to a confused calculation. This shows an inability to flexibly choose methods and a lack of strategic ability to grasp and transform the problem.",
+        "main": 1,
+        "index": 2,
+        "question_index": 214
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to recognize that the condition $(a-b) \\perp b$ should be converted to the dot product $(a-b)\\cdot b=0$. Instead, they only focused on the magnitude condition, substituting $|a|=2|b|$ into a nonexistent formula like cosθ=|a|/|b|, which directly yielded cosθ=2. Since this didn't correspond to any option, they left the answer blank or guessed randomly.",
+        "reason_for_error": "The student did not realize that the vector perpendicularity condition could be translated into the pattern of the dot product being zero, nor did they connect the two given conditions. This strategic deficit hindered problem transformation, pattern recognition, and procedural advancement, ultimately making a scientific approach impossible and leading them to misapply formulas based only on superficial information.",
+        "main": 1,
+        "index": 2,
+        "question_index": 222
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When the student couldn't directly compare the logarithmic values, they mechanically estimated all of them to be roughly 0.5, assumed they were similar, and then arbitrarily arranged them based on intuition, choosing C ($b < c < a$).",
+        "reason_for_error": "The student lacks a holistic view and doesn't know that logarithmic values can be quantitatively compared using techniques like basic inequalities, the change of base formula, or conversion to exponential form. They habitually use empirical, routine mental math instead of scientific methods, leading to a completely wrong sequence.",
+        "main": 1,
+        "index": 2,
+        "question_index": 252
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking",
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "After getting the problem, the student immediately used the Law of Cosines to solve for side $a$ instead of side $c$, setting up $a^2 = b^2 + c^2 - 2bc\\cos A$. However, since $\\cos A$ was unknown, they were unable to proceed, ultimately leaving the answer blank or randomly choosing A, $\\sqrt{5}$.",
+        "reason_for_error": "The student did not assess the problem's conditions and goal holistically and failed to choose the rational strategy of starting with the known angle C. They blindly applied a familiar formula without being able to advance, a common issue for students with inflexible problem-solving methods and weak problem transformation skills.",
+        "main": 1,
+        "index": 2,
+        "question_index": 253
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student only checked the symmetry of $f(x)$ with respect to the line $x=\\pi$. They found that $f(\\pi-x)=\\sin(\\pi-x)+\\frac{1}{\\sin(\\pi-x)}=\\sin x+\\frac{1}{\\sin x}=f(x)$ and therefore chose C.",
+        "reason_for_error": "The student failed to conduct a holistic review of all options. They only verified option C (symmetry about $x=\\pi$) and did not proceed to verify option D, or they overlooked the need to identify the correct axis of symmetry. This led them to make a hasty choice based on a partially correct derivation, ultimately selecting the wrong answer, C.",
+        "main": 1,
+        "index": 2,
+        "question_index": 254
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "Initially, the student did not translate the problem into one about the minimum chord length related to the line connecting the point and the circle's center. They tried to solve for the chord length by brute force, setting up an equation for a line passing through (1,2) and intersecting the circle, ignoring the geometric constraints. The calculation was tedious and they ultimately failed to find a clear minimum value, choosing C (3) perhaps by considering the diameter.",
+        "reason_for_error": "The student failed to recognize the key strategy that the 'minimum chord length through a fixed point' occurs when the chord is perpendicular to the line connecting the point and the circle's center. This led them to use a primitive, unplanned method. They might have picked a special line, like one passing through the center, found the chord length would be the diameter (6), and then arbitrarily chose C (3) from the options. This reflects an inappropriate strategy.",
+        "main": 1,
+        "index": 2,
+        "question_index": 257
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to identify the key common factor $1+q+q^2$ by relating the two given sums. Instead, they set up unknowns for $a_1, a_2, a_3, a_4$ and created a system of equations $a_1 + a_2 + a_3 = 1, a_2 + a_3 + a_4 = 2$. They were unable to solve for the individual terms or the ratio, making it impossible to calculate $a_6 + a_7 + a_8$, and ultimately gave up.",
+        "reason_for_error": "This is because the student did not notice that the problem tests the 'analogous structure of consecutive three-term sums' in a geometric sequence. They failed to apply the pattern of 'multiplicative progression' and instead incorrectly resorted to enumerating unknowns, which could not be solved for the final answer. This was a strategic error in choosing the solution method.",
+        "main": 1,
+        "index": 2,
+        "question_index": 259
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student only remembered how to calculate the distance from a point to the origin. They directly calculated the distance from (3,0) to the origin (0,0), getting $\\sqrt{9+0}=3$. This answer did not match any of the options, so they either gave up or left it blank.",
+        "reason_for_error": "The student did not transform the problem into the 'point-to-line distance' pattern. They mechanically applied a method from a commonly practiced problem type, calculating only the distance between the point and the origin without carefully analyzing the specific problem scenario, thus failing to obtain a correct option.",
+        "main": 1,
+        "index": 2,
+        "question_index": 274
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not apply the measurement method of geometric probability. They directly used a combinatorial approach, treating the intervals \\( (0, \\frac{1}{3}) \\) and \\( (0, \\frac{1}{2}) \\) as if they were 'picking integers'. They misused a fractional method to get \\( p = \\frac{1}{2} \\), which was not among the answers.",
+        "reason_for_error": "The student failed to recognize that this is a continuous geometric probability problem and mechanically applied a discrete probability model. They incorrectly assumed the probability equals 'number of events / total number', missing the correct path of using measures (lengths) and calculation.",
+        "main": 1,
+        "index": 2,
+        "question_index": 284
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student mechanically applied a formula for the extrema of trigonometric functions, misinterpreting f(x) as being in the form A sin x + B cos x + C. They directly used formulas for max/min like sqrt(A^2+B^2)+C, substituting A=1, B=1, and C=x+1, but then took C=0, only considering the max/min of the trig part to be -1 and 1, incorrectly choosing A (-π/2, π/2).",
+        "reason_for_error": "The student blindly applied a familiar formula for the max/min of linear combinations of sine and cosine, ignoring the structural characteristics of the actual problem, such as the (x+1) coefficient which depends on the variable. This lack of case-by-case analysis demonstrates a rigid thinking strategy, leading to a fundamental misjudgment.",
+        "main": 1,
+        "index": 2,
+        "question_index": 295
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "In sub-question (3), the student did not consider stratified sampling. They just mechanically repeated 'use simple random sampling to continue estimating the proportion' as a better survey method, failing to propose stratified sampling or a similar targeted improvement.",
+        "reason_for_error": "The student failed to think outside the conventional framework of the given information. They did not flexibly adjust the survey design based on the statistical inference from part (2). This shows a lack of ability to dynamically adjust sampling strategies based on conditions, instead just mechanically copying the method given in the problem, thus losing a holistic perspective and a better solution path.",
+        "main": 1,
+        "index": 2,
+        "question_index": 305
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "For both $C_2$ and $C_3$, the student only substituted special angles (like $\\theta=\\frac{\\pi}{2}$ and $\\theta=0$) and did not solve the two equations simultaneously. This led them to find only the intersection point $(0,2)$, missing $(0,0)$ and $\\left(\\frac{\\sqrt{3}}{2}, \\frac{3}{2}\\right)$.",
+        "reason_for_error": "The student habitually used an empirical method, relying only on common special angle values, and failed to recognize that this problem required a complete solution by solving the system of equations. Due to a lack of a holistic approach and strategy, they only found a partial answer, missing most or all of the intersection points.",
+        "main": 1,
+        "index": 2,
+        "question_index": 340
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "When encountering the relation $a_n b_{n+1} + b_{n+1} = n b_n$, the student did not try to substitute the general term for $a_n$. Instead, they fixated on the known values $b_1=1, b_2=\\frac{1}{3}$ and were unable to deduce a pattern from the recurrence. They ultimately concluded incorrectly that a general term for $b_n$ could not be found, and thus could not provide the sum of the first $n$ terms.",
+        "reason_for_error": "The student lacks the strategic awareness to simplify, transform, or convert a complex recurrence into a manageable geometric (or arithmetic) sequence. They failed to proactively incorporate all related variables from the problem into the recurrence formula. This strategic shortcoming caused the recurrence relation to remain in its original complex state, leaving them unable to find a breakthrough point and losing their direction for solving the problem.",
+        "main": 1,
+        "index": 2,
+        "question_index": 342
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "In the second part, the student relied solely on the function's derivative (monotonicity) to determine if $f(x)>0$. They did not think to directly transform the inequality $f(x)>0$ into $a<\\frac{(x+1)\\ln x}{x-1}$ for analysis. This prevented them from using limits to find the bound, making the solution more difficult and ultimately resulting in an inability to conclude that $a \\leq 2$ or provide a specific answer.",
+        "reason_for_error": "The student lacks strategy and has a rigid approach to problem-solving. They singularly rely on differentiation and monotonicity analysis, overlooking the direct transformation of the inequality's structure and the path of limit analysis. This shows an inability to change perspective and innovate strategies in complex problems, which is a typical strategic error and a frequently occurring issue in practice.",
+        "main": 1,
+        "index": 2,
+        "question_index": 347
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "In the second part, the student only used the traditional distance formula d=|ax+by+c|/sqrt(a^2+b^2) to find the point-to-line distance. They directly used the ellipse's center (0,0) as point P for the calculation, obtaining |0+0-4|/sqrt(2)=2\\sqrt{2} as the minimum distance |PQ|.",
+        "reason_for_error": "The student lacks a holistic view and the ability to transform the problem. They didn't realize that for this minimum distance problem, point P must be a moving point on the ellipse C1, not fixed at the origin. Their solution did not include a dynamic analysis of the geometric conditions and variables, leading them to simply misapply the point-to-line distance formula to the wrong point. This resulted in the incorrect answer 2\\sqrt{2}, which is inconsistent with the analytical structure. This rigid thinking is a typical strategic error.",
+        "main": 1,
+        "index": 2,
+        "question_index": 352
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When calculating the mean after removing the outlier in part (2)(ii), the student simply used the original mean of 9.97 as the answer, without realizing the need to adjust and recalculate (the correct answer is 10.02).",
+        "reason_for_error": "The student lacks a holistic view and mechanically reused the old result instead of recalculating the data as required by the problem. Their thinking process is fixed, and they paid no attention to conceptual changes (such as how a change in sample size affects the mean and variance). This is a common form of strategic rigidity where steps are ignored.",
+        "main": 1,
+        "index": 2,
+        "question_index": 355
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "In question (1), the student treated the six temperature intervals as equally likely, mistakenly assuming the probability for each interval is 1/6. They then incorrectly calculated the probability of demand not exceeding 300 bottles as (2+16+36)/6/90=54/540=0.1.",
+        "reason_for_error": "The student did not realize that the frequency distribution table shows actual day counts, not an equiprobable interval distribution. They failed to correctly apply the idea of 'estimating probability from frequency' and instead rigidly applied an incorrect 'equiprobable interval' strategy. This reflects a deficiency in identifying the nature of the problem and its data, leading to a flawed choice of problem-solving strategy.",
+        "main": 1,
+        "index": 2,
+        "question_index": 364
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "After solving $q^2=4$ to get $q=2$, the student did not consider the other possibility $q=-2$. They directly assumed $a_n=2^{n-1}$ was the only answer and missed $a_n=(-2)^{n-1}$.",
+        "reason_for_error": "The student's problem-solving strategy is one-dimensional. They lack sensitivity to the possibility of a geometric sequence having a negative common ratio and only followed a routine procedure without considering all possibilities. This reflects a strategic-level problem: a routinized approach to solving problems.",
+        "main": 1,
+        "index": 2,
+        "question_index": 376
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking, Failure in pattern recognition"
+        ],
+        "specific_error_point": "In question (1), the student calculated the overall satisfaction probability, $\\frac{70}{100}=0.7$, without calculating the satisfaction probabilities for male and female customers separately. They answered, 'the satisfaction probability for all customers is 0.7', failing to provide the grouped probabilities.",
+        "reason_for_error": "The student failed to carefully read the prompt, not recognizing the intention to perform a grouped statistical analysis ('male and female customers, respectively'). They were constrained by the common pattern of calculating an overall statistic, which prevented them from correctly transforming the problem into one of grouped probabilities. This is a typical lack of problem-solving strategy.",
+        "main": 1,
+        "index": 2,
+        "question_index": 378
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "Despite knowing $AD$ and $\\angle ADB$, but not the specific values of $AB$ and $AC$, the student just substituted unknowns into the formulas. They lacked the holistic approach to use the relationships $BC=3BD$ and $AC=\\sqrt{2}AB$ for substitution, causing the solution to stall, and no result was produced.",
+        "reason_for_error": "The student failed to recognize the 'transformation relationships' between the conditions in the problem (such as the crucial clue that $CD=2BD$ allows for variable substitution). Instead, they got bogged down in the details of formula calculation, lacking the strategic ability to integrate the problem as a whole, thus reaching a stalemate.",
+        "main": 1,
+        "index": 2,
+        "question_index": 3
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking",
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "In part (2), the student substituted the expression for $b$ or $c$ from $b-c=\\frac{\\sqrt{3}}{3} a$ directly into the Law of Cosines. They did not analyze the relationship between the three sides holistically, and after mechanical substitution, they were unable to derive the required conclusion, leading to the incorrect statement that 'there is not enough information to prove it is a right triangle'.",
+        "reason_for_error": "The student did not grasp the essential quantitative relationships among $a, b, c$ and did not flexibly use trigonometric identities or geometric meaning. This resulted in a lack of a global perspective during the proof, relying only on local substitution, and ultimately concluding that the proof was impossible. The problem is solvable; the student simply failed to choose an appropriate problem-solving strategy.",
+        "main": 1,
+        "index": 2,
+        "question_index": 401
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "In part (2), the student did not realize they could use the standard parametric form of a circle (x=a+r cosθ, y=b+r sinθ). Instead, they attempted to directly eliminate the parameter θ, failed to obtain the parametric equation for the locus of P, and got stuck in a complicated calculation.",
+        "reason_for_error": "The student lacks experience in solving this type of locus problem using parametric equations. They failed to recognize that the parametric equation could be directly written in the standard form of a circle, which greatly increased the difficulty. The choice of a poor strategy prevented them from successfully finding the locus.",
+        "main": 1,
+        "index": 2,
+        "question_index": 411
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student saw the given magnitudes $|\\vec{a}|=1$ and $|2 \\vec{a}-\\vec{b}|=\\sqrt{10}$ but failed to think of using the given angle and the dot product expression to relate $\\vec{a}\\cdot\\vec{b}$ with $|\\vec{b}|$. They just arbitrarily assumed $|\\vec{b}|=x$ without incorporating all the conditions, which made the equation unsolvable, and they were unable to provide a specific answer.",
+        "reason_for_error": "The student lacks the ability to recognize the overall pattern of this type of problem and failed to see that fully utilizing the 'angle' condition in conjunction with vector formulas is the effective solution path. Instead, they attempted linear equations or brute-force expansion, getting stuck in tedious work or abandoning the problem. Their strategic thinking failed to establish a reasonable problem-solving model from the start, thus preventing them from reaching the correct solution.",
+        "main": 1,
+        "index": 2,
+        "question_index": 432
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not apply the properties of the dot product and the information that $\\vec{a}, \\vec{b}$ are unit vectors with an angle of 60° between them. After expanding the dot product of $\\vec{c}$ and $\\vec{b}$, they mistakenly thought that $t$ could not be eliminated and gave up, answering 'cannot be determined' or leaving it blank.",
+        "reason_for_error": "The student failed to recognize the need to express $\\vec{a}\\cdot\\vec{b}$ using the cosine of the angle, nor did they realize that unit vectors provide simplifying conditions like $\\vec{b}^2=1$. Due to a lack of effective pattern recognition and a holistic view of the problem, they got stuck in aimless calculations and could not solve it.",
+        "main": 1,
+        "index": 2,
+        "question_index": 434
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student directly used the formula $\\sin\\theta+\\cos\\theta=\\sqrt{2}\\sin(\\theta+\\frac{\\pi}{4})$, then set $\\sin(\\theta+\\frac{\\pi}{4})$ equal to $\\frac{1}{\\sqrt{5}}$ (derived from $\\tan(\\theta+\\frac{\\pi}{4})=\\frac{1}{2}$), resulting in $\\sin\\theta+\\cos\\theta = \\sqrt{2} \\times \\frac{1}{\\sqrt{5}}=\\frac{\\sqrt{10}}{5}$.",
+        "reason_for_error": "The student attempted to use the R-formula to simplify the calculation but ignored what the value of $\\sin(\\theta+\\frac{\\pi}{4})$ actually was and whether it was appropriate to substitute the value of $\\tan(\\theta+\\frac{\\pi}{4})$. Lacking overall control and deep reasoning, they incorrectly equated the value of the tangent with the sine. This insufficient strategic thinking, failing to properly connect the given information with their chosen method, led their solution astray from the core of the problem, resulting in an incorrect answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 440
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not see $(x-y)(x+y)^8$ as $x$ and $-y$ each multiplying $(x+y)^8$. Instead, they tried to expand the whole expression at once, manually listing some terms, which resulted in them never finding the $x^2y^7$ term. This led to an inability to give a specific answer or just randomly writing 0.",
+        "reason_for_error": "The student failed to apply a standard decomposition strategy and could not correctly recognize the pattern of how the required term is formed. They only enumerated a few product terms sporadically, leading to an incorrect solution path.",
+        "main": 1,
+        "index": 2,
+        "question_index": 442
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student failed to realize the need to use the space diagonal to find the sphere's diameter. They directly used one of the edges (e.g., the length = 3) as the diameter, getting a radius of 1.5 and a surface area of $9\\pi$.",
+        "reason_for_error": "When solving the spatial geometry problem, the student failed to grasp that 'all vertices lie on the sphere's surface' implies that the space diagonal of the cuboid is the diameter of the sphere. They did not connect the problem's condition with the formula for the space diagonal. This was a strategic error, as they failed to make the necessary knowledge transformation.",
+        "main": 1,
+        "index": 2,
+        "question_index": 44
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "Seeing $\\sin^2 x$, the student stubbornly applied the completing the square technique, rewriting the function as $(\\sin x + \\frac{\\sqrt{3}}{2})^2 - 1$. However, they ignored the coefficients of the terms and incorrectly judged the maximum value to be $(1 + \\frac{\\sqrt{3}}{2})^2 - 1 \\approx (1.866)^2 - 1 \\approx 3.48 - 1 = 2.484$.",
+        "reason_for_error": "The student, without analysis, misapplied the familiar 'completing the square' routine. They did not consider that the coefficients did not match the pattern, leading to an incorrect expression and a wildly inaccurate result. This is a typical error caused by a mechanical problem-solving strategy and a lack of holistic analysis.",
+        "main": 1,
+        "index": 2,
+        "question_index": 465
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student did not derive the recurrence relation for the sequence by using both $S_n=2a_n+1$ and $S_{n-1}=2a_{n-1}+1$. Instead, they mechanically treated $S_n$ as an independent known formula and tried to substitute $n=6$, leading to $S_6 = 2a_6 + 1$. Since they couldn't calculate $a_6$, they were unable to provide a specific numerical answer.",
+        "reason_for_error": "The student rigidly focused on the given formula $S_n=2a_n+1$ and did not proactively think to transform or construct a recurrence relation (like using $S_n-S_{n-1}=a_n$). This led to a dead end when faced with the unknown $a_6$, causing their thought process to stall and preventing them from finding the correct answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 470
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student mistakenly assumed that the y-value of the function $y=2\\ln(x+1)$ at the point $(0,0)$ was the constant term of the tangent line equation, directly writing something like $y=2x+0.5$ as the answer.",
+        "reason_for_error": "The student failed to recognize this problem as a typical case of 'finding a tangent line equation using the derivative'. Instead, they incorrectly substituted an extreme value or a specific numerical value from the original function into the tangent line equation, causing their entire approach to deviate from the standard solution path. This lack of strategy led the entire problem-solving process astray.",
+        "main": 1,
+        "index": 2,
+        "question_index": 473
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student used the slope of AB, which is 3, and incorrectly assumed the coordinates were $A(a,0)$ and $B(a,3a)$. They then substituted this into the hyperbola equation to check, resulting in $\\frac{a^2}{a^2} - \\frac{(3a)^2}{b^2}=1$, which solved to $b^2=-4a^2$. They were unable to obtain reasonable parameters and gave up, failing to provide a specific answer for the eccentricity.",
+        "reason_for_error": "The student failed to use all the constraints of the problem ('BF is perpendicular to the x-axis', 'B is on the hyperbola') in an integrated way. This led them to incorrectly use the slope directly as a ratio of coordinates, not understanding that the coordinates of a point on a hyperbola must simultaneously satisfy its equation. This strategic deficit prevented them from advancing the solution process.",
+        "main": 1,
+        "index": 2,
+        "question_index": 492
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student only focused on the magnitudes, ignoring the condition on the sum of z1 and z2. Based on |z1|=|z2|=2, they incorrectly concluded that |z1 - z2|=2.",
+        "reason_for_error": "The student lacked a holistic analysis of the problem, failing to combine the two given conditions (on the modulus and the sum). They focused only on partial information, randomly choosing a typical value without checking if it satisfied all the problem's constraints. This led them to fail in finding the correct distance between the vectors, simply giving the typical value of 2 as the answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 495
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to simplify the circle's equation $x^2 + y^2 - 4y + 3=0$ by completing the square. They treated it as if the center was at (0,0) with a radius of √3, and continued with the subsequent derivation, obtaining an incorrect value of m=1/2.",
+        "reason_for_error": "The student did not recognize that simplifying the circle equation (by completing the square) was a necessary first step. They ignored the $y^2 - 4y$ term that needed completing, leading to incorrect determinations of both the center and radius. Their solution path was influenced by inertia, mechanically applying a 'standard circle' routine without analyzing the structure of the given equation. This is a very common and critical error that affects the final result.",
+        "main": 1,
+        "index": 2,
+        "question_index": 505
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "When calculating A∩B, the student failed to recognize that the intersection is the set of integers from A that are also within the range of B. They just selected all numbers (including decimals) from A that satisfy |x|≤2, such as choosing [0,2] or (0,2), failing to give the correct discrete set {0,1,2}.",
+        "reason_for_error": "The student did not choose the standard path of 'first find each set, then find the intersection'. Instead, upon seeing the absolute value and the square root, they mechanically applied rules, ignoring the element types (integers vs. reals) and the meaning of intersection itself. This was a failure in strategy selection.",
+        "main": 1,
+        "index": 2,
+        "question_index": 507
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student attempted to enumerate all possible values of $x$, but the enumeration was not systematic, and they missed some valid pairs, such as $x=3, y=1$. They only found 4 pairs, such as (2,1), (3,2), (4,3), (5,4), and incorrectly chose A (3).",
+        "reason_for_error": "The student did not establish an effective and exhaustive search strategy. Instead, they thought sporadically and locally, failing to list all possible values of $y$ for each value of $x$. This lack of a holistic view and strategic awareness led to the omission of many solutions.",
+        "main": 1,
+        "index": 2,
+        "question_index": 524
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not connect the concept of the union of sets with interval coverage. They mistakenly assumed that $A \\cup B$ could not be equal to $R$ and did not choose the correct answer, B.",
+        "reason_for_error": "The student failed to realize that this problem could be simplified by using the key interval coverage method (checking if $A \\cup B$ can cover the entire set of real numbers). They lacked a holistic view for effectively integrating and analyzing disjoint intervals, causing them to miss the most efficient problem-solving strategy and ultimately not selecting the correct answer, B.",
+        "main": 1,
+        "index": 2,
+        "question_index": 530
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Relying on experience to choose answer without calculation"
+        ],
+        "specific_error_point": "The student assumed that the asymptotes of a hyperbola should always be $y=\\pm x$ and directly chose option C, without attempting to use the given eccentricity condition to perform the calculation.",
+        "reason_for_error": "The student relied on a superficial memory of a specific type of routine problem, only knowing that the asymptotes are $y=\\pm x$ in the standard case where $a=b$. They lacked the initiative to analyze and transform the problem according to the given conditions and ignored the crucial information that 'the eccentricity is $\\frac{\\sqrt{5}}{2}$'. This inappropriate strategy led to the direct selection of the wrong answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 533
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student mechanically expanded (1 + a x) first to get 1 + a x, and then expanded (1 + x)^5. However, when finding the coefficient of x^2, they only considered the direct correspondence of x^2 terms, completely ignoring the multi-path combination of multiplying two terms to get x^2. This led them to incorrectly solve for a=0 or being unable to solve for a.",
+        "reason_for_error": "The student lacks a holistic view and failed to effectively analyze all possible strategies to obtain the x^2 term. They only used the routine method of 'picking the coefficient', failing to flexibly consider the combination of coefficients from the binomial product. This prevented them from correctly constructing the equation and ultimately got them lost in their thought process.",
+        "main": 1,
+        "index": 2,
+        "question_index": 542
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When the student saw the given equation \\( \\tan(\\alpha - \\frac{5\\pi}{4}) = \\frac{1}{5} \\), they didn't think of using the addition formula to transform and solve it. Instead, they directly added \\( \\frac{5\\pi}{4} \\) to both sides, getting \\( \\tan\\alpha = \\tan(\\frac{1}{5} + \\frac{5\\pi}{4}) \\), and incorrectly output this expression (which cannot be simplified to a numerical answer).",
+        "reason_for_error": "The student only knows the most direct inverse operation steps and cannot convert the expression into an equivalent form suitable for simplification. They don't know how to transform \\( \\alpha - \\frac{5\\pi}{4} \\) using the tangent addition formula, lacking a flexible problem-solving strategy for trigonometric identity transformations. They mechanically perform a formal 'addition', which prevents them from reaching a correct numerical answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 54
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not know how to convert the probability conditions in the problem into an algebraic equation to solve it. They were unable to set up an equation and ultimately could not provide a specific answer.",
+        "reason_for_error": "The student failed to recognize that the problem involves the standard model for conditional probability. They also did not recall the method for finding a conditional probability when a joint probability and a marginal probability are known. Therefore, their problem-solving strategy was deficient, leading to a standstill.",
+        "main": 1,
+        "index": 2,
+        "question_index": 556
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "Upon seeing $x^5 y^2$ in the expansion, the student mistakenly converted the problem into an $(a+b)^n$ type, directly calculating with the binomial theorem to get a coefficient of C_5^2 = 10, which is option A.",
+        "reason_for_error": "In choosing a problem-solving strategy, the student did not recognize that this was a trinomial (and one containing a higher power, x^2). They misapplied the binomial theorem, failing to effectively transform the problem or decompose its structure, indicating insufficient strategic thinking.",
+        "main": 1,
+        "index": 2,
+        "question_index": 565
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student substituted the three point coordinates directly into the standard form of a circle's equation, $(x-a)^2 + (y-b)^2 = r^2$. They then tried to list three equations with three unknowns (a, b, r), which involves a large amount of tedious calculation and is prone to errors. They made a mistake during the process and got the wrong answer, 8 (corresponding to option B).",
+        "reason_for_error": "The student failed to recognize that using the general form of the equation is more convenient for eliminating variables and solving the system. They also failed to identify a simpler path for elimination, stubbornly using the complex standard form, which led to inefficient and tedious calculations that are prone to errors. The overall choice of problem-solving strategy was poor.",
+        "main": 1,
+        "index": 2,
+        "question_index": 570
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to realize the need to transform $\\sin 2\\alpha$ into the form $\\cos 2(\\frac{\\pi}{4} - \\alpha)$. They tried to use the formula $\\sin 2\\alpha = 2\\sin\\alpha\\cos\\alpha$ directly, but were unable to obtain the values for sine and cosine from the given information, ultimately giving up or answering 'cannot be determined'.",
+        "reason_for_error": "The student lacked a holistic grasp of the relationship between the given special quantity and the target expression. They failed to recognize the conversion path and the key identity, causing their problem-solving strategy to fail. As a result, they could not solve the problem or eliminate the options.",
+        "main": 1,
+        "index": 2,
+        "question_index": 582
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not realize the need to find the minimum of the triangular base's inradius and half the prism's height. They directly used a formula for a circumscribed sphere, V = (4/3)π·(AA_1/2)^3 = (4/3)π·(3/2)^3 = (9/2)π. Although the numerical value is the same as option B, the process did not correctly understand the core of the problem, and would be wrong if the parameters were changed.",
+        "reason_for_error": "The student was unable to extract the correct problem-solving model. They only remembered and applied a superficial formula from a common problem type, without understanding the substance of this problem—that the inscribed sphere is constrained by both the base and the height. They did not perform the key strategic analysis and just performed a mechanical calculation.",
+        "main": 1,
+        "index": 2,
+        "question_index": 587
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When finding the tangent line equation, the student mechanically applied the point-slope form $y-y_0=k(x-x_0)$, incorrectly setting $k$ to be the coefficient '3' from the original function instead of calculating the derivative first. They wrote the equation as $y=3x$ or even $y=3(x^2 + x)$.",
+        "reason_for_error": "The student lacks a holistic problem-solving strategy, not realizing that finding a tangent line requires first finding the derivative and then evaluating it at the point. Due to rigid thinking, they saw the '3' and just used it, failing to distinguish when to use the derivative versus the original function. This led to a loss of logical connection between the steps of the problem.",
+        "main": 1,
+        "index": 2,
+        "question_index": 59
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student incorrectly treated point E as the midpoint of BC, using a memorized (but incorrect for this context) formula like EB=\\frac{1}{2}(\\overrightarrow{AB} + \\overrightarrow{AC}), leading to an incorrect choice like D.",
+        "reason_for_error": "The student did not correctly parse the compound relationship between the midpoint and the median in the problem. Strategically, they did not perform a step-by-step transformation and simply applied a template, causing them to ignore the structural progression from BC to AD and choose the wrong answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 617
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student mistakenly equated the dot product '\\overrightarrow{FM} \\bullet \\overrightarrow{FN}' with the product of the distances from M to F and N to F, calculating it as (2)×(5)=10, and chose A.",
+        "reason_for_error": "The student failed to recognize that the problem asks for the vector dot product, not the product of magnitudes (distances). They classified this problem into the wrong template, leading to an incorrect application of formulas. This stems from a strategic thinking deficit—inadequate identification of the problem's core concept.",
+        "main": 1,
+        "index": 2,
+        "question_index": 618
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to systematically enumerate all pairs of primes. Instead, they intuitively chose a couple of seemingly possible pairs like (5,25), and didn't reconsider their approach even after realizing 25 is not prime. This led them to find only one valid pair, resulting in a probability of P=1/45, and choosing option A.",
+        "reason_for_error": "The student lacks a systematic enumeration and induction strategy, exhibiting behavior based on feeling or partial verification. They failed to identify all the prime pairs that meet the requirement, leading to an undercounting of successful outcomes and a probability that is clearly too small.",
+        "main": 1,
+        "index": 2,
+        "question_index": 625
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform complex expressions"
+        ],
+        "specific_error_point": "The student did not know how to transform $c=0.2^{0.3}$ into $e^{0.3\\ln 0.2}$ or compare it directly. They intuitively thought $c>1$ and ultimately chose option C, $c<a<b$.",
+        "reason_for_error": "The student did not employ more effective methods like converting the power to a logarithm or comparing its value to 1. Instead, they judged its magnitude based on superficial impressions, lacking a holistic and strategic problem-solving mindset, which led to a fundamental judgment error.",
+        "main": 1,
+        "index": 2,
+        "question_index": 639
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student chose D (α and β are perpendicular to the same plane), mistakenly believing that being perpendicular to the same plane implies parallelism between the two planes.",
+        "reason_for_error": "The student did not realize the question asks for the 'necessary and sufficient condition for parallel planes'. Instead, they directly applied a mechanical memory of spatial orientations. Their thinking was one-dimensional, they did not adjust their problem-solving strategy, and they failed to analyze the nature of necessary and sufficient conditions, leading them to choose a condition that is not determinative.",
+        "main": 1,
+        "index": 2,
+        "question_index": 649
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition",
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student did not realize they should unify all the logarithmic and exponential expressions into comparable numbers. They did not use change of base for the logarithm or convert the exponents, and instead tried to compare the sizes of $f(\\log_8 \\frac{1}{4})$, $f(2^{-2/3})$, and $f(2^{-3/2})$ directly, which made it impossible to determine the order, or led to the incorrect choice B.",
+        "reason_for_error": "The student could not effectively establish connections between the various mathematical expressions. They didn't realize that the change of base formula and exponent rules could simplify the problem. They lacked the strategy to unify the problem's components, which prevented them from making quantitative judgments or comparing the order of the function's inputs, thus missing the key step to the correct answer. This type of strategic deficit is very common.",
+        "main": 1,
+        "index": 2,
+        "question_index": 659
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student only performed detailed calculations for options A and C. After finding the results to be 0.65 and 1.05, they immediately chose C (assuming 1.05 was the largest), without realizing that option B actually had the largest standard deviation.",
+        "reason_for_error": "The student did not formulate a scientific problem-solving strategy and only made partial attempts. They lacked a comprehensive analysis of all options, causing them to miss the true maximum value. In actual exams, this phenomenon of only checking some of the options is very common.",
+        "main": 1,
+        "index": 2,
+        "question_index": 663
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student failed to abstract the problem into one of 'maximum demand' versus 'minimum distribution capacity'. Instead, they tried to use 'expected value', calculating (backlog 500 + avg new orders 1600×0.95 - 1200)/50 = 15.2, rounding to 15 people, and incorrectly choosing 'A. 10' or 'C. 24'.",
+        "reason_for_error": "The student failed to grasp the essence of the problem type, which requires planning for the 'worst-case scenario' under a probability guarantee. They confused this problem with expected value problems or misused an averaging approach, leading to an incorrect choice of method. This type of strategic error is very common and a high-frequency mistake in practice.",
+        "main": 1,
+        "index": 2,
+        "question_index": 682
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When determining the function's monotonicity, the student failed to flexibly use function transformations and the concept of composite function monotonicity. They only viewed f(x) as the difference of two logarithms, judged their monotonicity separately, and ultimately concluded incorrectly that f(x) is monotonically decreasing on (-1/2, 1/2), choosing option B.",
+        "reason_for_error": "The student lacked a holistic view of the function while solving. They did not appropriately decompose or combine f(x), nor did they introduce analytical tools like the derivative or composite monotonicity. They made a superficial judgment based on a partial decomposition of the function, leading to an incorrect strategic path. This is one of the most common and easily made errors by students, hence marked as main.",
+        "main": 1,
+        "index": 2,
+        "question_index": 686
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "Upon seeing 'sufficient' and 'necessary', the student mechanically recalled 'necessary and sufficient condition' = 'mutually conditional', and directly equated A and B, choosing C (A is a necessary and sufficient condition for B).",
+        "reason_for_error": "The student did not analyze the problem's conditions from the specific properties of a geometric sequence—especially the increasing nature of the sum of the first n terms. They just strategically applied a memorized template, without using typical examples for verification or counterexamples for exclusion, leading to a wrong choice of path.",
+        "main": 1,
+        "index": 2,
+        "question_index": 694
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student directly matched the 5 volunteers with the 4 projects one-to-one, thinking it was a permutation A_5^4=120, and chose B.",
+        "reason_for_error": "The student failed to accurately recognize that this problem requires first ensuring each project has at least 1 person, and then assigning the remaining person to any project. They did not use the 'first assign the mandatory, then assign the remainder' strategy, simply equating distribution with permutation, and lacked an effective global problem-solving strategy.",
+        "main": 1,
+        "index": 2,
+        "question_index": 703
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not know how to interpret the symbol '∂j M'. They completely skipped the reasoning to reconstruct the set and chose C based on intuition.",
+        "reason_for_error": "Upon seeing an unfamiliar symbol, the student did not attempt to analyze its structure and pattern, but rather gave up on reconstructing the set operation or finding the underlying pattern of the problem. They directly guessed an option, in this case incorrectly choosing C because 4 was unrelated to '∂j M'.",
+        "main": 1,
+        "index": 2,
+        "question_index": 707
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student used the wrong problem-solving strategy, directly substituting the four options (A to D) in place of $\\vec{a}\\cdot\\vec{b}$ and checking if $|\\vec{a}-2\\vec{b}|$ equals 3 for each. Due to the large and complex calculations, they ended up making a careless mistake or an intermediate error and chose B (-1) as the answer.",
+        "reason_for_error": "The student failed to grasp the structure of the vector algebraic expression. They did not know how to simplify and set up an unknown, instead relying on a brute-force method of substituting each option. This strategy is inefficient and prone to errors from fatigue or miscalculation, leading them to pick an incorrect answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 709
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student directly set up a system of two equations for A(x,y) to satisfy the parabola equation and the distance condition |AF|=|BF|. However, they only substituted y=0 to simplify the discussion, which led to A(1,0), and then |AB|=2.",
+        "reason_for_error": "The student lacked the insight to combine the conditions with the geometric properties of the parabola. Their strategy was one-dimensional, only considering the special case where A and B are on the same line. They ignored the possibility that A could be symmetrically distributed above or below the axis, and thus did not fully explore all valid points for A. They only calculated for y=0, leading to an incorrect result.",
+        "main": 1,
+        "index": 2,
+        "question_index": 711
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student did not realize they should compare c and b by transforming the problem into analyzing the ratio $\\frac{c}{b}=4\\tan \\frac{1}{4}$. Instead, they mechanically used a calculator to find approximate values for a, b, and c and then compare them, but a calculation error led them to choose option B ($b>a>c$).",
+        "reason_for_error": "The student lacks the ability to solve problems using variable transformation and simplification. They failed to grasp the core quantitative relationship and instead got bogged down in tedious algebraic calculations, leading to a judgment error. This reflects a one-dimensional problem-solving strategy and an inability to effectively simplify and handle comparison problems.",
+        "main": 1,
+        "index": 2,
+        "question_index": 720
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "When solving the second part, the student did not regroup the intervals. They copied the original table and assigned a profit to each of the five original groups separately, leading to a probability distribution for X with 5 possible values (instead of the correct 3 values: -2, 2, 4). The sum of probabilities was 1.00, but the distribution was incorrect.",
+        "reason_for_error": "The student lacked a holistic view and just mechanically matched the original intervals. They did not realize they needed to merge the quality index value groups to form a valid probability distribution for the profit. As a result, their classification and representation of the distribution relied entirely on intuition rather than in-depth analysis, leading to a structural error.",
+        "main": 1,
+        "index": 2,
+        "question_index": 727
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "After being given $a=2$ and area=$\\sqrt{3}$, the student did not think to use the Law of Cosines combined with the area formula to obtain values for $b+c$ and $bc$. Instead, they mechanically tried to use the Law of Sines to set up a system of equations, but lacked sufficient information to find specific values for $b$ and $c$, ultimately concluding that 'the answer is not unique' or 'it cannot be solved'.",
+        "reason_for_error": "The student lacks a holistic view and did not combine the area formula with the Law of Cosines to solve the problem. They are accustomed to using only a single method, which resulted in an incomplete system of equations, making the problem unsolvable.",
+        "main": 1,
+        "index": 2,
+        "question_index": 732
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "In question (II), the student failed to think of using the relationship between roots and coefficients and the slope formula to deduce the coordinates of point P. Instead, they attempted a tedious method of directly setting up the geometry of the angle bisector, which made it impossible to calculate a specific value for $b$. This resulted in them not finding P(0,-a) or getting stuck in the process.",
+        "reason_for_error": "The student is not adept at transforming the problem, simplifying the algebraic relationship to a connection between the slope and the roots and coefficients. This led them to choose an inefficient or dead-end path when dealing with complex mixed algebraic and geometric reasoning, resulting in an unsolved problem.",
+        "main": 1,
+        "index": 2,
+        "question_index": 755
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "In part (II), the student failed to connect $g(x)$ with the function $f(x)=\\frac{x-2}{x+2}e^{x}$ from part (I). They directly differentiated $g(x)$ and performed a complex calculation, which did not simplify the derivation. The result remained at $g'(x)=\\frac{(e^{x}-a)x^2 - 2x(e^{x}-ax-a)}{x^4}$, and they were unable to use the known result to solve the problem efficiently, possibly even getting stuck.",
+        "reason_for_error": "The student failed to recognize that this problem actually required using the conclusion from part (I) for transformation. Their problem-solving strategy was rigid, overly reliant on mechanical calculation, and they did not adopt a holistic transfer-of-learning approach, getting bogged down in tedious derivations.",
+        "main": 1,
+        "index": 2,
+        "question_index": 763
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "In part (2), when faced with $f(x)+g(x)\\geq 3$, the student only thought of picking a fixed value for $x$ (like $x=0$) to calculate directly. They got $f(0)+g(0)=|0-2|+2+|0-1|=5$, and then assumed that because 5 > 3, the inequality $f(x)+g(x)\\geq3$ holds true for all $a$ and $x$, thus concluding that the range of $a$ is all real numbers.",
+        "reason_for_error": "The student failed to recognize that this is an inequality that must 'hold for all x'. They mistakenly thought it was sufficient to verify it for a few special points. They lacked a holistic strategic mindset, which led them to only verify for individual values of $x$ while ignoring the essential requirement that it must hold over the entire interval, resulting in the incorrect answer $a\\in\\mathbb{R}$.",
+        "main": 1,
+        "index": 2,
+        "question_index": 768
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student failed to use the proportionality relationship for parallel vectors. Instead, they tried to use the condition for perpendicular vectors, that the dot product is zero. They calculated $2\\lambda+5\\times 4=0$ and got $\\lambda = -10$.",
+        "reason_for_error": "The student did not recognize that this was a parallelism problem and instead misapplied the strategy for vector perpendicularity (dot product is zero). This led to a completely wrong solution path. This error is due to a rigid choice of strategy and a failure to transform the problem conditions into the correct mathematical formulation.",
+        "main": 1,
+        "index": 2,
+        "question_index": 76
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not realize they needed to find the coordinates of the focus first. They directly used the hyperbola's vertex, $(2,0)$, as the point to calculate the distance, and after substituting, they got $d = \frac{|2-8|}{\\sqrt{5}} = \frac{6}{\\sqrt{5}}$.",
+        "reason_for_error": "The student failed to distinguish that the specific point in this problem is the focus, not the vertex. They did not establish the correct connection between the problem context and their existing knowledge, which is a typical strategic-level error.",
+        "main": 1,
+        "index": 2,
+        "question_index": 77
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition",
+            "Rigid thinking"
+        ],
+        "specific_error_point": "When calculating d, the student directly used $S_3 - a_1 = 2d$. The calculation became $-15 + 7 = 2d \\rightarrow d = -4$. Finally, they wrote the general term formula as $a_n = -7 -4(n-1) = -4n-3$.",
+        "reason_for_error": "When encountering a problem with the sum of the first n terms, the student only remembered a specific formula (like $S_{n+1} - S_n = a_{n+1}$) or past experience. They failed to analyze the problem conditions holistically and did not form a correct analytical approach. They incorrectly applied an unsuitable equation, leading to the wrong value for d and ultimately throwing off the entire sequence.",
+        "main": 1,
+        "index": 2,
+        "question_index": 787
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "In question (2), upon seeing 'midpoint coordinates are (1,2)', the student directly substituted $t=0$ into the parametric equation of the line, which corresponds to that point. This led them to believe the slope could be any value (answer is indeterminate), and they failed to get the correct result.",
+        "reason_for_error": "The student is accustomed to solving line problems by simple substitution or evaluating at a single point. They failed to realize the necessity of using the relationship between the parameters $t_1+t_2$ and the midpoint's actual coordinates. They ignored the overall structural analysis of the midpoint and the intersection points, leading to a rigid problem-solving strategy that made it difficult to organize a correct solution, thus missing the answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 789
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "In part (2), the student never used the Law of Sines to substitute b and c with sinB and sinC. Instead, they directly divided both sides of the equation \\sqrt{2}a+b=2c by a, leading to an illogical equation \\sqrt{2}+b/a=2c/a. They failed to transform the condition using triangle properties, got stuck in brute-force calculations, were unable to establish an equation for \\sin C, and ultimately could not solve it.",
+        "reason_for_error": "The student failed to keenly recognize the standard approach of applying the Law of Sines to convert between sides and trigonometric functions. Instead, they mechanically manipulated the readily available equation. This rigid thinking made the problem unsolvable, demonstrating a lack of grasp on common routines and conceptual transformations, and causing them to miss the main solution path.",
+        "main": 1,
+        "index": 2,
+        "question_index": 794
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "When creating the $2 \\times 2$ contingency table in question (3), the student incorrectly summed all frequencies cell by cell. They directly aggregated all row frequencies for 'People $\\leq 400$' and 'People $> 400$' without re-categorizing and merging them according to 'Good/Poor Air Quality'. This resulted in an incorrectly filled table and an inability to form the proper 2x2 structure, making it impossible to proceed with the independence test.",
+        "reason_for_error": "The student lacks the necessary classification and consolidation strategies. They were unable to group and summarize data under different conditions, leading to a general summation instead of conditional categorization when creating the contingency table. This strategic weakness meant the student failed to grasp the need to restructure the information based on the dual criteria of 'Good/Poor' and 'People Intervals' given in the problem, resulting in a structurally incorrect table and undermining the feasibility of the solution from the outset.",
+        "main": 1,
+        "index": 2,
+        "question_index": 810
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student directly applied the formula $U-(A \\cup B)$ but ignored the fact that $\\{x \\mid x=3k\\}$ is the actual complement. They carelessly assumed that a type like $\\{x|x=3k-2\\}$ was the uncovered category and chose option C.",
+        "reason_for_error": "The student failed to flexibly analyze the structure of A and B. They mechanically mimicked the 'universal set minus set' procedure and did not connect the problem to the actual context of partitioning by congruence classes. This led to a poor choice of strategy and an incorrect answer.",
+        "main": 1,
+        "index": 2,
+        "question_index": 844
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student treated P-ABC as a generic tetrahedron and attempted to directly apply a formula for the distance from a point to a triangle. However, they failed to recognize the special structure and spatial constraints imposed by the side lengths, got confused during substitution, and either gave up or randomly guessed B, $\\sqrt{3}$.",
+        "reason_for_error": "The student did not identify the essential solution method (constructing auxiliary lines, using the midpoint of a side, etc.). They lacked a holistic grasp of spatial projection and orthogonal solution methods, causing their thought process to stall, and they could only guess an answer based on superficial features.",
+        "main": 1,
+        "index": 2,
+        "question_index": 863
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem",
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not realize the need to simplify the $i^5$ term in the denominator. They correctly found the denominator to be $1+i^2+i^5=1+(-1)+(i)=i$, but then failed to use the rationalization method. They attempted to divide the numerator by the denominator, writing $z=\\frac{2+i}{i}=2/i + 1$, and got stuck, leaving the answer blank.",
+        "reason_for_error": "The student failed to use timely and effective simplification and substitution strategies. Their thinking remained superficial, and they lacked familiarity with the common routine for this type of problem, which involves simplifying powers of imaginary numbers and then rationalizing. This prevented them from advancing the solution steps, ultimately leading them to abandon the problem.",
+        "main": 1,
+        "index": 2,
+        "question_index": 866
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student only saw the fractional expression with $e^{a x} - 1$ and $x e^x$ and mechanically tried to substitute the options without performing the derivation for $f(x)=f(-x)$. They arbitrarily substituted a=1 (choosing C), thinking '1' is the most common or symmetric-looking value.",
+        "reason_for_error": "The student lacks a holistic view and the ability to analyze the problem's structure. They did not realize this is a typical problem for determining an even function by substitution. Instead, they relied on experience or habit to randomly pick an option, failing to establish a standard solution path, leading to the direct answer a=1 (choice C).",
+        "main": 1,
+        "index": 2,
+        "question_index": 868
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student only relied on the idea that 'the maximum value of a dot product is the product of the magnitudes of the two vectors'. They did not flexibly incorporate the changing angle and the specific positions of the vectors. They directly multiplied the magnitudes of PA and PD, leading to a maximum value of 2, and chose D, 2+√2.",
+        "reason_for_error": "The student mechanically applied the rule 'max dot product = product of magnitudes', without paying attention to the fact that the angle between PA and PD is constrained by the geometry of the circle and is not always zero or optimal. This led them to mistakenly believe the maximum value would be very large, ignoring that it is actually constrained by the angle in the trigonometric structure. They ultimately chose D, which is a very common and typical error.",
+        "main": 1,
+        "index": 2,
+        "question_index": 876
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student did not think to rationalize the denominator. They treated $z=\\frac{1-\\mathrm{i}}{2+2\\mathrm{i}}$ as an irreducible fraction and tried to directly calculate $z-\\bar{z}$ by attempting to subtract $(\\frac{1-\\mathrm{i}}{2+2\\mathrm{i}}) - (\\frac{1+\\mathrm{i}}{2-2\\mathrm{i}})$, which did not lead to a simple result and was unsolvable.",
+        "reason_for_error": "The student failed to realize that the standard method for this type of complex number problem is to rationalize the denominator. They lacked the strategy to convert the given complex number into its standard algebraic form, which caused the problem to stall, preventing them from solving it correctly.",
+        "main": 1,
+        "index": 2,
+        "question_index": 878
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "When asked for the cosine of the angle between two vectors, the student did not use the dot product formula but instead mistakenly used the distance formula or another irrelevant method, leading to an inability to produce a reasonable answer.",
+        "reason_for_error": "The student failed to recognize the standard problem-solving strategy for this problem, which involves using the vector dot product and magnitudes. They blindly tried other formulas (like the two-point distance formula or the law of cosines), which led to an incorrect solution path, and they were ultimately unable to solve the problem.",
+        "main": 1,
+        "index": 2,
+        "question_index": 87
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student did not complete the square for $x(x-a)$ and did not realize it could be expressed as $(x-\\frac{a}{2})^2-\\frac{a^2}{4}$. Instead, they blindly used differentiation on the power function, which prevented them from deducing that $a \\geq 2$. Their calculation was chaotic, and they ultimately chose C ($(0,2]$) as the answer.",
+        "reason_for_error": "When faced with an unfamiliar algebraic structure, the student did not employ core transformation techniques like completing the square. Instead, they rigidly applied routines like differentiation, which made it impossible to simplify the condition and correctly deduce the range of $a$. This led to a failed solution, and they were prone to mistakenly choosing an adjacent distractor option.",
+        "main": 1,
+        "index": 2,
+        "question_index": 880
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Lack of a holistic view"
+        ],
+        "specific_error_point": "The student directly substituted the conditions into the known arithmetic sequence formulas, only focusing on the direct relationship between $S_n$ and $a_n$. They completely ignored the reverse implication—whether $\\frac{S_n}{n}$ being an arithmetic sequence guarantees that $a_n$ is an arithmetic sequence. They only performed a one-way check and chose A.",
+        "reason_for_error": "The student relied too heavily on the habit of direct formula substitution and forward derivation. They ignored the requirement of option C, 'necessary and sufficient condition', which demands a two-way check. Their thinking was limited, and they failed to realize that the problem-solving strategy must be bidirectional.",
+        "main": 1,
+        "index": 2,
+        "question_index": 883
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student did not use a parametric method or the geometric method (translating the line) to check the vertices. Instead, they blindly substituted some random points from the boundaries of the constraints. They ended up testing a point like $x=2, y=0$, got a value of $z=2-0=2$, and concluded that the minimum value was 2 (which is not an option).",
+        "reason_for_error": "The student failed to accurately identify the solution model for this problem—that the extreme value of a linear objective function must be at a vertex of the feasible region. This strategic thinking deficit caused them to ignore the need to find all vertices and compare them, and instead, they tried to pick random values on the boundaries, leading to an absurd conclusion.",
+        "main": 1,
+        "index": 2,
+        "question_index": 906
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student saw the two foci and a point, and directly calculated $|PF_1| - |PF_2| = 10-4 = 6$, giving $a=3$. They then still used $e=\\frac{c}{a}=\\frac{4}{3}$, which did not match any of the options, and finally chose B (the closest value).",
+        "reason_for_error": "The student failed to correctly match the given information with the standard problem-solving model and made up their own calculation process, which led to an error. The strategic dimension of the problem lies in the lack of a holistic problem-solving plan for classic problem types; direct operation, in this case, went astray.",
+        "main": 1,
+        "index": 2,
+        "question_index": 909
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "After calculating the tangent line equation, the student mechanically applied the area formula $S=\\frac{1}{2}ab$, where they took $a=1$ and $b=-\\frac{1}{3}$ (without taking the absolute value). They did not consider that the side length of a triangle must be positive, and ended up calculating $S=\\frac{1}{2}\\times 1\\times -\\frac{1}{3} = -\\frac{1}{6}$, reporting a negative value or choosing no answer.",
+        "reason_for_error": "The student failed to judge based on the actual geometric meaning that area cannot be negative. When they encountered a negative number, they did not take the absolute value. At the strategic level, their thinking was rigid, focusing only on formula application and lacking a holistic geometric view and an awareness of the reasonableness of the result. This can lead to mistaking a 'sign' error for a valid answer, and missing the correct option.",
+        "main": 1,
+        "index": 2,
+        "question_index": 910
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Failure in pattern recognition"
+        ],
+        "specific_error_point": "The student saw 'equal lateral area' but did not set up an equation relating the two lateral areas. They failed to use the equation 2πr×√3 = πr×(slant height) to solve the problem. Instead, they tried to use a volume ratio to brute-force the calculation, were unable to find r, and ended up with no answer.",
+        "reason_for_error": "The student failed to recognize that 'equal lateral area' was the key breakthrough point of the problem. They lacked the ability to transform information into a problem-solving strategy, which prevented the solution process from advancing to the final result.",
+        "main": 1,
+        "index": 2,
+        "question_index": 919
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Rigid thinking"
+        ],
+        "specific_error_point": "The student directly divided the coefficients of 5i and 1-2i, separately thinking of '5 divided by 1' and '5 divided by -2i'. They incorrectly broke it down into 5i ÷ 1 = 5i and 5i ÷ -2i = -2.5, and pieced together an answer like A (2-i).",
+        "reason_for_error": "The student did not perform a holistic rationalization of the complex number. Instead, they used a flawed 'numeric intuition' strategy of directly dividing the respective parts of the numerator and denominator. This reflects an insufficient understanding of the problem's structure and a failure to apply a standard problem-solving strategy, leading to a mechanical decomposition and incorrect assembly of the result.",
+        "main": 1,
+        "index": 2,
+        "question_index": 95
+    },
+    {
+        "error_dimension": [
+            "Strategic"
+        ],
+        "typical_manifestation": [
+            "Unable to transform the problem"
+        ],
+        "specific_error_point": "The student only knew the basic properties of magnitude and dot product but did not think to use the dot product formula and magnitude expansion (i.e., using \\vec{a}\\cdot\\vec{b}=|\\vec{a}|\\,|\\vec{b}|\\cos\\theta) to set up a system of equations. When trying to directly calculate |2\\vec{a}-\\vec{b}|, they were unable to proceed, getting stuck at the expression \\sqrt{|2\\vec{a}|^2-4\\vec{a}\\cdot\\vec{b}+|\\vec{b}|^2} = \\sqrt{10}. They could not eliminate variables to find |\\vec{b}|, and ultimately could not provide a specific numerical answer, leaving it blank or writing 'insufficient information'.",
+        "reason_for_error": "The student failed to choose an effective solution path. They lacked a holistic view and could not connect the different conditions to solve a system of equations, which is a strategic error.",
+        "main": 1,
+        "index": 2,
+        "question_index": 9
+    }
+]

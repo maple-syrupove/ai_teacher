@@ -1,0 +1,8 @@
+{
+    "model_name": "claude-sonnet-4-20250514",
+    "num_successful_dialogues": 10,
+    "avg_rounds_per_dialogue": "12.30",
+    "avg_prompt_tokens_per_turn": "1103.84",
+    "avg_completion_tokens_per_turn": "63.92",
+    "total_completion_tokens": 7415
+}

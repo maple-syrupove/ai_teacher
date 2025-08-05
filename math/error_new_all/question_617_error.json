@@ -1,0 +1,26 @@
+[
+    {
+        "错误维度": ["知识性错误", "策略性错误"],
+        "典型表现": ["概念混淆", "思维僵化"],
+        "具体错误点": "在计算 \\overrightarrow{EB} 过程中误认为 E 是 BC 的中点而不是 AD 的中点，导致错误结果 \\overrightarrow{EB}=\\frac{1}{2}(\\overrightarrow{AB}+\\overrightarrow{AC})。",
+        "错误维度导致错误点出现原因": "由于学生对中线与中点的定义理解存在知识性缺陷（概念混淆），未能正确识别二者关系，同时在策略上未能摆脱对类似问题的惯性思维（思维僵化），使得他错误地计算 E 为 BC 的中点，从而导致错误结果。",
+        "main": 1,
+        "index": 0
+    },
+    {
+        "错误维度": ["执行性错误"],
+        "典型表现": ["计算失误"],
+        "具体错误点": "在计算 \\overrightarrow{EB} = \\overrightarrow{AB} - \\frac{1}{2} \\times \\frac{1}{2}(\\overrightarrow{AB} + \\overrightarrow{AC}) 过程中算错 \\overrightarrow{EB}，得到错误结果 \\overrightarrow{EB} = \\frac{1}{2} \\overrightarrow{AB} + \\frac{1}{2} \\overrightarrow{AC}。",
+        "错误维度导致错误点出现原因": "学生在执行计算过程中的计算失误可能因为对分数操作的不熟练或在步骤中疏忽（计算失误），导致最终错误地得到了错误结果。",
+        "main": 0,
+        "index": 1
+    },
+    {
+        "错误维度": ["逻辑性错误", "知识性错误"],
+        "典型表现": ["偷换概念", "公式错用"],
+        "具体错误点": "在推导 \\overrightarrow{EB} 时使用错误公式，将 \\overrightarrow{AE} 误为 \\overrightarrow{AD}，结果: \\overrightarrow{EB} = \\frac{1}{2}(\\overrightarrow{AB} - \\overrightarrow{AC})。",
+        "错误维度导致错误点出现原因": "学生理解中线与中点属性时出现逻辑推理错误（偷换概念），错用了相关公式（公式错用）。因缺乏对公式的深入理解，错误地替换相关向量，最后得出错误结论。",
+        "main": 0,
+        "index": 2
+    }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "question": "1. 下列叙述正确的是（）\nA. $1.00 \\mathrm{molNaCl}$ 中含有 $6.02 \\times 10^{23}$ 个 $\\mathrm{NaCl}$ 分子\nB. $1.00 \\mathrm{molNaCl}$ 中, 所有 $\\mathrm{Na}^{+}$的最外层电子总数为 $8 \\times 6.02 \\times 10^{23}$\nC. 欲配置 $1.00 \\mathrm{~L}, 1.00 \\mathrm{~mol} . \\mathrm{L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液, 可将 $58.5 \\mathrm{gNaCl}$ 溶于 $1.00 \\mathrm{~L}$ 水中\nD. 电解 $58.5 \\mathrm{~g}$ 熔融的 $\\mathrm{NaCl}$, 能产生 $22.4 \\mathrm{~L}$ 氯气（标准状况）、23.0g 金属钠\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解： $\\mathrm{A} 、$ 因 $\\mathrm{NaCl}$ 为离子化合物, 则不存在 $\\mathrm{NaCl}$ 分子, 故 $\\mathrm{A}$ 错误;\n\n$\\mathrm{B}$ 、因 $\\mathrm{Na}^{+}$的最外层电子总数为 8 电子稳定结构, 则最外层电子的物质的量为 $8 \\mathrm{~mol}$ , 其电子总数为 $8 \\times 6.02 \\times 10^{23}$, 故 $B$ 正确;\n\nC、欲配置 $1.00 \\mathrm{~L}, 1.00 \\mathrm{~mol} 。 \\mathrm{~L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液, 可将 $58.5 \\mathrm{~g} \\mathrm{NaCl}$ 溶于适量水中, 配成 $1 \\mathrm{~L}$ 溶液, 而不是溶于 $1 \\mathrm{~L}$ 的水中, 故 C 错误;\n\nD、 $\\mathrm{NaCl}$ 的物质的量为 $\\frac{58.5 \\mathrm{~g}}{58.5 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 则电解 $58.5 \\mathrm{~g}$ 熔融的 $\\mathrm{NaCl}, 1 \\mathrm{molNaCl}$ 生成 $0.5 \\mathrm{~mol}$ 氯气, 能产生 $0.5 \\mathrm{~mol} \\times 22.4 \\mathrm{~L} / \\mathrm{mol}=11.2 \\mathrm{~L}$ 氯气（标准状况）, 而不 是 $22.4 \\mathrm{~L}$ 氯气，故 D 错误;\n\n故选: B。\n",
+    "index": 6,
+    "category": "选择"
+  },
+  {
+    "question": "4. (6 分) $\\mathrm{N}_{\\mathrm{A}}$ 为阿伏加德罗常数的值. 下列说法正确的是 （）\nA. $0.1 \\mathrm{~mol}$ 的 ${ }^{11} \\mathrm{~B}$ 中, 含有 $0.6 \\mathrm{~N}_{\\mathrm{A}}$ 个中子\nB. $\\mathrm{pH}=1$ 的 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 溶液中, 今含有 $0.1 \\mathrm{~N}_{\\mathrm{A}}$ 个 $\\mathrm{H}^{+}$\nC. $2.24 \\mathrm{~L}$ (标准状况) 苯在 $\\mathrm{O}_{2}$ 中完全燃烧, 得到 $0.6 \\mathrm{~N}_{\\mathrm{A}}$ 个 $\\mathrm{CO}_{2}$ 分子\nD. 密闭容器中 $1 \\mathrm{~mol} \\mathrm{PCl}_{3}$ 与 $1 \\mathrm{~mol} \\mathrm{Cl}_{2}$ 反应制备 $\\mathrm{PCl}_{5}(\\mathrm{~g})$ ， 增加 $2 \\mathrm{~N}_{\\mathrm{A}}$ 个 $\\mathrm{P}-$ $\\mathrm{Cl}$ 键\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "【解答】解: $\\mathrm{A} .{ }^{11} \\mathrm{~B}$ 中含有中子数 $=11-5=6,0.1 \\mathrm{~mol}$ 的 ${ }^{11} \\mathrm{~B}$ 中含有 $0.6 \\mathrm{~mol}$ 中子, 含有 $0.6 \\mathrm{~N}_{\\mathrm{A}}$ 个中子，故 $\\mathrm{A}$ 正确;\n\nB. 没有告诉 $\\mathrm{pH}=1$ 的 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 溶液的体积, 无法计算溶液中含有氢离子的物质的 量就数目， 故 B 错误;\n\nC. 标准状况下苯不是气体，不能使用标况下的气体摩尔体积计算, 故 $\\mathrm{C}$ 错误;\n\nD. $\\mathrm{PCl}_{3}$ 与 $\\mathrm{Cl}_{2}$ 生成 $\\mathrm{PCl}_{5}$ 的反应为可逆反应，则生成 $\\mathrm{PCl}_{5}$ 的物质的量小于 $1 \\mathrm{~mol}$, 增加的 $\\mathrm{P}-\\mathrm{Cl}$ 键小于 $2 \\mathrm{~N}_{\\mathrm{A}}$ ， 故 $\\mathrm{D}$ 错误;\n\n故选: A。\n",
+    "index": 74,
+    "category": "选择"
+  },
+  {
+    "question": "3. （3 分）在相同条件下, 下列说法错误的是（）\nA. 氯气在饱和食盐水中的溶解度小于在纯水中的溶解度\nB. 碘在碘化钾溶液中的溶解度大于在纯水中的溶解度\nC. 醋酸在醋酸钠溶液中电离的程度大于在纯水中电离的程度\nD. 工业上生产硫酸的过程中使用过量的空气可提高 $\\mathrm{SO}_{2}$ 的利用率\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "解： A、氯气溶于水存在平衡 $\\mathrm{Cl}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{Cl}^{-}+\\mathrm{HClO}$, 饱和氯化钠溶 液含有电离氯离子, 氯离子浓度增大, 使平衡向左移动, 抑制氯气的溶解, 故 A 正确;\n\nB、磺在磺化钾溶液中的存在平衡 $\\mathrm{I}_{2}+\\mathrm{I}^{-} \\rightleftharpoons \\mathrm{I}_{3}{ }^{-}, \\mathrm{KI}$ 溶液中, 含有电离磺离子, 磺 离子浓度增大，使平衡向右移动, 碘的溶解度增大, 故 B 正确;\n\nC、醋酸存在电离平衡 $\\mathrm{HAc} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{Ac}^{-}$, 醋酸钠溶液中有大量的 $\\mathrm{Ac}^{-}, \\mathrm{Ac}^{-}$浓度增 大抑制醋酸的电离, 故 C 错误;\n\nD、工业生成硫酸存在平衡: $2 \\mathrm{SO}_{2}+\\mathrm{O}_{2} \\rightleftharpoons 2 \\mathrm{SO}_{3}$, 增大氧气的浓度, 平衡向正反应 移动, 可以提高二氧化硫的转化率, 故 D 正确;\n\n故选: C。\n",
+    "index": 2,
+    "category": "选择"
+  },
+  {
+    "question": "6. （6 分）主族元素 $W 、 X 、 Y 、 Z$ 的原子序数依次增加, 且均不大于 20. W、X $、 Z$ 最外层电子数之和为 $10 ; W$ 与 $\\mathrm{Y}$ 同族; $W$ 与 $Z$ 形成的化合物可与浓硫酸 反应，其生成物可腐蚀玻璃。下列说法正确的是（ ）\nA. 常温常压下 $X$ 的单质为气态\nB. $Z$ 的氢化物为离子化合物\nC. $Y$ 和 $Z$ 形成的化合物的水溶液呈碱性\nD. $W$ 与 $Y$ 具有相同的最高化合价\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解: $W$ 与 Z 形成的化合物可与浓硫酸反应, 其生成物可腐蚀玻璃, 能腐 蚀玻璃的是 $\\mathrm{HF}, W$ 原子序数小于 $Z$, 则 $W$ 为 $F$ 元素, $W$ 与 $Y$ 同族且原子序数 都不大于 20 , 则 $\\mathrm{Y}$ 为 $\\mathrm{Cl}$ 元素, $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Z}$ 最外层电子数之和为 10 , 主族元素 $\\mathrm{W}$ 、 $X 、 Y 、 Z$ 的原子序数依次增加, 且均不大于 20 , 则 $X$ 为 $\\mathrm{Na}$ 元素、 $Z$ 为 $\\mathrm{Ca}$ 元素，或者 $X$ 为 $M g$ 元素、 $Z$ 为 $K$ 元素;\nA. 常温下 $\\mathrm{Na}$ 或 $\\mathrm{Mg}$ 单质都是固态, 故 $\\mathrm{A}$ 错误;\nB. $\\mathrm{Z}$ 的氢化物是 $\\mathrm{KH}$ 或 $\\mathrm{CaH}_{2}$, 二者都是离子化合物, 故 $\\mathrm{B}$ 正确;\nC. $Y 、 Z$ 形成的化合物是 $\\mathrm{KCl}$ 或 $\\mathrm{CaCl}_{2}$, 为强酸强碱盐, 其水溶液呈中性, 故 $\\mathrm{C}$ 错 误；\nD. $W 、 Y$ 的最高价分别是 $0 、+7$ 价, $F$ 元素非金属性最强, 没有正化合价, 故 $D$ 错误;\n\n故选: B。\n",
+    "index": 81,
+    "category": "选择"
+  },
+  {
+    "question": "1. 人类对能源的利用经历了柴薪、煤炭和石油时期, 现正向新能源方向高质量发展。下列有关能源的叙述错误的是\nA. 木材与煤均含有碳元素\nB. 石油裂化可生产汽油\nC. 燃料电池将热能转化为电能\nD. 太阳能光解水可制氢",
+    "answer": [
+      "C"
+    ],
+    "analysis": "【详解】A. 木材的主要成分为纤维素，纤维素中含碳、氢、氧三种元素，煤是古代植物埋藏在地下经历了复杂的变化逐渐形成的固体, 是有机物和无机物组成的复杂混合物, 主要含碳元素, A 正确;\nB. 石油裂化是将相对分子质量较大、沸点较高的烃断裂为相对分子质量较小、沸点较低的烃的过程，汽油的相对分子质量较小，可以通过石油裂化的方式得到，B 正确;\nC. 燃料电池是将燃料 化学能变成电能的装置, 不是将热能转化为电能, C 错误;\nD. 在催化剂作用下, 利用太阳能光解水可以生成氢气和氧气, D 正确;\n故答案选 C。",
+    "index": 145,
+    "category": "选择"
+  },
+  {
+    "question": "1. （6 分）化学与生活密切相关, 下列有关说法错误的是（）\nA. 用灼烧的方法可以区分蚕丝和人造纤维\nB. 食用油反复加热会产生稠环芳香烃等有害物质\nC. 加热能杀死流感病毒是因为蛋白质受热变性\nD. 医用消毒酒精中乙醇的浓度为 $95 \\%$\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "解: $A$. 蚕丝含有蛋白质, 灼烧时具有烧焦的羽毛气味, 为蛋白质的特 有性质, 可用于鉴别蛋白质类物质, 故 $\\mathrm{A}$ 正确;\n\nB. 食用油反复加热会生成苯并芘等稠环芳香烃物质, 可致癌, 故 B 正确;\n\nC. 加热可导致蛋白质变性, 一般高温可杀䒩, 故 C 正确;\n\nD. 医用消毒酒精中乙醇的浓度为 $75 \\%$, 故 D 错误。\n\n故选: D。\n",
+    "index": 46,
+    "category": "选择"
+  },
+  {
+    "question": "3. 下列反应中，属于取代反应的是（）\n\n(1) $\\mathrm{CH}_{3} \\mathrm{CH}=\\mathrm{CH}_{2}+\\mathrm{Br}_{2} \\stackrel{\\mathrm{CCl}_{4}^{\\longrightarrow}}{\\longrightarrow} \\mathrm{CH}_{3} \\mathrm{CHBrCH}_{2} \\mathrm{Br}$\n\n(2) $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH} \\stackrel{\\text { 棪 } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\triangle} \\mathrm{CH}_{2}=\\mathrm{CH}_{2}+\\mathrm{H}_{2} \\mathrm{O}$\n\n(3) $\\mathrm{CH}_{3} \\mathrm{COOH}+\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH} \\stackrel{\\text { 棪. } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\mathrm{~A}} \\mathrm{CH}_{3} \\mathrm{COOCH}_{2} \\mathrm{CH}_{3}+\\mathrm{H}_{2} \\mathrm{O}$\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_b6a30ae2ca4c230a7a82g-01.jpg?height=100&width=619&top_left_y=1441&top_left_x=296)\nA. (1)(2)\nB. (3) (4)\nC. (1)(3)\nD. (2)\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解：A、(1)属于加成反应; (2)属于消去反应, 故 A 错;\n\nB、(3)属于酯化反应, 也属于取代反应; (4)属于苯的硝化反应, 也属于取代反应, 故 B 正确;\n\nC、(1)属于加成反应; (3)属于酯化反应，也属于取代反应，故 C 错;\n\nD、(2)属于消去反应; (4)属于苯的硝化反应, 也属于取代反应, 故 D 错。\n\n故选: B。\n",
+    "index": 8,
+    "category": "选择"
+  },
+  {
+    "question": "1.（6 分）下列叙述中正确的是（）\nA. 液溴易挥发, 在存放液溴的试剂瓶中应加水封\nB. 能使润湿的淀粉 $\\mathrm{KI}$ 试纸变成蓝色的物质一定是 $\\mathrm{Cl}_{2}$\nC. 某溶液中加入 $\\mathrm{CCl}_{4}, \\mathrm{CCl}_{4}$ 层显紫色, 证明原溶液中存在 $\\mathrm{I}^{-}$\nD. 某溶液中加入 $\\mathrm{BaCl}_{2}$ 溶液, 产生不溶于稀硝酸的白色沉淀, 该溶液一定含 有 $\\mathrm{Ag}^{+}$\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "解: A. 液溴易挥发, 密度比水大, 实验室常用水封的方法保存, 故 A 正确;\n\nB. 能使润湿的淀粉 $\\mathrm{KI}$ 试纸变成蓝色的物质具有氧化性, 可能为 $\\mathrm{NO}_{2} 、 \\mathrm{O}_{3} 、 \\mathrm{Cl}_{2}$ 等物质，但不一定为 $\\mathrm{Cl}_{2}$, 故 $\\mathrm{B}$ 错误;\n\nC. $\\mathrm{CCl}_{4}$ 层显紫色, 证明原溶液中存在 $\\mathrm{I}_{2}, \\mathrm{I}^{-}$无色, 故 $\\mathrm{C}$ 错误;\n\nD. 溶液中加入 $\\mathrm{BaCl}_{2}$ 溶液, 产生不溶于稀硝酸的白色沉淀, 可能为 $\\mathrm{AgCl}$ 或 $\\mathrm{BaSO}_{4}$, 不一定含有 $\\mathrm{Ag}^{+}$, 故 D 错误。 故选: A。\n",
+    "index": 12,
+    "category": "选择"
+  },
+  {
+    "question": "1. (3 分) 化学在生活中有着广泛的应用, 下列对应关系错误的是（）\n\n\\begin{tabular}{|c|c|c|}\n\\hline 选项 & 化学性质 & 实际应用 \\\\\n\\hline $\\mathrm{A}$ & $\\mathrm{ClO}_{2}$ 具有强氧化性 & 自来水消毒杀菌 \\\\\n\\hline $\\mathrm{B}$ & $\\mathrm{SO}_{2}$ 具有还原性 & 用作漂白剂 \\\\\n\\hline $\\mathrm{C}$ & $\\mathrm{NaHCO}$ 受热易分解并且生成气体 & 焙制糕点 \\\\\n\\hline $\\mathrm{D}$ & $\\mathrm{Al}(\\mathrm{OH})_{3}$ 分解吸收大量热量并有 $\\mathrm{H}_{2} \\mathrm{O}$ \\\\\n生成\n\\end{tabular}\nA. $\\mathrm{A}$\nB. $B$\nC. $\\mathrm{C}$\nD. D\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "【解答】解：A. $\\mathrm{ClO}_{2}$ 具有强氧化性, 可使蛋白质变性, 可用于杀䒩消毒, 故 $\\mathrm{A}$ 正确; B. 做漂白剂与漂白性有关, 与还原性无关, 故 B 错误;\n\nC. $\\mathrm{NaHCO}_{3}$ 不稳定, 与酸反应生成二氧化碳气体, 可用于焙制糕点, 故 $\\mathrm{C}$ 正确;\n\nD. 氢氧化铝分解吸收热量, 可用于阻燃剂, 故 D 正确。\n\n故选: B。\n",
+    "index": 57,
+    "category": "选择"
+  },
+  {
+    "question": "7. 短周期元素 $W 、 X 、 Y$ 和 $Z$ 的原子序数依次增大. 元素 $W$ 是制备一种高效电 池的重要材料, $X$ 原子的最外层电子数是内层电子数的 2 倍, 元素 $Y$ 是地壳中 含量最丰富的金属元素, $\\mathrm{Z}$ 原子的最外层电子数是其电子层数的 2 倍. 下列说 法错误的是 ( $)$\nA. 元素 W、X的氯化物中, 各原子均满足 8 电子的稳定结构\nB. 元素 $X$ 与氢形成的原子比为 1: 1 的化合物有很多种\nC. 元素 $Y$ 的单质与氢氧化钠溶液或盐酸反应均有氢气生成\nD. 元素 $Z$ 可与元素 $X$ 形成共价化合物 $X Z_{2}$\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "解: 因 $\\mathrm{X}$ 原子的最外层电子数是内层电子数的 2 倍, 是 $\\mathrm{C}$ 元素, $Y$ 是地 壳中含量最丰富的金属元素, 为 $\\mathrm{Al}$ 元素。 $\\mathrm{Z}$ 原子的最外层电子数是其电子层 数的 2 倍, 是短周期元素, 且 $W 、 X 、 Y$ 和 $Z$ 的原子序数依次增大, $Z$ 为 $S$ 元 素, $W$ 是制备一种高效电池的重要材料, 是 Li 元素;\n\nA、 $\\mathrm{W} 、 \\mathrm{X}$ 的氯化物分别为 $\\mathrm{LiCl}$ 和 $\\mathrm{CCl}_{4}$, 则 $\\mathrm{Li}^{+}$的最外层只有两个电子, 不满足 8 电子的稳定结构, 故 A 错误;\n\nB、元素 $\\mathrm{X}$ 与氢形成的化合物有 $\\mathrm{C}_{2} \\mathrm{H}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{6}$ 等, 故 B 正确;\n\nC、元素 $Y$ 为铝, 铝与氢氧化钠溶液或盐酸反应均有氢气生成, 故 C 正确;\n\nD、硫和碳可形成共价化合物 $\\mathrm{CS}_{2}$, 故 D 正确;\n\n故选: A。\n",
+    "index": 11,
+    "category": "选择"
+  },
+  {
+    "question": "4. 对于下列过程中发生的化学反应, 相应离子方程式正确的是\nA. 试管壁上的银镜用稀硝酸清洗: $\\mathrm{Ag}+2 \\mathrm{H}^{+}+\\mathrm{NO}_{3}^{-}=\\mathrm{Ag}^{+}+\\mathrm{NO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$\nB. 工业废水中的 $\\mathrm{Pb}^{2+}$ 用 FeS 去除： $\\mathrm{Pb}^{2+}+\\mathrm{S}^{2-}=\\mathrm{PbS} \\downarrow$\nC. 海水提溴过程中将溴吹入 $\\mathrm{SO}_{2}$ 吸收塔: $\\mathrm{Br}_{2}+\\mathrm{SO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{Br}^{-}+\\mathrm{SO}_{4}^{2-}+4 \\mathrm{H}^{+}$\nD. 用草酸标准溶液测定高锰酸钾溶液的浓度: $2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{C}_{2} \\mathrm{O}_{4}^{2-}+16 \\mathrm{H}^{+}=2 \\mathrm{Mn}^{2+}+10 \\mathrm{CO}_{2} \\uparrow+8 \\mathrm{H}_{2} \\mathrm{O}$",
+    "answer": [
+      "C"
+    ],
+    "analysis": "【详解】A. 试管壁上的银镜用稀硝酸清洗, 银溶于稀硝酸生成硝酸银和一氧化氮气体, 该反应的离子方程式为 $3 \\mathrm{Ag}+4 \\mathrm{H}^{+}+\\mathrm{NO}_{3}^{-}=3 \\mathrm{Ag}^{+}+\\mathrm{NO} \\uparrow+2 \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{A}$ 不正确;\nB. 由于 PbS 的溶解度远远小于 FeS , 因此, 工业废水中的 $\\mathrm{Pb}^{2+}$ 用 FeS 去除, 该反应的离子方程式为 $\\mathrm{Pb}^{2+}+\\mathrm{FeS}=\\mathrm{PbS}+\\mathrm{Fe}^{2+}, \\mathrm{B}$ 不正确;\nC. 海水提溴过程中将溴吹入 $\\mathrm{SO}_{2}$ 吸收塔, $\\mathrm{SO}_{2}$ 在水溶液中将 $\\mathrm{Br}_{2}$ 还原为 $\\mathrm{Br}^{-}$, 该反应的离子方程式为 $\\mathrm{Br}_{2}+\\mathrm{SO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{Br}^{-}+\\mathrm{SO}_{4}^{2-}+4 \\mathrm{H}^{+}, \\quad \\mathrm{C}$ 正确;\nD. 用草酸标准溶液测定高锰酸钾溶液的浓度, $\\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ 被氧化为 $\\mathrm{CO}_{2}, \\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ 属于弱酸, 该反应的离子方程式为 $2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}+6 \\mathrm{H}^{+}=2 \\mathrm{Mn}^{2+}+10 \\mathrm{CO}_{2} \\uparrow+8 \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{D}$ 不正确;\n综上所述, 本题选 C",
+    "index": 143,
+    "category": "选择"
+  },
+  {
+    "question": "1. 文房四宝是中华传统文化的瑰宝。下列有关叙述错误的是\nA. 羊毛可用于制毛笔, 主要成分为蛋白质\nB. 松木可用于制墨, 墨的主要成分是单质碳\nC. 竹子可用于造纸, 纸的主要成分是纤维素\nD. 大理石可用于制砚台, 主要成分为硅酸盐",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【详解】A. 动物的毛、皮、角等的主要成分都是蛋白质，羊毛的主要成分为蛋白质，A 正确；\nB. 墨的主要成分是炭黑, 炭黑是碳元素的一种单质, 碳的单质在常温下的化学性质很稳定, 不易与其他物质发生化学反应, 故用墨汁书写的字画历经千年仍不褪色, B 正确;\nC. 竹子可用于造纸, 竹子的主要成分是纤维素, 用其造的纸的主要成分也是纤维素, C 正确;\nD. 大理石可用于制砚台，大理石主要成分为碳酸钙，不是硅酸盐，D 错误；\n故选 D。",
+    "index": 142,
+    "category": "选择"
+  },
+  {
+    "question": "3. (6 分) 已知分解 $1 \\mathrm{~mol} \\mathrm{H}_{2} \\mathrm{O}_{2}$ 放出热量 $98 \\mathrm{~kJ}$, 在含少量 $\\mathrm{I}^{-}$的溶液中, $\\mathrm{H}_{2} \\mathrm{O}_{2}$ 分 解的机理为:\n\n$\\mathrm{H}_{2} \\mathrm{O}_{2}+\\mathrm{I}^{-} \\rightarrow \\mathrm{H}_{2} \\mathrm{O}+\\mathrm{IO}^{-} \\quad$ 慢\n\n$\\mathrm{H}_{2} \\mathrm{O}_{2}+\\mathrm{IO}^{-} \\rightarrow \\mathrm{H}_{2} \\mathrm{O}+\\mathrm{O}_{2}+\\mathrm{I}^{-} \\quad$ 快\n\n下列有关该反应的说法正确的是（）\nA. 反应速率与 $\\mathrm{I}^{-}$的浓度有关\nB. $\\mathrm{IO}^{-}$也是该反应的催化剂\nC. 反应活化能等于 $98 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$\nD. $\\mathrm{v}\\left(\\mathrm{H}_{2} \\mathrm{O}_{2}\\right)=\\mathrm{v}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)=\\mathrm{v}\\left(\\mathrm{O}_{2}\\right)$\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "解: A、已知: (1) $\\mathrm{H}_{2} \\mathrm{O}_{2}+\\mathrm{I}^{-} \\rightarrow \\mathrm{H}_{2} \\mathrm{O}+\\mathrm{IO}^{-}$慢 (2) $\\mathrm{H}_{2} \\mathrm{O}_{2}+\\mathrm{IO}^{-} \\rightarrow \\mathrm{H}_{2} \\mathrm{O}_{+}+\\mathrm{O}_{2}+\\mathrm{I}^{-}$ 快，过氧化氢分解快慢决定于反应慢的(1)， $\\mathrm{I}^{-}$是(1)的反应物之一，其浓度大 小对反应不可能没有影响, 例如, 其浓度为 0 时反应不能发生, 故 A 正确;\n\n$\\mathrm{B} 、$ 将反应(1)+(2)可得总反应方程式, 反应的催化剂是 $\\mathrm{I}^{-}, \\mathrm{IO}^{-}$只是中间产物, 故 B 错误;\n\nC、 $1 \\mathrm{~mol}$ 过氧化氢分解的 $\\triangle \\mathrm{H}=-98 \\mathrm{KJ} / \\mathrm{mol}, \\triangle \\mathrm{H}$ 不是反应的活化能，是生成物 与反应物的能量差, 故 $\\mathrm{C}$ 错误;\n\nD、因为反应是在含少量 $\\mathrm{I}-$ 的溶液中进行的, 溶液中水的浓度是常数, 不能用 其浓度变化表示反应速率, 故 D 错误。故选：A。\n",
+    "index": 29,
+    "category": "选择"
+  },
+  {
+    "question": "2. (6 分) 某羧酸酯的分子式为 $\\mathrm{C}_{18} \\mathrm{H}_{26} \\mathrm{O}_{5}, 1 \\mathrm{~mol}$ 该酯完全水解可得到 $1 \\mathrm{~mol}$ 羧 酸和 $2 \\mathrm{~mol}$ 乙醇，该垟酸的分子式为（）\nA. $\\mathrm{C}_{14} \\mathrm{H}_{18} \\mathrm{O}_{5}$\nB. $\\mathrm{C}_{14} \\mathrm{H}_{16} \\mathrm{O}_{4}$\nC. $\\mathrm{C}_{16} \\mathrm{H}_{22} \\mathrm{O}_{5}$\nD. $\\mathrm{C}_{16} \\mathrm{H}_{20} \\mathrm{O}_{5}$\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "解：某羧酸酯的分子式为 $\\mathrm{C}_{18} \\mathrm{H}_{26} \\mathrm{O}_{5}, 1 \\mathrm{~mol}$ 该酯完全水解可得到 $1 \\mathrm{~mol}$ 羧 酸和 $2 \\mathrm{~mol}$ 乙醇，说明酯中含有 2 个酯基，设羧酸为 $\\mathrm{M}$,\n\n则反应的方程式为 $\\mathrm{C}_{18} \\mathrm{H}_{26} \\mathrm{O}_{5}+2 \\mathrm{H}_{2} \\mathrm{O} \\rightarrow \\mathrm{M}+2 \\mathrm{C}_{2} \\mathrm{H}_{6} \\mathrm{O}$,\n\n由质量守恒可知 $\\mathrm{M}$ 的分子式为 $\\mathrm{C}_{14} \\mathrm{H}_{18} \\mathrm{O}_{5}$,\n\n故选: A。\n",
+    "index": 42,
+    "category": "选择"
+  },
+  {
+    "question": "6. $Q 、 X 、 Y 、 Z$ 是原子序数依次增大的短周期主族元素, 其最外层电子数之和为 19 。 $\\mathrm{Q} \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 位于不 同周期, $\\mathrm{X} 、 \\mathrm{Y}$ 相邻, $\\mathrm{Y}$ 原子最外层电子数是 $\\mathrm{Q}$ 原子内层电子数的 2 倍。下列说法正确的是\nA. 非金属性: $\\mathrm{X}>\\mathrm{Q}$\nB. 单质的熔点: $X>Y$\nC. 简单氢化物的佛点: $Z>Q$\nD. 最高价含氧酸的酸性: $\\mathrm{Z}>\\mathrm{Y}$\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【详解】 $\\mathrm{A} . \\mathrm{X}$ 为 $\\mathrm{Al}, \\mathrm{Q}$ 为 $\\mathrm{N}$ 或 $\\mathrm{O}$ 或 $\\mathrm{F}$, 同一周期从左往右元素非金属性依次增强, 同一主族从上往下依 次减弱，故非金属性: $\\mathrm{Q}>\\mathrm{X}, \\mathrm{A}$ 错误;\n\nB. 由分析可知, $\\mathrm{X}$ 为 $\\mathrm{Al}$ 属于金属晶体, $\\mathrm{Y}$ 为 $\\mathrm{Si}$ 属于原子晶体或共价晶体, 故单质熔点 $\\mathrm{Si}>\\mathrm{Al}$, 即 $\\mathrm{Y}>\\mathrm{X}$, B 错误;\n\nC. 含有氢键的物质沸点升高, 由分析可知 $\\mathrm{Q}$ 为 $\\mathrm{N}$ 或 $\\mathrm{O}$ 或 $\\mathrm{F}$, 其简单氢化物为 $\\mathrm{H}_{2} \\mathrm{O}$ 或 $\\mathrm{NH}_{3}$ 或 $\\mathrm{HF}, \\mathrm{Z}$ 为 $\\mathrm{Cl}$ 或 $\\mathrm{S}$ 或 $\\mathrm{P}$, 其简单氢化物为 $\\mathrm{HCl}$ 或 $\\mathrm{H}_{2} \\mathrm{~S}$ 或 $\\mathrm{PH}_{3}$, 由于前者物质中存在分子间氢键, 而后者物质中不存在, 故沸点 $\\mathrm{Q}>\\mathrm{Z}, \\mathrm{C}$ 错误;\n\nD. 元素的非金属性越强, 其最高价含氧酸的酸性越强, $\\mathrm{P} 、 \\mathrm{~S} 、 \\mathrm{Cl}$ 的非金属性均强于 $\\mathrm{Si}$, 因此最高价含氧 酸酸性: $\\mathrm{Z}>\\mathrm{Y} ， \\mathrm{D}$ 正确;\n\n故答案为: $D$ 。\n",
+    "index": 122,
+    "category": "选择"
+  },
+  {
+    "question": "4. （6 分) $\\mathrm{N}_{\\mathrm{A}}$ 是阿伏加德罗常数的值, 下列说法正确的是（ ）\nA. $16.25 \\mathrm{gFeCl}_{3}$, 水解形成的 $\\mathrm{Fe}(\\mathrm{OH})_{3}$ 为胶体粒子数为 $0.1 \\mathrm{~N}_{\\mathrm{A}}$\nB. $22.4 \\mathrm{~L}$ (标准状况) 氩气含有的质子数为 $18 \\mathrm{~N}_{\\mathrm{A}}$\nC. $92.0 \\mathrm{~g}$ 甘油 (丙三醇) 中含有羟基数为 $1.0 \\mathrm{~N}_{\\mathrm{A}}$ \nD. $1.0 \\mathrm{molCH}_{4}$ 与 $\\mathrm{Cl}_{2}$ 在光照下生成 $\\mathrm{CH}_{3} \\mathrm{Cl}$ 的分子数为 $1.0 \\mathrm{~N}_{\\mathrm{A}}$\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解： $\\mathrm{A}$. 胶体粒子是一个聚合体, $16.25 \\mathrm{gFeCl}_{3}$ 的物质的量为 $\\frac{16.25 \\mathrm{~g}}{162.5 \\mathrm{~g} / \\mathrm{mol}}=0.1 \\mathrm{~mol}$, 水解形成 $\\mathrm{Fe}(\\mathrm{OH})_{3}$ 胶体时, 多个 $\\mathrm{Fe}(\\mathrm{OH})_{3}$ 聚合为一 个胶体粒子, 所以形成的胶体粒子数小于 $0.1 \\mathrm{~mol}$, 即 $0.1 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{A}$ 错误;\n\nB.22.4L 标准状况的氩气的物质的量为 $1 \\mathrm{~mol}$, 氩气是单原子气体, 所以含有 $18 \\mathrm{molAr}$ ，即含有 $18 \\mathrm{~mol}$ 质子，即 $18 \\mathrm{~N}_{\\mathrm{A}}$ 个质子，故 B 正确;\n\nC.92.0g 甘油 (丙三醇) 的物质的量为 $\\frac{92 \\mathrm{~g}}{92 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}, 1 \\mathrm{~mol}$ 丙三醇含有 $3 \\mathrm{~mol}$ 羟 基, 即含有嵯基数为 $3 N_{A}$, 故 $C$ 错误;\n\nD. $\\mathrm{CH}_{4}$ 与 $\\mathrm{Cl}_{2}$ 的在光照下发生的取代反应产物是混合物, 不是完全生成 $\\mathrm{CH}_{3} \\mathrm{Cl}^{\\text {, }}$, 所以生成 $\\mathrm{CH}_{3} \\mathrm{Cl}$ 的分子数不是 $1.0 \\mathrm{~N}_{\\mathrm{A}}$, 故 D 错误,\n\n故选: B。\n",
+    "index": 79,
+    "category": "选择"
+  },
+  {
+    "question": "3. (6 分）下列气体去除杂质的方法中，不能实现目的的是（）\n\n\\begin{tabular}{|c|c|c|}\n\\hline & 气体 (杂质 $)$ & 方法 \\\\\n\\hline A. & $\\mathrm{SO}_{2}\\left(\\mathrm{H}_{2} \\mathrm{~S}\\right)$ & $\\begin{array}{c}\\text { 通过酸性高锰 } \\\\\n\\text { 酸钾溶液 }\\end{array}$ \\\\\n\\hline B. & $\\mathrm{Cl}_{2}(\\mathrm{HCl})$ & $\\begin{array}{c}\\text { 通过饱和的食 } \\\\\n\\text { 盐水 }\\end{array}$ \\\\\n\\hline C. & $\\mathrm{N}_{2}\\left(\\mathrm{O}_{2}\\right)$ & $\\begin{array}{c}\\text { 通过灼热的铜 } \\\\\n\\text { 丝网 }\\end{array}$ \\\\\n\\hline D. & $\\mathrm{NO}\\left(\\mathrm{NO}_{2}\\right)$ & $\\begin{array}{c}\\text { 通过氢氧化钠 } \\\\\n\\text { 溶液 }\\end{array}$ \\\\\n\\hline\n\\end{tabular}\nA. A\nB. $\\mathrm{B}$\nC. $\\mathrm{C}$\nD. $\\mathrm{D}$\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "【解答】解: A. $\\mathrm{SO}_{2}$ 被酸性高锰酸钾溶液氧化为硫酸，故 $\\mathrm{A}$ 错误;\n\nB. $\\mathrm{Cl}_{2}(\\mathrm{HCl})$ 利用溶解性的差异，除去 $\\mathrm{HCl}$, 故 B 正确;\n\nC. $\\mathrm{N}_{2}\\left(\\mathrm{O}_{2}\\right)$ 利用化学性质的差异, 铜与氧气反应, 不与氮气反应, 达到除杂目的, 故 $\\mathrm{C}$ 正确;\n\nD. $\\mathrm{NO}_{2}$ 可以与 $\\mathrm{NaOH}$ 发生反应: $2 \\mathrm{NO}_{2}+2 \\mathrm{NaOH}=\\mathrm{NaNO}_{2}+\\mathrm{NaNO}_{3}+\\mathrm{H}_{2} \\mathrm{O}, \\mathrm{NO}$ 与 $\\mathrm{NaOH}$ 溶 液不能发生反应; 尽管 $\\mathrm{NO}$ 可以与 $\\mathrm{NO}_{2}$ 一同跟 $\\mathrm{NaOH}$ 发生反应: $\\mathrm{NO}+\\mathrm{NO}_{2}+2 \\mathrm{NaOH}=$ $2 \\mathrm{NaNO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$, 但由于杂质的含量一般较少, 所以也不会对 $\\mathrm{NO}$ 的量产生较大的影响,\n\n故 D 正确;\n\n故选：A。\n",
+    "index": 102,
+    "category": "选择"
+  },
+  {
+    "question": "2. (6 分) 化学与社会、生活密切相关, 对下列现象或事实的解释正确的是 $(\\quad)$\n\n\\begin{tabular}{|c|c|c|}\n\\hline 选项 & 现象或事实 & 解释 \\\\\n\\hline A & 用热的烧碱溶液洗去油污 & $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ 可直接和油污反应 \\\\\n\\hline B & 漂白粉在空气中久置变质 & $\\begin{array}{l}\\text { 漂白粉中的 } \\mathrm{CaCl}_{2} \\text { 与空气中的 } \\\\\n\\qquad \\mathrm{CO}_{2} \\text { 反应生成 } \\mathrm{CaCO}_{3}\\end{array}$ \\\\\n\\hline C & $\\begin{array}{c}\\text { 施肥时, 草木灰（有效成分为 } \\mathrm{K}_{2} \\mathrm{CO}_{3} \\text { ）不 } \\\\\n\\text { 能与 } \\mathrm{NH}_{4} \\mathrm{Cl} \\text { 混合使用 }\\end{array}$ & $\\begin{array}{l}\\mathrm{K}_{2} \\mathrm{CO}_{3} \\text { 与 } \\mathrm{NH}_{4} \\mathrm{Cl} \\text { 反应生成氨气 } \\\\\n\\text { 会降低肥效 }\\end{array}$ \\\\\n\\hline D & $\\mathrm{FeCl}_{3}$ 溶液可用于铜质印刷线路板制作 & $\\begin{array}{c}\\mathrm{FeCl}_{3} \\text { 能从含有 } \\mathrm{Cu}^{2+} \\text { 的溶液中置 } \\\\\n\\text { 换出铜 }\\end{array}$ \\\\\n\\hline\n\\end{tabular}\nA. A\nB. $B$\nC. $\\mathrm{C}$\nD. $\\mathrm{D}$\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "解： A. 油脂在碱性环境下水解生成可溶性物质, 碳酸钠为强碱弱酸盐 水解显碱性, 升高温度促进盐类水解, 所以用热的纯碱溶液洗去油污, 碳酸 钠与油脂不直接反应, 故 $\\mathrm{A}$ 错误;\n\nB. 漂白粉漂白原理为次氯酸䥻与二氧化碳、水反应生成碳酸钲和次氯酸, 次氯 酸具有漂白作用, 二氧化碳与氯化钲不反应, 故 B 错误;\n\nC. 碳酸钾和氯化铵在溶液中水解促进生成氨气, 降低肥效, 施肥时, 草木灰（ 有效成分为 $\\mathrm{K}_{2} \\mathrm{CO}_{3}$ ) 不能与 $\\mathrm{NH}_{4} \\mathrm{Cl}$ 混合使用, 故 $\\mathrm{C}$ 正确;\n\nD. 氯化铁能够与铜反应生成氯化亚铁和氯化铜, 铜不能置换铁, 故 D 错误。\n\n故选: C。\n",
+    "index": 28,
+    "category": "选择"
+  },
+  {
+    "question": "7. （6 分) 室温下将 $1 \\mathrm{~mol}$ 的 $\\left.\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O} （ \\mathrm{~s}\\right)$ 溶于水会使溶液温度降低, 热效 应为 $\\triangle \\mathrm{H} 1$, 将 $1 \\mathrm{~mol}$ 的 $\\mathrm{CuSO}_{4}(\\mathrm{~s})$ 溶于水会使溶液温度升高, 热效应为 $\\triangle \\mathrm{H}_{2}$; $\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}$ 受热分解的化学方程式为: $\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{s})=\\mathrm{CuSO}_{4}(\\mathrm{~s})$ $+5 \\mathrm{H}_{2} \\mathrm{O}$ （1），热效应为 $\\triangle \\mathrm{H}_{3}$. 则下列判断正确的是（ $）$\nA. $\\triangle \\mathrm{H}_{2}>\\triangle \\mathrm{H}_{3}$\nB. $\\triangle \\mathrm{H}_{1}>\\triangle \\mathrm{H}_{3}$\nC. $\\triangle \\mathrm{H}_{1}=\\triangle \\mathrm{H}_{2}+\\triangle \\mathrm{H}_{3}$\nD. $\\triangle \\mathrm{H}_{1}+\\Delta \\mathrm{H}_{2}>\\Delta \\mathrm{H}_{3}$\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "解: (1)胆矾溶于水时, 溶液温度降低, 反应为 $\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{s})=\\mathrm{Cu}^{2+}($ aq) $+\\mathrm{SO}_{4}^{2-}(\\mathrm{aq})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}_{1}>0$\n\n(2) $\\mathrm{CuSO}_{4}(\\mathrm{~s})=\\mathrm{Cu}^{2+}(\\mathrm{aq})+\\mathrm{SO}_{4}{ }^{2-}(\\mathrm{aq}) \\triangle \\mathrm{H}_{2}<0$;\n\n(3)已知 $\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{s})=\\mathrm{CuSO}_{4}(\\mathrm{~s})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}_{3}$;\n\n依据盖斯定律(1)- (2)得到(3), 所以 $\\triangle \\mathrm{H}_{3}=\\triangle \\mathrm{H}_{1}-\\triangle \\mathrm{H}_{2} ; \\triangle \\mathrm{H}_{2}<0, \\triangle \\mathrm{H}_{1}>0$, 则 $\\triangle$ $\\mathrm{H}_{3}>0$\n\nA、上述分析可知 $\\triangle \\mathrm{H}_{2}<\\triangle \\mathrm{H}_{3}$, 故 $\\mathrm{A}$ 错误;\n\nB、分析可知 $\\triangle \\mathrm{H}_{2}=\\triangle \\mathrm{H}_{1}-\\triangle \\mathrm{H}_{3}$, 由于 $\\triangle \\mathrm{H}_{2}<0, \\triangle \\mathrm{H}_{3}>\\triangle \\mathrm{H}_{1}$, 故 B 错误;\n\nC、 $\\triangle \\mathrm{H}_{3}=\\triangle \\mathrm{H}_{1}-\\triangle \\mathrm{H}_{2}$, 故 C 正确;\n\nD、 $\\triangle \\mathrm{H}_{2}<0, \\triangle \\mathrm{H}_{1}>0 、 \\triangle \\mathrm{H}_{3}>\\triangle \\mathrm{H}_{1}+\\triangle \\mathrm{H}_{2}$, 故 D 错误;\n\n故选: C。\n",
+    "index": 36,
+    "category": "选择"
+  },
+  {
+    "question": "5.（6 分）对于下列实验，能正确描述其反应的离子方程式是（）\nA. 用 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 溶液吸收少量 $\\mathrm{Cl}_{2}: 3 \\mathrm{SO}_{3}{ }^{-}+\\mathrm{Cl}_{2}+\\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{HSO}_{3}{ }^{-}+2 \\mathrm{Cl}^{-}+\\mathrm{SO}_{4}{ }^{2}$\nB. 向 $\\mathrm{CaCl}_{2}$ 溶液中通人 $\\mathrm{CO}_{2}: \\mathrm{Ca}^{2+}+\\mathrm{H}_{2} \\mathrm{O}+\\mathrm{CO}_{2}=\\mathrm{CaCO}_{3} \\downarrow+2 \\mathrm{H}^{+}$\nC. 向 $\\mathrm{H}_{2} \\mathrm{O}_{2}$ 溶液中滴加少量 $\\mathrm{FeCl}_{3}: 2 \\mathrm{Fe}^{3+}+\\mathrm{H}_{2} \\mathrm{O}_{2}=\\mathrm{O}_{2} \\uparrow+2 \\mathrm{H}^{+}+2 \\mathrm{Fe}^{2+}$\nD. 同浓度同体积 $\\mathrm{NH}_{4} \\mathrm{HSO}_{4}$ 溶液与 $\\mathrm{NaOH}$ 溶液混合: $\\mathrm{NH}_{4}{ }^{+}+\\mathrm{OH}^{-}=\\mathrm{NH}_{3} \\cdot \\mathrm{H}_{2} \\mathrm{O}$\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "【解答】解: A. 用 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 溶液吸收少量 $\\mathrm{Cl}_{2}: 3 \\mathrm{SO}_{3}{ }^{2-}+\\mathrm{Cl}_{2}+\\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{HSO}_{3}{ }^{-}+2 \\mathrm{Cl}^{-}+\\mathrm{SO}_{4}{ }^{--}$, 符合电荷守恒，物料守恒，强制弱规律，故 A 正确;\n\nB. 弱酸不能制强酸，向 $\\mathrm{CaCl}_{2}$ 溶液中通人 $\\mathrm{CO}_{2}$ 不反应，故 B 错误;\n\nC. 向 $\\mathrm{H}_{2} \\mathrm{O}_{2}$ 溶液中滴加少量 $\\mathrm{FeCl}_{3}, \\mathrm{FeCl}_{3}$ 做催化剂, 促进双氧水的分解, 氧气的氧化性 大于三价铁离子，弱氧化剂不能制强氧化剂，故 C 错误;\n\nD. 不符合客观事实, 氢氧根优先与酸性更强的氢离子反应, 正确的离子方程式: $\\mathrm{H}^{+}+\\mathrm{OH}$ $=\\mathrm{H}_{2} \\mathrm{O}$ ，故 D 错误；\n\n故选：A。\n",
+    "index": 108,
+    "category": "选择"
+  },
+  {
+    "question": "1. (6 分) 国家卫健委公布的新型冠状病毒肺炎诊疗方案指出, 乙醚、 $75 \\%$ 乙醇、含氯消毒 剂、过氧乙酸 $\\left(\\mathrm{CH}_{3} \\mathrm{COOOH}\\right)$ 、氯仿等均可有效灭活病毒。对于上述化学药品, 下列说 法错误的是 ( $\\quad)$\nA. $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ 能与水互溶\nB. $\\mathrm{NaClO}$ 通过氧化灭活病毒\nC. 过氧乙酸相对分子质量为 76\nD. 氯仿的化学名称是四氯化碳\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【解答】解: A. $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ 与水分子间能形成氢键, 并且都是极性分子, 所以 $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ 能与水以任意比互溶, 故 $\\mathrm{A}$ 正确;\n\nB. $\\mathrm{NaClO}$ 具有强氧化性, 通过氧化能灭活病毒, 故 B 正确;\n\nC. 过氧乙酸的结构简式为 $\\mathrm{CH}_{3} \\mathrm{COOOH}$, 相对分子质量为 $12 \\times 2+4+16 \\times 3=76$, 故 $\\mathrm{C}$ 正 确;\n\nD. 氯仿的化学名称是三氯甲烷，不是四氯化碳，故 D 错误;\n\n故选: D。\n",
+    "index": 100,
+    "category": "选择"
+  },
+  {
+    "question": "8. （14 分) 联氨 (又称肼, $\\mathrm{N}_{2} \\mathrm{H}_{4}$, 无色液体) 是一种应用广泛的化工原料, 可 用作火箭燃料. 回答下列问题:\n\n（1）联氨分子的电子式为 ，其中氮的化合价为\n\n(2) 实验室中可用次氯酸钠溶液与氨反应制备联氨, 反应的化学方程式为\n\n(3) (1) $2 \\mathrm{O}_{2}(\\mathrm{~g})+\\mathrm{N}_{2}(\\mathrm{~g})=\\mathrm{N}_{2} \\mathrm{O}_{4}$ (I) $\\triangle \\mathrm{H}_{1}$\n\n(2) $\\mathrm{N}_{2}(\\mathrm{~g})+2 \\mathrm{H}_{2}(\\mathrm{~g})=\\mathrm{N}_{2} \\mathrm{H}_{4}$ (I) $\\triangle \\mathrm{H}_{2}$\n\n(3) $\\mathrm{O}_{2}(\\mathrm{~g})+2 \\mathrm{H}_{2}(\\mathrm{~g})=2 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}_{3}$\n\n(4) $2 \\mathrm{~N}_{2} \\mathrm{H}_{4}(\\mathrm{I})+\\mathrm{N}_{2} \\mathrm{O}_{4}(\\mathrm{I})=3 \\mathrm{~N}_{2}(\\mathrm{~g})+4 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}_{4}=-1048.9 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$\n\n上述反应热效应之间的关系式为 $\\triangle \\mathrm{H}_{4}=$, , 联氨和 $\\mathrm{N}_{2} \\mathrm{O}_{4}$ 可作为火箭推进剂 的主要原因为\n\n(4) 联氨为二元弱碱, 在水中的电离方式与氨相似. 联氨第一步电离反应的平 衡常数值为 (已知: $\\mathrm{N}_{2} \\mathrm{H}_{4}+\\mathrm{H}^{+} \\rightleftharpoons \\mathrm{N}_{2} \\mathrm{H}_{5}{ }^{+}$的 $\\mathrm{K}=8.7 \\times 10^{7} ; \\mathrm{K}_{\\mathrm{w}}=1.0 \\times 10^{-14}$ ).\n\n联氨与硫酸形成的酸式盐的化学式为\n\n(5) 联氨是一种常用的还原剂. 向装有少量 $\\mathrm{AgBr}$ 的试管中加入联氨溶液, 观察 到的现象是 . 联氨可用于处理高压锅炉水中的氧, 防止锅炉被腐蚀.\n\n理论上 $1 \\mathrm{~kg}$ 的联氨可除去水中溶解的 $\\mathrm{O}_{2}$ $\\mathrm{kg}$; 与使用 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 处理水中 溶解的 $\\mathrm{O}_{2}$ 相比, 联氨的优点是\n",
+    "answer": "（1）  $\\mathrm{H}: \\mathrm{N}: \\mathrm{N}: \\mathrm{H} ;-2$;\n（2）  $2 \\mathrm{NH}_{3}+\\mathrm{NaClO}=\\mathrm{N}_{2} \\mathrm{H}_{4}+\\mathrm{NaCl}+\\mathrm{H}_{2} \\mathrm{O}$;\n（3）  $2 \\triangle \\mathrm{H}_{3}-2 \\triangle \\mathrm{H}_{2}-\\triangle \\mathrm{H}_{1}$; 反应放热量大, 产生大量气体;\n（4）  $8.7 \\times 10^{-7}, \\mathrm{~N}_{2} \\mathrm{H}_{6}\\left(\\mathrm{HSO}_{4}\\right)_{2}$;\n（5）  固体逐渐变黑, 并有气泡产生; 1； $\\mathrm{N}_{2} \\mathrm{H}_{4}$ 的用量少, 不产生其他杂质 (反应产物为 $\\mathrm{N}_{2}$ 和 $\\mathrm{H}_{2} \\mathrm{O}$ ) , 而 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 产生 $\\mathrm{Na}_{2} \\mathrm{SO}_{4}$.\n",
+    "analysis": "解：（1）肼的分子式为 $\\mathrm{N}_{2} \\mathrm{H}_{4}$, 是氮原子和氢原子形成四个共价键, 氮 原子和氮原子之间形成一个共价键形成的共价化合物, 电子式为:\n\n$\\mathrm{H} \\mathrm{H}$\n\n$\\mathrm{H}: \\mathrm{N}: \\mathrm{N}: \\mathrm{H}$, 其中氢元素化合价为+1 价, 则氮元素化合价为- 2 价, $\\mathrm{H} \\mathrm{H}$\n\n故答案为: $\\mathrm{H}: \\mathrm{N}: \\mathrm{N}: \\mathrm{H} ;-2$;\n\n（2）氨气被次氯酸钠溶液氧化生成肼, 次氯酸钠被还原生成氯化钠, 结合原子\n\n守恒配平书写反应的化学方程式为: $2 \\mathrm{NH}_{3}+\\mathrm{NaClO}=\\mathrm{N}_{2} \\mathrm{H}_{4}+\\mathrm{NaCl}+\\mathrm{H}_{2} \\mathrm{O}$,\n\n故答案为: $2 \\mathrm{NH}_{3}+\\mathrm{NaClO}=\\mathrm{N}_{2} \\mathrm{H}_{4}+\\mathrm{NaCl}+\\mathrm{H}_{2} \\mathrm{O}$;\n\n(3) (1) $2 \\mathrm{O}_{2}(\\mathrm{~g})+\\mathrm{N}_{2}(\\mathrm{~g})=\\mathrm{N}_{2} \\mathrm{O}_{4}$ (1) $\\triangle \\mathrm{H}_{1}$\n\n(2) $\\mathrm{N}_{2}(\\mathrm{~g})+2 \\mathrm{H}_{2}(\\mathrm{~g})=\\mathrm{N}_{2} \\mathrm{H}_{4}$ (I) $\\triangle \\mathrm{H}_{2}$\n\n(3) $\\mathrm{O}_{2}(\\mathrm{~g})+2 \\mathrm{H}_{2}(\\mathrm{~g})=2 \\mathrm{H}_{2} \\mathrm{O}$ (g) $\\triangle \\mathrm{H}_{3}$\n\n依据热化学方程式和盖斯定律计算(3) $\\times 2$ - (2) $\\times 2$ - (1)得到(4) $2 \\mathrm{~N}_{2} \\mathrm{H}_{4}(\\mathrm{I})+\\mathrm{N}_{2} \\mathrm{O}_{4}($ I )$=3 \\mathrm{~N}_{2}(\\mathrm{~g})+4 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}_{4}=2 \\triangle \\mathrm{H}_{3}-2 \\triangle \\mathrm{H}_{2}-\\triangle \\mathrm{H}_{1}$, 根据反应(4)可知, 联氨 和 $\\mathrm{N}_{2} \\mathrm{O}_{4}$ 反应放出大量热且产生大量气体, 因此可作为火箭推进剂, 故答案为: $2 \\triangle \\mathrm{H}_{3}-2 \\triangle \\mathrm{H}_{2}-\\triangle \\mathrm{H}_{1}$; 反应放热量大, 产生大量气体;\n\n(4) 联氨为二元弱碱, 在水中的电离方式与氨相似. 联氨第一步电离方程式为 $\\mathrm{N}_{2} \\mathrm{H}_{4}+\\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons \\mathrm{N}_{2} \\mathrm{H}_{5}^{+}+\\mathrm{OH}^{-}$, 平衡常数 $\\mathrm{K}_{\\mathrm{b}}=\\frac{\\mathrm{c}\\left(\\mathrm{N}_{2} \\mathrm{H}_{5}^{+}\\right) \\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)}{\\mathrm{c}\\left(\\mathrm{N}_{2} \\mathrm{H}_{4}\\right)}=\\frac{\\mathrm{c}\\left(\\mathrm{N}_{2} \\mathrm{H}_{5}^{+}\\right) \\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)}{\\mathrm{c}\\left(\\mathrm{N}_{2} \\mathrm{H}_{4}\\right)}$ $\\times \\frac{c\\left(\\mathrm{H}^{+}\\right)}{\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)}=\\mathrm{K} \\times \\mathrm{K}_{\\mathrm{w}}=8.7 \\times 10^{7} \\times 1.0 \\times 10^{-14}=8.7 \\times 10^{-7}$, 第二步电离方程式为 $\\mathrm{N}_{2} \\mathrm{H}_{5}{ }^{+}+\\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons \\mathrm{N}_{2} \\mathrm{H}_{6}{ }^{2+}+\\mathrm{OH}^{-}$, 因此联氨与硫酸形成的酸式盐为 $\\mathrm{N}_{2} \\mathrm{H}_{6}\\left(\\mathrm{HSO}_{4}\\right)_{2}$, 故答案为: $8.7 \\times 10^{-7}, \\mathrm{~N}_{2} \\mathrm{H}_{6}\\left(\\mathrm{HSO}_{4}\\right)_{2}$;\n\n（5）联胺被银离子氧化, 银离子被还原生成单质银, -2 价的 $\\mathrm{N}$ 元素被氧化为 $\\mathrm{N}_{2}$ , 反应方程式为: $\\mathrm{N}_{2} \\mathrm{H}_{4}+4 \\mathrm{AgBr}=4 \\mathrm{Ag} \\downarrow+\\mathrm{N}_{2} \\uparrow+4 \\mathrm{HBr}$, 因此反应出现现象为: 固体 逐渐变黑, 并有气泡产生, 由于肼的氧化产物是氮气, 不会对锅炉造成腐蚀, 而亚硫酸钠被氧化产物为硫酸钠, 易生成硫酸盐沉淀影响锅炉的安全使用, 联胺被氧化失电子 $\\mathrm{N}_{2} \\mathrm{H}_{4} \\rightarrow \\mathrm{N}_{2}$ 失去 $4 \\mathrm{e}^{-}, \\mathrm{O}_{2} \\rightarrow \\mathrm{O}^{2-}$ 得到 $4 \\mathrm{e}^{-}$, 联胺和氧气摩尔质 量都是 $32 \\mathrm{~g} / \\mathrm{mol}$, 则等质量联胺和氧气物质的量相同, 理论上 $1 \\mathrm{~kg}$ 的联氨可除 去水中溶解的 $\\mathrm{O}_{2} 1 \\mathrm{~kg}$, 与使用 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 处理水中溶解的 $\\mathrm{O}_{2}$ 相比, 联氨的优点是 用量少, 不产生其他杂质（反应产物为 $\\mathrm{N}_{2}$ 和 $\\mathrm{H}_{2} \\mathrm{O}$ ）, 而 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 产生 $\\mathrm{Na}_{2} \\mathrm{SO}_{4}$, 故答案为: 固体逐渐变黑, 并有气泡产生; 1； $\\mathrm{N}_{2} \\mathrm{H}_{4}$ 的用量少, 不产生其他杂质 (反应产物为 $\\mathrm{N}_{2}$ 和 $\\mathrm{H}_{2} \\mathrm{O}$ ) , 而 $\\mathrm{Na}_{2} \\mathrm{SO}_{3}$ 产生 $\\mathrm{Na}_{2} \\mathrm{SO}_{4}$.\n",
+    "index": 130,
+    "category": "简答"
+  },
+  {
+    "question": "3. (6 分) $a 、 b 、 c 、 d$ 为短周期元素, $a$ 的原子中只有 1 个电子, $b^{2-}$ 和 $c^{+}$的电 子层结构相同， $\\mathrm{d}$ 与 $\\mathrm{b}$ 同族. 下列叙述错误的是（）\nA. $\\mathrm{a}$ 与其他三种元素形成的二元化合物中其化合价均为 +1\nB. $b$ 与其他三种元素均可形成至少两种二元化合物\nC. $\\mathrm{c}$ 的原子半径是这些元素中最大的\nD. $\\mathrm{d}$ 与 a 形成的化合物的溶液呈弱酸性\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "解: $a 、 b 、 c 、 d$ 为短周期元素, $a$ 的原子中只有 1 个电子, 则 $a$ 为 $H$ 元 素; $\\mathrm{b}^{2-}$ 和 $\\mathrm{c}^{+}$的电子层结构相同, 结合离子所得电荷可知 $\\mathrm{b}$ 为 $\\mathrm{O}$ 元素, $\\mathrm{c}$ 为 $\\mathrm{Na}$ $; d$ 与 $b$ 同族, 则 $d$ 为 $S$ 元素。\n\nA. $\\mathrm{H}$ 元素与 $\\mathrm{Na}$ 形成化合物 $\\mathrm{NaH}, \\mathrm{H}$ 元素为 -1 价, 故 $\\mathrm{A}$ 错误;\n\nB. $\\mathrm{O}$ 元素与 $\\mathrm{H}$ 元素形成 $\\mathrm{H}_{2} \\mathrm{O} 、 \\mathrm{H}_{2} \\mathrm{O}_{2}$, 与 $\\mathrm{Na}$ 元素形成 $\\mathrm{Na}_{2} \\mathrm{O} 、 \\mathrm{Na}_{2} \\mathrm{O}_{2}$, 与 $\\mathrm{S}$ 元素形 成 $\\mathrm{SO}_{2} 、 \\mathrm{SO}_{3}$, 故 B 正确;\n\nC. 同周期自左而右原子半径减小, 同主族自上而下原子半径增大, 所有元素中 $\\mathrm{H}$ 原子半径最小, $\\mathrm{Na}$ 的原子半径最大, 故 $\\mathrm{C}$ 正确;\n\nD. $\\mathrm{d}$ 与 $\\mathrm{a}$ 形成的化合物为 $\\mathrm{H}_{2} \\mathrm{~S}, \\mathrm{H}_{2} \\mathrm{~S}$ 的溶液呈弱酸性, 故 D 正确。\n\n故选: $A$ 。\n",
+    "index": 52,
+    "category": "选择"
+  },
+  {
+    "question": "1. 化学在文物的研究和修复中有重要作用。下列说法错误的是\nA. 竹简的成分之一纤维素属于天然高分子 $\\rightarrow$ B. 龟甲的成分之一羟基磷灰石属于无机物\nC. 古陶瓷修复所用的熟石膏, 其成分为 $\\mathrm{Ca}(\\mathrm{OH})_2 \\rightarrow$ D. 古壁画颜料中所用的铁红, 其成分为 $\\mathrm{Fe}_2 \\mathrm{O}_3$",
+    "answer": [
+      "C"
+    ],
+    "analysis": "【详解】A. 纤维素是一种天然化合物, 其分子式为 $\\left(\\mathrm{C}_6 \\mathrm{H}_{10} \\mathrm{O}_5\\right)_{\\mathrm{n}}$, 其相对分子质量较高, 是一种天然高分子, A 正确;\nB. 羟基磷灰石又称又称羟磷灰石、碱式磷酸钙, 其化学式为 $\\left[\\mathrm{Ca}_{10}\\left(\\mathrm{PO}_4\\right)_6(\\mathrm{OH})_2\\right]$, 属于无机物, B 正确;\nC. 熟石膏是主要成分为 $2 \\mathrm{CaSO}_4 \\cdot \\mathrm{H}_2 \\mathrm{O}, \\mathrm{Ca}(\\mathrm{OH})_2$ 为熟石灰的主要成分, $\\mathrm{C}$ 错误;\nD. $\\mathrm{Fe}_2 \\mathrm{O}_3$ 为红色, 常被用于油漆、涂料、油墨和橡胶的红色颜料, 俗称铁红, D 正确;故答案选 C。",
+    "index": 140,
+    "category": "选择"
+  },
+  {
+    "question": "5. 根据实验操作及现象, 下列结论中正确的是\n\\begin{tabular}{|l|l|l|}\n\\hline 选项 & 实验操作及现象 & 结论 \\\\\n\\hline\n\\hline $\\mathrm{A}$ & \\begin{tabular}{l} \n常温下将铁片分别插入稀硝酸和浓硝酸中, 前者产生无色气体, 后者无明 \\\\\n显现象\n\\end{tabular} & \\begin{tabular}{l} \n稀硝酸的氧化性比 \\\\\n浓硝酸强\n\\end{tabular} \\\\\n\\hline $\\mathrm{B}$ & \\begin{tabular}{l} \n取一定量 $\\mathrm{Na}_2 \\mathrm{SO}_3$ 样品, 溶解后加入 $\\mathrm{BaCl}_2$ 溶液, 产生白色沉淀。加入浓 \\\\\n$\\mathrm{HNO}_3$, 仍有沉淀\n\\end{tabular} & 此样品中含有 $\\mathrm{SO}_4^{2-}$ \\\\\n\\hline $\\mathrm{C}$ & \\begin{tabular}{l} \n将银和 $\\mathrm{AgNO}_3$ 溶液与铜和 $\\mathrm{Na}_2 \\mathrm{SO}_4$ 溶液组成原电池。连通后银表面有银白 \\\\\n色金属沉积, 铜电极附近溶液逐渐变蓝\n\\end{tabular} & \\begin{tabular}{l}\n$\\mathrm{Cu}$ 的金属性比 \\\\\n$\\mathrm{Ag}$ 强\n\\end{tabular} \\\\\n\\hline $\\mathrm{D}$ & 向溴水中加入苯, 振荡静置, 水层颜色变浅 & 溴与苯发生了加成反应 \\\\\n\\hline\n\\end{tabular}",
+    "answer": [
+      "C"
+    ],
+    "analysis": "【详解】A．常温下，铁片与浓硝酸会发生钝化，导致现象不明显，但稀硝酸与铁不发生钝化，会产生气泡，所以不能通过该实验现象比较浓硝酸和稀硝酸的氧化性强弱，A错误；\nB．浓硝酸会氧化亚硫酸根生成硫酸根，仍然产生白色沉淀，所以不能通过该实验现象判断样品中含有硫酸根，B错误；\nC．铜比银活泼，在形成原电池过程中，做负极，发生氧化反应，生成了铜离子，导致溶液变为蓝色，所以该实验可以比较铜和银的金属性强弱，C正确；\nD．向溴水中加入苯，苯可将溴萃取到上层，使下层水层颜色变浅，不是溴与苯发生了加成反应，D错误；\n故选C。",
+    "index": 141,
+    "category": "选择"
+  },
+  {
+    "question": "2.（6 分）下列叙述中, 错误的是（）\nA. 苯与浓硝酸、浓硫酸共热并保持 $55 \\sim 60^{\\circ} \\mathrm{C}$ 反应生成硝基苯\nB. 苯乙烯在合适条件下催化加氢可生成乙基环己烷\nC. 乙烯和溴的四氯化碳溶液反应生成 $1,2-$ 二溴乙烷\nD. 甲苯与氯气在光照下反应主要生成 $2,4-$ 二氯甲苯\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "解: A. 苯的硝化反应: 苯与浓硝酸、浓硫酸共热并保持 $55 \\sim 60^{\\circ} \\mathrm{C}$ 反应 生成硝基苯, 故 A 正确;\n\nB. 碳碳双键能发生加成反应, 苯环也可发生加成反应, 所以苯乙烯在合适条件 下催化加氢可生成乙基环己烷，故 B 正确;\n\nC. 碳碳双键能发生加成反应, 所以乙烯和溴的四氯化碳溶液反应生成 $1,2-$ 二 溴乙烷，故 $\\mathrm{C}$ 正确;\n\nD. 甲苯与氯气在光照下反应主要发生的是侧链上的氢原子被取代, 不能得到苯 环上氢原子被取代的产物 $2,4-$ 二氯甲苯，故 D 错误;\n\n故选: D。\n",
+    "index": 23,
+    "category": "选择"
+  },
+  {
+    "question": "1.（6 分）下列生活用品中主要由合成纤维制造的是（）\nA. 尼龙绳\nB. 宣纸\nC. 羊绒衫\nD. 棉祇衣\n",
+    "answer": [
+      "A"
+    ],
+    "analysis": "解： A.尼龙绳的主要成分是聚酯类合成纤维, 满足条件, 故 A 正确;\n\nB. 宣纸的主要成分为天然纤维素，不属于合成纤维，故 B 错误;\n\nC. 羊绒衫的主要成分是蛋白质, 不属于合成纤维, 故 $\\mathrm{C}$ 错误;\n\nD. 棉衬衣的主要成分为天然纤维素, 不是合成纤维, 故 D 错误;\n\n故选: A。\n",
+    "index": 62,
+    "category": "选择"
+  },
+  {
+    "question": "2. (6 分) 下列叙述正确的是 ( )\nA. $24 \\mathrm{~g}$ 镁与 $27 \\mathrm{~g}$ 铝中, 含有相同的质子数\nB. 同等质量的氧气和臭氧中, 电子数相同\nC. $1 \\mathrm{~mol}$ 重水与 $1 \\mathrm{~mol}$ 水中, 中子数比为 $2: 1$\nD. $1 \\mathrm{~mol}$ 乙烷和 $1 \\mathrm{~mol}$ 乙烯中, 化学键数相同\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "【解答】解: A. $24 \\mathrm{~g}$ 镁与 $27 \\mathrm{~g}$ 铝的物质的量均为 $1 \\mathrm{~mol}, 1 \\mathrm{molMg}$ 含有 $12 \\mathrm{~mol}$ 质子, $1 \\mathrm{molAl}$ 含有 $13 \\mathrm{~mol}$ 质子，二者不含有相同的质子数，故 $\\mathrm{A}$ 错误;\n\nB. 氧气和臭氧均只含有氧原子, 同等质量的氧气和臭氧中, 相当于同等质量的 氧原子, 所含电子数相同, 故 B 正确;\n\nC. 质量数= 质子数+中子数, $\\mathrm{H}$ 无中子, $\\mathrm{D}$ 含有 1 个中子, $\\mathrm{O}$ 含有 8 个中子, 所 以 $1 \\mathrm{~mol}$ 重水与 $1 \\mathrm{~mol}$ 水中, 中子数比为 $10: 8=5: 4$, 故 C 错误;\n\nD. $1 \\mathrm{~mol}$ 乙烷含有 $7 \\mathrm{~mol}$ 共价键, $1 \\mathrm{~mol}$ 乙烯含有 $6 \\mathrm{~mol}$ 共价键, 二者化学键数不相 同，故 D 错误,\n\n故选: B。\n",
+    "index": 86,
+    "category": "选择"
+  },
+  {
+    "question": "3. （6 分）在生成和纯化乙酸乙酯的实验过程中, 下列操作末涉及的是（）\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_f21c25e2b97999d253c1g-01.jpg?height=474&width=437&top_left_y=1716&top_left_x=293)\n\nA.\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_f21c25e2b97999d253c1g-01.jpg?height=314&width=300&top_left_y=1873&top_left_x=821)\n\nB.\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_f21c25e2b97999d253c1g-01.jpg?height=468&width=165&top_left_y=1719&top_left_x=1208)\n\nC.\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_f21c25e2b97999d253c1g-01.jpg?height=268&width=274&top_left_y=1922&top_left_x=1482)\n\nD.\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "解: A. 乙酸乙酯的制备是乙醇浓硫酸和乙酸混合溶液加热生成的, 选 择试管中加热，故 $A$ 不选;\n\nB. 生成的乙酸乙酯混有乙酸、乙醇, 通过饱和碳酸钠溶液吸收乙醇、中和乙酸、 降低乙酸乙酯溶解度, 防止倒吸导气管不能深入溶液, 故 B 不选;\n\nC. 饱和碳酸钠溶液吸收静置后, 利用分液的方法分离, 故 C 不选;\n\nD. 图中是利用蒸发皿加热蒸发溶液得到溶质晶体的方法, 在生成和纯化乙酸乙 酯的实验过程中, 操作末涉及, 故 $D$ 选;\n\n故选: D。\n",
+    "index": 78,
+    "category": "选择"
+  },
+  {
+    "question": "1. (6 分) 化学与生活密切相关。下列说法错误的是（）\nA. PM2.5 是指粒径不大于 $2.5 \\mu \\mathrm{m}$ 的可吸人悬浮颗粒物\nB. 绿色化学要求从源头上消除或减少生产活动对环境的污染\nC. 燃煤中加人 $\\mathrm{CaO}$ 可以减少酸雨的形成及温室气体的排放\nD. 天然气和液化石油气是我国目前推广使用的清洁燃料\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "【解答】解：A. PM2.5 是指空气中直径等于或小于 $2.5 \\mu \\mathrm{m}$ 的悬浮颗粒物, 它能 较长时间悬浮于空气中, 其在空气中含量浓度越高, 就代表空气污染越严重, 故 A 正确;\n\nB. 绿色化学的核心是利用化学原理从源头上消除或减少生产生活对环境的污 染，而不能污染后再治理，故 B 正确;\n\nC. 加人氧化钘可与煤燃烧生成的二氧化硫在氧气中发生反应生成硫酸铂, 二氧 化硫排放量减少, 但在高温下反应仍然生成二氧化碳, 即燃煤中加人 $\\mathrm{CaO}$ 后 可减少酸雨的发生, 但不能减少温室气体的排放量, 故 $\\mathrm{C}$ 错误;\n\nD. 天然气 $(\\mathrm{CNG})$ 主要成分是甲烷, 液化石油气 $(\\mathrm{LPG})$ 的成分是丙烷、丁烷 等，这些碳氢化合物完全燃烧生成二氧化碳和水，则这两类燃料是清洁燃料, 故 D 正确; 故选:C。\n",
+    "index": 71,
+    "category": "选择"
+  },
+  {
+    "question": "6. (6 分) 短周期元素 $W 、 X 、 Y$ 和 $\\mathrm{Z}$ 在周期表中的相对位置如表所示, 这四 种元素原子的最外电子数之和为 21 . 下列关系正确的是 (） \n\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline & & $W$ & $X$ & \\\\\n\\hline $\\mathrm{Y}$ & & & & $Z$ \\\\\n\\hline\n\\end{tabular}\nA. 氢化物沸点: $\\mathrm{W}<\\mathrm{Z}$\nB. 氧化物对应水化物的酸性: $\\mathrm{Y}>\\mathrm{W}$\nC. 化合物熔点: $\\mathrm{Y}_{2} \\mathrm{X}_{3}<\\mathrm{YZ}_{3}$\nD. 简单离子的半径: $\\mathrm{Y}<\\mathrm{X}$\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【解答】解：由以上分析可知 $\\mathrm{X}$ 为 $\\mathrm{O} 、 \\mathrm{Y}$ 为 $\\mathrm{Al} 、 \\mathrm{Z}$ 为 $\\mathrm{Cl} 、 \\mathrm{~W}$ 为 $\\mathrm{N}$ 元素,\n\nA. $\\mathrm{W}$ 为 $\\mathrm{N}$ 元素, 对应的氢化物分子之间可形成氢键, 沸点比 $\\mathrm{HCl}$ 高, 故 $\\mathrm{A}$ 错 误;\n\nB. $\\mathrm{Y}$ 为 $\\mathrm{Al}$, 对应的氧化物的水化物呈碱性, $\\mathrm{W}$ 为 $\\mathrm{N}$, 对应的氧化物的水化物溶 液呈酸性，故 B 错误;\n\nC. $\\mathrm{Al}_{2} \\mathrm{O}_{3}$ 离子化合物, $\\mathrm{AlCl}_{3}$ 为共价化合物, 则离子化合物的熔点较高, 故 $\\mathrm{C}$ 错 误;\n\nD. $\\mathrm{X}$ 为 $\\mathrm{O} 、 \\mathrm{Y}$ 为 $\\mathrm{Al}$, 对应的离子具有相同的核外电子排布, 核电荷数越大离子 半径越小，故 D 正确。\n\n故选: D。\n",
+    "index": 75,
+    "category": "选择"
+  },
+  {
+    "question": "6. （6 分) 某白色粉末由两种物质组成, 为鉴别其成分进行如下实验:\n\n(1)取少量样品加入足量水仍有部分固体末溶解: 再加入足量稀盐酸, 有气泡产生 ，固体全部溶解; (2)取少量样品加入足量稀硫酸有气泡产生, 振荡后仍有固体存在.\n\n该白色粉末可能为（ $)$\nA. $\\mathrm{NaHCO}_{3} 、 \\mathrm{Al}(\\mathrm{OH})_{3}$\nB. $\\mathrm{AgCl} 、 \\mathrm{NaHCO}_{3}$\nC. $\\mathrm{Na}_{2} \\mathrm{SO}_{3} 、 \\mathrm{BaCO}_{3}$\nD. $\\mathrm{Na}_{2} \\mathrm{CO}_{3} 、 \\mathrm{CuSO}_{4}$\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "解: $\\mathrm{A} . \\mathrm{NaHCO}_{3} 、 \\mathrm{Al}(\\mathrm{OH})_{3}$ 都与盐酸反应, 硫酸足量时没有固体剩余, 故 $A$ 错误;\n\nB. 碳酸氢钠与盐酸反应生成气体, $\\mathrm{AgCl}$ 不溶于盐酸, 故 B 错误;\n\nC. $\\mathrm{BaCO}_{3}$ 不溶于水, 二者都与盐酸反应, 且生成气体, 若加入足量稀硫酸, 有 气泡产生, 且 $\\mathrm{BaCO}_{3}$, 能和 $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ 反应生成 $\\mathrm{BaSO}_{4}$ 沉淀, 故 $\\mathrm{C}$ 正确;\n\nD. 加入过量硫酸, 生成二氧化碳气体, 但没有固体剩余, 故 D 错误。\n\n故选: C。\n",
+    "index": 55,
+    "category": "选择"
+  },
+  {
+    "question": "5. (6 分) $\\mathrm{Mg}-\\mathrm{AgCl}$ 电池是一种以海水为电解质溶液的水激活电池。下列叙述 错误的是 ( $)$\nA. 负极反应式为 $\\mathrm{Mg}-2 \\mathrm{e}^{-}=\\mathrm{Mg}^{2+}$\nB. 正极反应式为 $\\mathrm{Ag}^{+}+\\mathrm{e}^{-}=\\mathrm{Ag}$\nC. 电池放电时 $\\mathrm{Cl}^{-}$由正极向负极迁移\nD. 负极会发生副反应 $\\mathrm{Mg}+2 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Mg}(\\mathrm{OH})_{2}+\\mathrm{H}_{2} \\uparrow$\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解：A. 活泼金属镁作负极, 失电子发生氧化反应, 反应式为: $\\mathrm{Mg}-2 \\mathrm{e}^{-}=\\mathrm{Mg}^{2+}$, 故 $\\mathrm{A}$ 正确;\n\nB. $\\mathrm{AgCl}$ 是难溶物, 其电极反应式为: $2 \\mathrm{AgCl}^{+} 2 \\mathrm{e}^{-}=2 \\mathrm{Cl}^{-}+2 \\mathrm{Ag}$, 故 B 错误;\n\nC. 原电池放电时, 阴离子向负极移动, 则 $\\mathrm{Cl}^{-}$在正极产生由正极向负极迁移, 故 C 正确;\n\nD. 镁是活泼金属与水反应, 即 $\\mathrm{Mg}+2 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Mg}(\\mathrm{OH}){ }_{2}+\\mathrm{H}_{2} \\uparrow$, 故 D 正确; 故选: B。\n",
+    "index": 54,
+    "category": "选择"
+  },
+  {
+    "question": "6. （6 分) $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 均为的短周期主族元素, 原子序数依次增加, 且原子 核外 $\\mathrm{L}$ 电子层的电子数分别为 $0 、 5 、 8 、 8$, 它们的最外层电子数之和为 18 . 下列说法正确的是（）\nA. 单质的沸点: $W>X$\nB. 阴离子的还原性: $W>Z$\nC. 氧化物的水化物的酸性: $\\mathrm{Y}<\\mathrm{Z}$\nD. $\\mathrm{X}$ 与 $\\mathrm{Y}$ 不能存在于同一离子化合物中\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解: $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 均为的短周期主族元素, 原子序数依次增加, 且原 子核外 $\\mathrm{L}$ 电子层的电子数分别为 $0 、 5 、 8 、 8$, 则 $\\mathrm{W}$ 是 $\\mathrm{H}$ 元素, $\\mathrm{X}$ 是 $\\mathrm{N}$ 元素, $Y 、 Z$ 为第三周期元素;\n\n它们的最外层电子数之和为 $18, \\mathrm{~W}$ 最外层电子数是 $1, \\mathrm{X}$ 最外层电子数是 $5, \\mathrm{Y}$ $、 \\mathrm{Z}$ 最外层电子数之和是 12 , 且二者都是主族元素, $\\mathrm{Y}$ 原子序数小于 $\\mathrm{Z}$, 则 $\\mathrm{Y}$ 是 $P$ 元素、 $\\mathrm{Z}$ 是 $\\mathrm{Cl}$ 元素,\n\nA. $\\mathrm{H} 、 \\mathrm{~N}$ 元素单质都是分子晶体, 分子晶体熔沸点与相对分子质量成正比, 氮 气相对分子质量大于氢气, 所以单质的沸点: $\\mathrm{W}<\\mathrm{X}$, 故 $\\mathrm{A}$ 错误;\n\nB. 元素的非金属性越强, 其简单阴离子的还原性越弱, 非金属性 $\\mathrm{W}<\\mathrm{Z}$, 所以 阴离子的还原性: $\\mathrm{W}>\\mathrm{Z}$, 故 B 正确;\n\nC. 元素的非金属性越强, 其最高价氧化物的水化物酸性越强, 非金属性 $\\mathrm{P}<\\mathrm{Cl}$, 最高价氧化物的水化物酸性 $\\mathrm{H}_{3} \\mathrm{PO}_{4}<\\mathrm{HClO}_{4}$, 但氧化物的水化物的酸性不一定 存在此规律, 如磷酸酸性大于次氯酸, 故 C 错误;\n\nD. $X 、 Y$ 分别是 N、P 元素, 可能存在磷酸铵、磷酸一氢铵、磷酸二氢铵中, 磷酸铵、磷酸一氢铵、磷酸二氢铵都是铵盐, 属于离子化合物, 故 D 错误;\n\n故选: B。\n",
+    "index": 40,
+    "category": "选择"
+  },
+  {
+    "question": "5. (6 分) 设 $\\mathrm{N}_{\\mathrm{A}}$ 为阿伏加德罗常数值。关于常温下 $\\mathrm{pH}=2$ 的 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 溶液, 下列说法正确的 是 $(\\quad)$\nA. 每升溶液中的 $\\mathrm{H}^{+}$数目为 $0.02 \\mathrm{~N}_{\\mathrm{A}}$\nB. $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}^{-}\\right)+2 \\mathrm{c}\\left(\\mathrm{HPO}_{4}{ }^{--}\\right)+3 \\mathrm{c}\\left(\\mathrm{PO}_{4}{ }^{3-}\\right)+\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$\nC. 加水稀释使电离度增大, 溶液 $\\mathrm{pH}$ 减小\nD. 加人 $\\mathrm{NaH}_{2} \\mathrm{PO}_{4}$ 固体，溶液酸性增强\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "【解答】解: A. 常温下 $\\mathrm{pH}=2$ 的 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 溶液中 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=0.01 \\mathrm{~mol} / \\mathrm{L}, 1 \\mathrm{~L}$ 该溶液中含有 的 $\\mathrm{n}\\left(\\mathrm{H}^{+}\\right)=0.01 \\mathrm{~mol} / \\mathrm{L} \\times 1 \\mathrm{~L}=0.01 \\mathrm{~mol}$, 含有 $\\mathrm{H}^{+}$数目为 $0.01 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{A}$ 错误;\n\nB. 根据 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 溶液中的电荷守恒可知: $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}{ }^{-}\\right)+2 \\mathrm{c}\\left(\\mathrm{HPO}_{4}{ }^{2-}\\right)+3 \\mathrm{c}\\left(\\mathrm{PO}_{4}{ }^{3}\\right.$ )$+\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$，故 B 正确; C. 加水稀释 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 的浓度减小, 其电离度增大, 但溶液中氢离子浓度减小, 溶液 $\\mathrm{pH}$ 增 大，故 C 错误；\n\nD. 加人 $\\mathrm{NaH}_{2} \\mathrm{PO}_{4}$ 固体后, 抑制了 $\\mathrm{H}_{3} \\mathrm{PO}_{4}$ 的电离, 溶液中氢离子浓度减小, 溶液酸性减 弱，故 D 错误;\n\n故选：B。\n",
+    "index": 98,
+    "category": "选择"
+  },
+  {
+    "question": "8. (14 分) 铁是应用最广泛的金属, 铁的卤化物、氧化物以及高价铁的含氧酸 盐均为重要化合物.\n\n(1) 要确定铁的某氯化物 $\\mathrm{FeCl}_{\\mathrm{x}}$ 的化学式, 可用离子交换和滴定的方法. 实验 中称取 $0.54 \\mathrm{~g} \\mathrm{FeCl}_{\\mathrm{x}}$ 样品, 溶解后先进行阳离子交换预处理, 再通过含有饱和 $\\mathrm{OH}^{-}$的阴离子交换柱, 使 $\\mathrm{Cl}^{-}$和 $\\mathrm{OH}^{-}$发生交换. 交换完成后, 流出溶液的 $\\mathrm{OH}^{-}$ 用 $0.40 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的盐酸滴定, 滴至终点时消耗盐酸 $25.0 \\mathrm{~mL}$. 计算该样品中氯 的物质的量, 并求出 $\\mathrm{FeCl}_{\\mathrm{x}}$ 中的 $\\mathrm{x}$ 值: (列出计算过程)\n\n(2) 现有一含有 $\\mathrm{FeCl}_{2}$ 和 $\\mathrm{FeCl}_{3}$ 的混合物的样品, 采用上述方法测得 $\\mathrm{n}(\\mathrm{Fe}): \\mathrm{n}$ $(\\mathrm{Cl})=1: 2.1$, 则该样品中 $\\mathrm{FeCl}_{3}$ 的物质的量分数为 . 在实验室中, $\\mathrm{FeCl}_{2}$ 可用铁粉和 反应制备, $\\mathrm{FeCl}_{3}$ 可用铁粉和 反应制备;\n\n(3) $\\mathrm{FeCl}_{3}$ 与氢碘酸反应时可生成棕色物质, 该反应的离子方程式为\n\n(4) 高铁酸钾 $\\left(\\mathrm{K}_{2} \\mathrm{FeO}_{4}\\right)$ 是一种强氧化剂, 可作为水处理剂和高容量电池材料 . $\\mathrm{FeCl}_{3}$ 和 $\\mathrm{KClO}$ 在强碱性条件下反应可生成 $\\mathrm{K}_{2} \\mathrm{FeO}_{4}$, 其反应的离子方程式为 . 与 $\\mathrm{MnO}_{2}-\\mathrm{Zn}$ 电池类似, $\\mathrm{K}_{2} \\mathrm{FeO}_{4}-\\mathrm{Zn}$ 也可以组成碱性电池, $\\mathrm{K}_{2} \\mathrm{FeO}_{4}$ 在电池 中作为正极材料, 其电极反应式为 . 该电池总反应的离子方程式为\n",
+    "answer": "（1）  $\\mathrm{n}(\\mathrm{Cl})=\\mathrm{n}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{n}\\left(\\mathrm{OH}^{-}\\right)=0.0250 \\mathrm{~L} \\times 0.40 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}=0.010 \\mathrm{~mol}$, $\\frac{0.54 \\mathrm{~g}}{56+35.5 \\mathrm{x}} \\times \\mathrm{x}=0.010 \\mathrm{~mol}, \\mathrm{x}=3$\n（2）  $10 \\%$; 盐酸; 氯气;\n（3）\n（4）  $2 \\mathrm{Fe}(\\mathrm{OH}){ }_{3}+3 \\mathrm{ClO}^{-}+4 \\mathrm{OH}^{-}=2 \\mathrm{FeO}_{4}{ }^{2-}+3 \\mathrm{Cl}^{-}+5 \\mathrm{H}_{2} \\mathrm{O}$;\n",
+    "analysis": "解: $(1) \\mathrm{n}(\\mathrm{Cl})=\\mathrm{n}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{n}\\left(\\mathrm{OH}^{-}\\right)=0.0250 \\mathrm{~L} \\times 0.40 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}=0.010 \\mathrm{~mol}$ , $0.54 \\mathrm{~g} \\mathrm{FeCl}_{\\mathrm{x}}$ 样品中含有氯离子物质的量为 $\\frac{0.54 \\mathrm{~g}}{56+35.5 \\mathrm{x}} \\times \\mathrm{x}=0.010 \\mathrm{~mol}$, 解得 $x=3$\n\n故答案为: $\\mathrm{n}(\\mathrm{Cl})=\\mathrm{n}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{n}\\left(\\mathrm{OH}^{-}\\right)=0.0250 \\mathrm{~L} \\times 0.40 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}=0.010 \\mathrm{~mol}$, $\\frac{0.54 \\mathrm{~g}}{56+35.5 \\mathrm{x}} \\times \\mathrm{x}=0.010 \\mathrm{~mol}, \\mathrm{x}=3$\n\n(2) $\\mathrm{FeCl}_{2}$ 和 $\\mathrm{FeCl}_{3}$ 的混合物的样品中 $\\mathrm{FeCl}_{2}$ 物质的量为 $\\mathrm{x}, \\mathrm{FeCl}_{3}$ 的物质的量为 $\\mathrm{y}$ , 则 $(x+y):(2 x+3 y)=1: 2.1$, 得到 $x: y=9: 1$, 氯化铁物质的量分数 $=\\frac{1}{9+1}$ \n\n$$\n\\times 100 \\%=10 \\%\n$$\n\n在实验室中, $\\mathrm{FeCl}_{2}$ 可用铁粉和盐酸反应得到, $\\mathrm{FeCl}_{3}$ 可用铁粉和氯气反应生成, 故答案为: $10 \\%$; 盐酸; 氯气;\n\n（3）氯化铁具有氧化性碘化氢具有还原性, 二者发生氧化还原反应生成氯化亚 铁和碘单质, 反应离子方程式为: $2 \\mathrm{Fe}^{3+}+2 \\mathrm{I}^{-}=2 \\mathrm{Fe}^{2+}+\\mathrm{I}_{2}$, 故答案为:\n\n$2 \\mathrm{Fe}^{3+}+2 \\mathrm{I}^{-}=2 \\mathrm{Fe}^{2+}+\\mathrm{I}_{2}$\n\n(4) 用 $\\mathrm{FeCl}_{3}$ 与 $\\mathrm{KClO}$ 在强碱性条件下反应制取 $\\mathrm{K}_{2} \\mathrm{FeO}_{4}$, 反应的离子方程式为 $2 \\mathrm{Fe}(\\mathrm{OH}){ }_{3}+3 \\mathrm{ClO}^{-}+4 \\mathrm{OH}^{-}=2 \\mathrm{FeO}_{4}{ }^{2-}+3 \\mathrm{Cl}^{-}+5 \\mathrm{H}_{2} \\mathrm{O}$, 原电池的负极发生氧化反 应, 正极电极反应式为: (1) $\\mathrm{FeO}_{4}{ }^{2-}+3 \\mathrm{e}^{-}+4 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Fe}(\\mathrm{OH})_{3}+5 \\mathrm{OH}^{-}$; 负极电极 反应为: (2) $\\mathrm{Zn}-2 \\mathrm{e}^{-}+2 \\mathrm{OH}^{-}=\\mathrm{Zn}(\\mathrm{OH})_{2}$; 依据电极反应的电子守恒, (1) $\\times 2+(2)$ $\\times 3$ 合并得到电池反应为: $3\\mathrm{Zn}+2\\mathrm{FeO}_{4}{}^{2-}+8\\mathrm{H}_{2}\\mathrm{O}=3\\mathrm{Zn}\\mathrm{OH}{}_{2}+2\\mathrm{Fe}\\mathrm{(OH)}_3+4\\mathrm{OH}^{-}$,\n\n故 答 案 为: $2 \\mathrm{Fe}(\\mathrm{OH}){ }_{3}+3 \\mathrm{ClO}^{-}+4 \\mathrm{OH}^{-}=2 \\mathrm{FeO}_{4}{ }^{2-}+3 \\mathrm{Cl}^{-}+5 \\mathrm{H}_{2} \\mathrm{O}$;\n\n$\\mathrm{FeO}_{4}{ }^{2-}+3 \\mathrm{e}^{-}+4 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Fe}(\\mathrm{OH}){ }_{3}+5 \\mathrm{OH}^{-} ; 3 \\mathrm{Zn}+2 \\mathrm{FeO}_{4}{ }^{2-}+8 \\mathrm{H}_{2} \\mathrm{O}=3 \\mathrm{Zn}(\\mathrm{OH}){ }_{2}+2 \\mathrm{Fe}$ $(\\mathrm{OH})_{3}+4 \\mathrm{OH}^{-}$\n",
+    "index": 126,
+    "category": "简答"
+  },
+  {
+    "question": "7. ( 6 分) $W 、 X 、 Y 、 Z$ 为原子序数依次增大的短周期元素, 四种元素的核外电子总数满足 $\\mathrm{X}+\\mathrm{Y}=\\mathrm{W}+\\mathrm{Z}$; 化合物 $\\mathrm{XW}_{3}$\n\n与 WZ 相遇会产生白烟。下列叙述正确的是（）\nA. 非金属性: $\\mathrm{W}>\\mathrm{X}>\\mathrm{Y}>\\mathrm{Z}$\nB. 原子半径: $\\mathrm{Z}>\\mathrm{Y}>\\mathrm{X}>\\mathrm{W}$\nC. 元素 $\\mathrm{X}$ 的含氧酸均为强酸\nD. $Y$ 的氧化物水化物为强碱\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【解答】解: A. 根据最高价氧化物对应水化物的酸性强弱, 非金属性 $\\mathrm{Cl}>\\mathrm{N}>\\mathrm{H}>\\mathrm{Na}$, 故 A 错误；\n\nB. 同周期元素从左向右原子半径依次减小, 同主族元素自上而下原子半径依次增大, 原 子半径: $\\mathrm{Na}>\\mathrm{Cl}>\\mathrm{N}>\\mathrm{H}$, 故 B 错误;\n\nC. 元素 $\\mathrm{X}$ 的含氧酸有硝酸和亚硝酸，亚硝酸是弱酸，故 C 错误;\n\nD. $\\mathrm{Y}$ 的氧化物水化物为氢氧化钠, 氢氧化钠是强碱, 故 D 正确;\n\n故选：D。\n",
+    "index": 109,
+    "category": "选择"
+  },
+  {
+    "question": "6. 能正确表示下列反应的离子方程式为（ ） \nA. 硫化亚铁溶于稀硝酸中: $\\mathrm{FeS}+2 \\mathrm{H}^{+}=\\mathrm{Fe}^{2+}+\\mathrm{H}_{2} \\mathrm{~S} \\uparrow$\nB. $\\mathrm{NH}_{4} \\mathrm{HCO}_{3}$ 溶于过量的 $\\mathrm{NaOH}$ 溶液中: $\\mathrm{HCO}_{3}{ }^{-}+\\mathrm{OH}^{-}=\\mathrm{CO}_{3}{ }^{2-}+\\mathrm{H}_{2} \\mathrm{O}$\nC. 少量 $\\mathrm{SO}_{2}$ 通入苯酚钠溶液中: $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{O}^{-}+\\mathrm{SO}_{2}+\\mathrm{H}_{2} \\mathrm{O}=\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}+\\mathrm{HSO}_{3}$\nD. 大理石溶于醋酸中: $\\mathrm{CaCO}_{3}+2 \\mathrm{CH}_{3} \\mathrm{COOH}=\\mathrm{Ca}^{2+}+2 \\mathrm{CH}_{3} \\mathrm{COO}^{-}+\\mathrm{CO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "解: A. 硝酸具有氧化性, 能氧化 $\\mathrm{FeS}$, 因此产物应该是硝酸铁、硫酸 和一氧化氮，故 $A$ 错误;\n\nB. $\\mathrm{NH}_{4} \\mathrm{HCO}_{3}$ 溶于过量的 $\\mathrm{NaOH}$ 溶液中除了生成碳酸钠外还有一水合氨生成, 方 程式为 $\\mathrm{NH}_{4}{ }^{+}+\\mathrm{HCO}_{3}{ }^{-}+2 \\mathrm{OH}^{-}=\\mathrm{CO}_{3}{ }^{2-}+\\mathrm{H}_{2} \\mathrm{O}+\\mathrm{NH}_{3} . \\mathrm{H}_{2} \\mathrm{O}$, 故 B 错误;\n\nC. $\\mathrm{SO}_{2}$ 不足产物应该是 $\\mathrm{SO}_{3}{ }^{2-}$, 少量 $\\mathrm{SO}_{2}$ 通入苯酚钠溶液中的离子反应为 $2 \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{O}^{-}+\\mathrm{SO}_{2}+\\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}+\\mathrm{SO}_{3}^{2-}$, 故 C 错误;\n\nD. 碳酸铂和醋酸在离子反应中应保留化学式, 大理石溶于醋酸中的离子反应为 $\\mathrm{CaCO}_{3}+2 \\mathrm{CH}_{3} \\mathrm{COOH}=\\mathrm{Ca}^{2+}+2 \\mathrm{CH}_{3} \\mathrm{COO}^{-}+\\mathrm{CO}_{2} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$ ， 故 D 正确;\n\n故选: $D$ 。\n",
+    "index": 10,
+    "category": "选择"
+  },
+  {
+    "question": "12. 早期发现的一种天然二十面体准晶颗粒由 $\\mathrm{Al} 、 \\mathrm{Cu} 、 \\mathrm{Fe}$ 三种金属元素组成, 回答下列问题:\n\n(1) 准晶是一种无平移周期序, 但有严格准周期位置序的独特晶体, 可通过 方法区分晶体、准晶体和非晶体.\n\n（2）基态 $\\mathrm{Fe}$ 原子有 个末成对电子, $\\mathrm{Fe}^{3+}$ 的电子排布式为 ， 可用 硫氰化钾检验 $\\mathrm{Fe}^{3+}$, 形成的配合物的颜色为\n\n(3) 新制备的 $\\mathrm{Cu}(\\mathrm{OH})_{2}$ 可将乙醛 $\\left(\\mathrm{CH}_{3} \\mathrm{CHO}\\right)$ 氧化成乙酸, 而自身还原成 $\\mathrm{Cu}_{2} \\mathrm{O}$ , 乙醛中碳原子的杂化轨道类型为 ; $1 \\mathrm{~mol}$ 乙醛分子中含有的 $\\sigma$ 键的 数目为 , 乙酸的沸点明显高于乙醛, 其主要原因是 . $\\mathrm{Cu}_{2} \\mathrm{O}$ 为 半导体材料, 在其立方晶胞内部有 4 个氧原子, 其余氧原子位于面心和顶点, 则该晶胞中有 个铜原子.\n\n(4) $\\mathrm{Al}$ 单质为面心立方晶体, 其晶胞参数 $\\mathrm{a}=0.405 \\mathrm{~nm}$, 晶胞中铝原子的配位数 为 ，列式表示 $\\mathrm{Al}$ 单质的密度 $\\mathrm{g} \\cdot \\mathrm{cm}^{-3}$ (不必计算出结果).\n",
+    "answer": "（1）  $X$ 射线衍射;\n（2）  $4 ; 1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{5}$; 血红色;\n（3）  $\\mathrm{sp}^{3} 、 \\mathrm{sp}^{2} ; 6 \\mathrm{~N}_{\\mathrm{A}}$; 乙酸存在分子间氢键； 16 ;\n（4）  $\\frac{4 \\times 27}{6.02 \\times 10^{23} \\times\\left(0.405 \\times 10^{-7}\\right)^{3}}$.\n",
+    "analysis": "解: (1) 从外观无法区分三者, 但用 $X$ 光照射挥发现: 晶体对 $X$ 射线 发生衍射, 非晶体不发生衍射, 准晶体介于二者之间, 因此通过有无衍射现 象即可确定，\n\n故答案为: $X$ 射线衍射;\n\n(2) 26 号元素 $\\mathrm{Fe}$ 基态原子核外电子排布式为 $1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{6} 4 \\mathrm{~s}^{2}$, 可知在 $3 \\mathrm{~d}$ 上存在 4 个末成对电子, 失去电子变为铁离子时, 先失去 $4 \\mathrm{~s}$ 上的 2 个电子后 失去 $3 \\mathrm{~d}$ 上的 1 个电子, 因此 $\\mathrm{Fe}^{3+}$ 的电子排布式为 $1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{5}$, 硫氰化 铁为血红色, 故答案为: $4 ; 1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{5}$; 血红色;\n\n（3）乙醛中甲基上的 $\\mathrm{C}$ 形成 4 条 $\\sigma$ 键, 无孤电子对, 因此采取 $\\mathrm{sp}^{3}$ 杂化类型, 醛基中的 $\\mathrm{C}$ 形成 3 条 $\\sigma$ 键和 1 条 $\\pi$ 键, 无孤电子对, 采取 $\\mathrm{sp}^{2}$ 杂化类型; 1 个 乙醛分子含有 6 个 $\\sigma$ 键和一个 $\\pi$ 键, 则 $1 \\mathrm{~mol}$ 乙醛含有 $6 \\mathrm{~mol} \\sigma$ 键, 即 $6 \\mathrm{~N}_{\\mathrm{A}}$ 个 $\\sigma$ 键; 乙酸分子间可形成氢键, 乙醛不能形成氢键, 所以乙酸的沸点高于乙醛; 该晶胞中 $\\mathrm{O}$ 原子数为 $4 \\times 1+6 \\times \\frac{1}{2}+8 \\times \\frac{1}{8}=8$, 由 $\\mathrm{Cu}_{2} \\mathrm{O}$ 中 $\\mathrm{Cu}$ 和 $\\mathrm{O}$ 的比例可知该 晶胞中铜原子数为 $\\mathrm{O}$ 原子数的 2 倍, 即为 16 个;\n\n故答案为: $\\mathrm{sp}^{3} 、 \\mathrm{sp}^{2} ; 6 \\mathrm{~N}_{\\mathrm{A}}$; 乙酸存在分子间氢键； 16 ;\n\n(4) 在 $\\mathrm{Al}$ 晶体的一个晶胞中与它距离相等且最近的 $\\mathrm{Al}$ 原子在通过这个顶点的 三个面心上, 面心占 $\\frac{1}{2}$, 通过一个顶点可形成 8 个晶胞, 因此该晶胞中铝原 子的配位数为 $8 \\times 3 \\times \\frac{1}{2}=12 ;$ 个个晶胞中 $\\mathrm{Al}$ 原子数为 $8 \\times \\frac{1}{8}+6 \\times \\frac{1}{2}=4$, 因此 $\\mathrm{Al}$ 的 密 度\n\n$$\n\\rho=\\frac{\\Pi}{V}=\\frac{4 \\times 27 \\mathrm{~g}}{\\mathrm{~N}_{\\mathrm{A}} \\times\\left(0.405 \\times 10^{-7} \\mathrm{~cm}\\right)^{3}}=\\frac{4 \\times 27}{6.02 \\times 10^{23} \\times\\left(0.405 \\times 10^{-7}\\right)^{3}} \\mathrm{~g}^{\\cdot \\mathrm{cm}^{-3}},\n$$\n\n故答案为: $\\frac{4 \\times 27}{6.02 \\times 10^{23} \\times\\left(0.405 \\times 10^{-7}\\right)^{3}}$.\n",
+    "index": 128,
+    "category": "简答"
+  },
+  {
+    "question": "2. 下列过程对应的离子方程式正确的是\nA. 用氢氟酸刻蚀玻璃: $\\mathrm{SiO}_{3}^{2-}+4 \\mathrm{~F}^{-}+6 \\mathrm{H}^{+}=\\mathrm{SiF}_{4} \\uparrow+3 \\mathrm{H}_{2} \\mathrm{O}$\nB. 用三氯化铁溶液刻制覆铜电路板: $2 \\mathrm{Fe}^{3+}+3 \\mathrm{Cu}=3 \\mathrm{Cu}^{2+}+2 \\mathrm{Fe}$\nC. 用硫代硫酸钠溶液脱氯: $\\mathrm{S}_{2} \\mathrm{O}_{3}^{2-}+2 \\mathrm{Cl}_{2}+3 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{SO}_{3}^{2-}+4 \\mathrm{Cl}^{-}+6 \\mathrm{H}^{+}$\nD. 用碳酸钠溶液浸泡锅炉水垢中的硫酸钙: $\\mathrm{CaSO}_{4}+\\mathrm{CO}_{3}^{2-}=\\mathrm{CaCO}_{3}+\\mathrm{SO}_{4}^{2-}$",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【详解】A. 玻璃的主要成分为 $\\mathrm{SiO}_{2}$, 用氢氟酸刻蚀玻璃时, $\\mathrm{SiO}_{2}$ 和氢氟酸反应生成 $\\mathrm{SiF}_{4}$ 气体和水, 反应的方程式为 $\\mathrm{SiO}_{2}+4 \\mathrm{HF}=\\mathrm{SiF}_{4} \\uparrow+2 \\mathrm{H}_{2} \\mathrm{O}, \\mathrm{A}$ 错误;\nB. $\\mathrm{Fe}^{3+}$ 可以将 Cu 氧化成 $\\mathrm{Cu}^{2+}$, 三氯化铁刻蚀铜电路板时反应的离子方程式为 $2 \\mathrm{Fe}^{3+}+\\mathrm{Cu}^{-1} 2 \\mathrm{Fe}^{2+}+\\mathrm{Cu}^{2+}, \\mathrm{B}$ 错误;\nC. 氯气具有强氧化性, 可以氧化硫代硫酸根成硫酸根, 氯气被还原为氯离子, 反应的离子方程式为 $\\mathrm{S}_{2} \\mathrm{O}$ ${ }_{3}^{2-}+4 \\mathrm{Cl}_{2}+5 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{SO}_{4}^{2-}+8 \\mathrm{Cl}^{-}+10 \\mathrm{H}^{+}$, C 错误;\nD. 碳酸钙的溶解度小于硫酸钙，可以用碳酸钠溶液浸泡水垢使硫酸钙转化为疏松、易溶于酸的碳酸钙，反应的离子方程式为 $\\mathrm{CaSO}_{4}+\\mathrm{CO}_{3}^{2-}=\\mathrm{CaCO}_{3}+\\mathrm{SO}_{4}^{2-}, \\mathrm{D}$ 正确;故答案选D。",
+    "index": 146,
+    "category": "选择"
+  },
+  {
+    "question": "3. (6 分) $\\mathrm{N}_{\\mathrm{A}}$ 是阿伏加德罗常数的值。下列说法正确的是（）\nA. $22.4 \\mathrm{~L}$ (标准状况）氮气中含有 $7 \\mathrm{~N}_{\\mathrm{A}}$ 个中子\nB. $1 \\mathrm{~mol}$ 重水比 $1 \\mathrm{~mol}$ 水多 $\\mathrm{N}_{\\mathrm{A}}$ 个质子\nC. $12 \\mathrm{~g}$ 石墨烯和 $12 \\mathrm{~g}$ 金刚石均含有 $\\mathrm{N}_{\\mathrm{A}}$ 个碳原子 D. $1 \\mathrm{~L} 1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{NaCl}$ 溶液含有 $28 \\mathrm{~N}_{\\mathrm{A}}$ 个电子\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "【解答】解：A. 氮气是双原子分子，一个氮气分子有 14 个中子， $22.4 \\mathrm{~L}$ （标准状况） 氮气中含有 $14 \\mathrm{~N}_{\\mathrm{A}}$ 个中子，故 $\\mathrm{A}$ 错误;\n\nB. 重水 $\\left(\\mathrm{D}_{2} \\mathrm{O}\\right)$ 和水 $\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)$ 的质子数都是 $10,1 \\mathrm{~mol}$ 重水比 $1 \\mathrm{~mol}$ 水都是 $10 \\mathrm{~N}_{\\mathrm{A}}$ 个质子, 故 B 错误；\n\nC. $12 \\mathrm{~g}$ 石墨烯 $\\mathrm{n}\\left(\\mathrm{C}_{60}\\right)=\\frac{12 \\mathrm{~g}}{720 \\mathrm{~g} / \\mathrm{mol}}=\\frac{1}{60} \\mathrm{~mol}$, 含有个碳原子物质的量 $\\mathrm{n}(\\mathrm{c})=\\frac{1}{60} \\mathrm{~mol}$ $\\times 60=1 \\mathrm{~mol}$, 含有 $\\mathrm{N}_{\\mathrm{A}}$ 个碳原子, $12 \\mathrm{~g}$ 金刚石 $(\\mathrm{C})$ 的物质的量 $\\mathrm{n}=\\frac{\\mathrm{m}}{\\mathrm{M}}=\\frac{12 \\mathrm{~g}}{12 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 含有 $\\mathrm{N}_{\\mathrm{A}}$ 个碳原子，故 $\\mathrm{C}$ 正确;\n\nD. $1 \\mathrm{~L} 1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{NaCl}$ 溶质含有 $28 \\mathrm{~N}_{\\mathrm{A}}$ 个电子，溶剂水也要考虑，故 $\\mathrm{D}$ 错误；\n\n故选: C。\n",
+    "index": 107,
+    "category": "选择"
+  },
+  {
+    "question": "2. (6 分) 已知 $\\mathrm{N}_{\\mathrm{A}}$ 是阿伏加德罗常数的值，下列说法错误的是（）\nA. $3 \\mathrm{~g}^{3} \\mathrm{He}$ 含有的中子数为 $1 \\mathrm{~N}_{\\mathrm{A}}$\nB. $1 \\mathrm{~L} 0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 磷酸钠溶液含有的 $\\mathrm{PO}_{4}{ }^{-}$数目为 $0.1 \\mathrm{~N}_{\\mathrm{A}}$\nC. $1 \\mathrm{molK}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ 被还原为 $\\mathrm{Cr}^{3+}$ 转移的电子数为 $6 \\mathrm{~N}_{\\mathrm{A}}$\nD. $48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷的混合物中共价键数目为 $13 \\mathrm{~N}_{\\mathrm{A}}$\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "【解答】解: $\\mathrm{A} 、 3 \\mathrm{~g}^{3} \\mathrm{He}$ 的物质的量为 $1 \\mathrm{~mol}$, 而 $1 \\mathrm{~mol}^{3} \\mathrm{He}$ 中子的物质的量为 $1 \\mathrm{~mol}$, 所以 $3 \\mathrm{~g}^{3} \\mathrm{He}$ 含有的中子数为 $1 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{A}$ 正确;\n\n$\\mathrm{B}$ 、磷酸钠是强碱弱酸盐, 弱离子磷酸根离子会发生水解, 所以 $1 \\mathrm{~L} 0.1 \\mathrm{~mol} \\cdot{ }^{-1} \\mathrm{~L}$ 磷酸钠溶 液含有的 $\\mathrm{PO}_{4}{ }^{3-}$ 数目小于 $0.1 \\mathrm{~N}_{\\mathrm{A}}$ ，故 B 错误;\n\nC、 $\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ 中铬由 +6 价变成 +3 价, 所以 $1 \\mathrm{~mol} \\mathrm{~K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ 被还原为 $\\mathrm{Cr}^{3+}$ 转移的电子数为 $6 \\mathrm{~N}_{\\mathrm{A}}$ ，故 $\\mathrm{C}$ 正确;\n\nD、正丁烷和异丁烷只是碳架不同, 含有的共价键数均为 13 条, 所以 $48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷, 即混合物的物质的量为 $\\frac{48 \\mathrm{~g}+10 \\mathrm{~g}}{58 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 所以 $48 \\mathrm{~g}$ 正丁烷和 $10 \\mathrm{~g}$ 异丁烷的混合 物中共价键数目为 $13 \\mathrm{~N}_{\\mathrm{A}}$ ，故 D 正确;\n\n故选：B。\n",
+    "index": 92,
+    "category": "选择"
+  },
+  {
+    "question": "5. ( 6 分 ) 1934 年约里奥 - 居里夫妇在核反应中用a粒子 ( 即氦核 ${ }_{2}^{4} \\mathrm{He}$ ) 轰击金属原子 $\\underset{Z}{W} \\mathrm{X}$, 得到核素 ${ }_{\\mathrm{Z}+2}^{30} \\mathrm{Y}$, 开创了人造放射性核素的先河: ${ }_{\\mathrm{Z}} \\mathrm{X}+{ }_{2}^{4} \\mathrm{He} \\rightarrow \\underset{\\mathrm{Z}+2}{30} \\mathrm{Y}+{ }_{0}^{1} \\mathrm{n}$ 其中元素 $\\mathrm{X} 、 \\mathrm{Y}$ 的 最外层电子数之和为 8 . 下列叙述正确的是 $(\\quad)$\nA. ${ }_{Z}^{Z} \\mathrm{X}$ 的相对原子质量为 26\nB. $X 、 Y$ 均可形成三氯化物\nC. $\\mathrm{X}$ 的原子半径小于 $\\mathrm{Y}$ 的\nD. $\\mathrm{Y}$ 仅有一种含氧酸\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "【解答】解：由上述分析可知 $\\mathrm{X}$ 为 $\\mathrm{Al} 、 \\mathrm{Y}$ 为 $\\mathrm{P}$,\nA. $\\mathrm{W}$ 为 $27, \\mathrm{X}$ 原子的相对原子质量为 27 , 故 $\\mathrm{A}$ 错误;\nB. $\\mathrm{X} 、 \\mathrm{Y}$ 可形成三氯化物分别为 $\\mathrm{AlCl}_{3} 、 \\mathrm{PCl}_{3}$ ，故 B 正确;\nC. 同周期从左向右原子半径减小，则 $\\mathrm{X}$ 的原子半径大于 $\\mathrm{Y}$ 的半径, 故 $\\mathrm{C}$ 错误;\nD. $\\mathrm{Y}$ 的含氧酸有磷酸、偏磷酸等，故 D 错误；\n\n故选：B。\n",
+    "index": 103,
+    "category": "选择"
+  },
+  {
+    "question": "4. 一种矿物由短周期元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 组成, 溶于稀盐酸有无色无味气体生成。 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 原子序数依次增大。简单离子 $\\mathrm{X}^{2-}$ 与 $\\mathrm{Y}^{2+}$ 具有相同的电子结构。下列叙述正确的是\nA. $X$ 的常见化合价有 $-1 、-2$\nB. 原子半径大小为 $\\mathrm{Y}>\\mathrm{X}>\\mathrm{W}$\nC. $Y X$ 的水合物具有两性\nD. $\\mathrm{W}$ 单质只有 4 种同素异形体",
+    "answer": [
+      "A"
+    ],
+    "analysis": "【详解】A. $\\mathrm{X}$ 为 $\\mathrm{O}$, 氧的常见价态有 -1 价和 -2 价, 如 $\\mathrm{H}_2 \\mathrm{O}_2$ 和 $\\mathrm{H}_2 \\mathrm{O}, \\mathrm{A}$ 正确;\nB. $\\mathrm{W}$ 为 $\\mathrm{C}, \\mathrm{X}$ 为 $\\mathrm{O}, \\mathrm{Y}$ 为 $\\mathrm{Mg}$, 同主族时电子层数越多, 原子半径越大, 电子层数相同时, 原子序数越小,原子半径越大, 所以原子半径大小为: $\\mathrm{Y}>\\mathrm{W}>\\mathrm{X}, \\mathrm{B}$ 错误;\nC. $Y$ 为 $\\mathrm{Mg}, \\mathrm{X}$ 为 $\\mathrm{O}$, 他们可形成 $\\mathrm{MgO}$, 水合物为 $\\mathrm{Mg}(\\mathrm{OH})_2, \\mathrm{Mg}(\\mathrm{OH})_2$ 只能与酸反应生成盐和水, 不能与碱反应, 所以 $\\mathrm{YX}$ 的水合物没有两性, $\\mathrm{C}$ 错误;\nD. $\\mathrm{W}$ 为 $\\mathrm{C}$, 碳的同素异形体有: 金刚石、石墨、石墨烯、富勒烯、碳纳米管等, 种类不止四种, $\\mathrm{D}$ 错误;故选 A",
+    "index": 138,
+    "category": "选择"
+  },
+  {
+    "question": "10. (15 分) 某班同学用如下实验探究 $\\mathrm{Fe}^{2+} 、 \\mathrm{Fe}^{3+}$ 的性质. 回答下列问题:\n\n(1) 分别取一定量氯化铁、氯化亚铁固体, 均配制成 $0.1 \\mathrm{~mol} / \\mathrm{L}$ 的溶液. 在 $\\mathrm{FeCl}_{2}$ 溶液中需加入少量铁屑, 其目的是\n\n(2) 甲组同学取 $2 \\mathrm{mLFeCl}_{2}$ 溶液. 加入几滴氯水, 再加入 1 滴 $\\mathrm{KSCN}$ 溶液, 溶液 变红, 说明 $\\mathrm{Cl}_{2}$ 可将 $\\mathrm{Fe}^{2+}$ 氧化. $\\mathrm{FeCl}_{2}$ 溶液与氯水反应的离子方程式为\n\n(3) 乙组同学认为甲组的实验不够严谨, 该组同学在 $2 \\mathrm{mLFeCl}_{2}$ 溶液中先加入 $0.5 \\mathrm{~mL}$ 煤油, 再于液面下依次加入几滴氯水和 I 滴 KSCN 溶液, 溶液变红, 煤 油的作用是\n\n(4) 丙组同学取 $10 \\mathrm{~mL} 0.1 \\mathrm{~mol} / \\mathrm{LKI}$ 溶液, 加入 $6 \\mathrm{~mL} .1 \\mathrm{~mol} / \\mathrm{LFeCl}_{3}$ 溶液混合. 分别 取 $2 \\mathrm{~mL}$ 此溶液于 3 支试管中进行如下实验:\n\n(1)第一支试管中加入 $1 \\mathrm{mLCCl}_{4}$ 充分振荡、静置, $\\mathrm{CCl}_{4}$ 层呈紫色;\n\n(2)第二只试管中加入 1 滴 $K_{3}\\left[F e(C N)_{6}\\right]$ 溶液，生成蓝色沉淀;\n\n(3)第三支试管中加入 1 滴 KSCN 溶液, 溶液变红.\n\n实验(2)检验的离子是___（填离子符号）； 实验(1)和(3)说明： 在 $\\mathrm{I}^{-}$过量的情 况下， 溶液中仍含有 (填离子符号), 由此可以证明该氧化还原反应 为\n\n(5) 丁组同学向盛有 $\\mathrm{H}_{2} \\mathrm{O}_{2}$ 溶液的试管中加入几滴酸化的 $\\mathrm{FeCl}_{2}$ 溶液, 溶液变成 棕黄色，发生反应的离子方程式为 ；一段时间后, 溶液中有气泡出现 ，并放热, 随后有红褐色沉淀生成. 产生气泡的原因是 ；生成沉淀的 原因是 (用平衡移动原理解释）.\n",
+    "answer": "（1）  防止氯化亚铁被氧化;\n（2）  $\\mathrm{Cl}_{2}+2 \\mathrm{Fe}^{2+}=2 \\mathrm{Fe}^{3+}+2 \\mathrm{Cl}^{-}$;\n（3）  隔离空气（排除氧气对实验的影响）;\n（4）  $\\mathrm{Fe}^{2+} ; \\mathrm{Fe}^{3+}$; 可逆反应.\n（5）  $2 \\mathrm{Fe}^{2+}+\\mathrm{H}_{2} \\mathrm{O}_{2}+2 \\mathrm{H}^{+}=2 \\mathrm{Fe}^{3+}+2 \\mathrm{H}_{2} \\mathrm{O}$; 铁离子做过氧化氢分解催化剂分解生成 氧气；过氧化氢分解反应放热, 促进 $\\mathrm{Fe}^{3+}$ 的水解平衡正向移动.\n",
+    "analysis": "解：（1）铁和氯化铁反应生成氯化亚铁, 在 $\\mathrm{FeCl}_{2}$ 溶液中需加入少量铁 屑, 其目的是防止氯化亚铁被氧化,\n\n故答案为: 防止氯化亚铁被氧化;\n\n(2)氯气具有氧化性能氧化氯化亚铁为氯化铁, 反应的离子方程式为: $\\mathrm{Cl}_{2}+2 \\mathrm{Fe}^{2+}=2 \\mathrm{Fe}^{3+}+2 \\mathrm{Cl}^{-}$\n\n故答案为: $\\mathrm{Cl}_{2}+2 \\mathrm{Fe}^{2+}=2 \\mathrm{Fe}^{3+}+2 \\mathrm{Cl}^{-}$;\n\n（3）煤油不溶于水, 密度比水小, 分层后可以隔离溶液与空气接触, 排除氧气 对实验的影响，\n\n故答案为: 隔离空气（排除氧气对实验的影响）;\n\n(4) 加入 1 滴 $K_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$ 溶液, 生成蓝色沉淀是亚铁离子的检验特征反应现 象, 实验(2)检验的离子是 $\\mathrm{Fe}^{2^{+}}$, (1)第一支试管中加入 $1 \\mathrm{~mL} \\mathrm{CCl}_{4}$ 充分振荡、静 置, $\\mathrm{CCl}_{4}$ 层显紫色说明生成 $\\mathrm{I}_{2}$, 碘离子被铁离子氧化为碘单质, 反应的离子方 程式为: $2 \\mathrm{I}^{-}+2 \\mathrm{Fe}^{3+}=2 \\mathrm{Fe}^{2+}+\\mathrm{I}_{2}$, (3)第三支试管中加入 1 滴 $\\mathrm{KSCN}$ 溶液, 溶液变红 , 说明随浓度变小, 碘离子在稀的氯化铁溶液中不发生氧化还原反应, 仍含 有铁离子, 在 $\\mathrm{I}^{-}$过量的情况下, 溶液中仍含有 $\\mathrm{Fe}^{3^{+}}$, 说明该反应为可逆反应. 故答案为: $\\mathrm{Fe}^{2+} ; \\mathrm{Fe}^{3+}$; 可逆反应.\n\n(5) 向盛有 $\\mathrm{H}_{2} \\mathrm{O}_{2}$ 溶液的试管中加入几滴酸化的 $\\mathrm{FeCl}_{2}$ 溶液, 溶液变成棕黄色, 说明过氧化氢氧化亚铁离子为铁离子, 反应的离子方程式为: $2 \\mathrm{Fe}^{2+}+\\mathrm{H}_{2} \\mathrm{O}_{2}+2 \\mathrm{H}^{+}=2 \\mathrm{Fe}^{3+}+2 \\mathrm{H}_{2} \\mathrm{O}$, 铁离子对过氧化氢分解起到催化剂作用, 产生 气泡的原因是铁离子做过氧化氢分解催化剂分解生成氧气, 氯化铁溶液中存 在水解平衡, $\\mathrm{Fe}^{3+}+3 \\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons \\mathrm{Fe}(\\mathrm{OH})_{3}+3 \\mathrm{H}^{+}$, 水解反应为吸热反应, 过氧化氢分 解放出热量, 促进 $\\mathrm{Fe}^{3+}$ 的水解平衡正向移动.\n\n故答案为: $2 \\mathrm{Fe}^{2+}+\\mathrm{H}_{2} \\mathrm{O}_{2}+2 \\mathrm{H}^{+}=2 \\mathrm{Fe}^{3+}+2 \\mathrm{H}_{2} \\mathrm{O}$; 铁离子做过氧化氢分解催化剂分解生成 氧气；过氧化氢分解反应放热, 促进 $\\mathrm{Fe}^{3+}$ 的水解平衡正向移动.\n",
+    "index": 131,
+    "category": "简答"
+  },
+  {
+    "question": "3. (6 分) $a 、 b 、 c 、 d$ 为原子序数依次增大的短周期主族元素, $a$ 原子核外电子 总数与 $\\mathrm{b}$ 原子次外层的电子数相同; $\\mathrm{c}$ 所在周期数与族数相同; $\\mathrm{d}$ 与 $\\mathrm{a}$ 同族, 下列叙述正确的是（）\nA. 原子半径: $d>c>b>a$\nB. 4 种元素中 $\\mathrm{b}$ 的金属性最强\nC. $\\mathrm{c}$ 的氧化物的水化物是强碱\nD. $\\mathrm{d}$ 单质的氧化性比 $\\mathrm{a}$ 单质的氧化性强\n",
+    "answer": [
+      "B"
+    ],
+    "analysis": "解: 由以上分析可知 $\\mathrm{a}$ 为 $\\mathrm{O}$ 元素、 $\\mathrm{b}$ 可能为 $\\mathrm{Na}$ 或 $\\mathrm{Mg} 、 \\mathrm{c}$ 为 $\\mathrm{Al} 、 \\mathrm{~d}$ 为 $\\mathrm{S}$ 元素。\n\nA. 同周期元素从左到右原子半径逐渐减小, 应为 $\\mathrm{b}>\\mathrm{c}>\\mathrm{d}$, $\\mathrm{a}$ 为 $\\mathrm{O}$, 原子半径最 小，故 $\\mathrm{A}$ 错误;\n\nB. 同周期元素从左到右元素的金属性逐渐降低, 则金属性 $\\mathrm{b}>\\mathrm{c}, \\mathrm{a} 、 \\mathrm{~d}$ 为非金属 , 金属性较弱, 则 4 种元素中 $\\mathrm{b}$ 的金属性最强, 故 B 正确;\n\nC. $\\mathrm{c}$ 为 $\\mathrm{Al}$, 对应的氧化物的水化物为氢氧化铝, 为弱碱, 故 $\\mathrm{C}$ 错误;\n\nD. 一般来说, 元素的非金属性越强, 对应的单质的氧化性越强, 应为 a 的单质 的氧化性强, 故 D 错误。\n\n故选: B。\n",
+    "index": 68,
+    "category": "选择"
+  },
+  {
+    "question": "3. 实验室制备下列气体的方法可行的是\n\n\\begin{tabular}{|l|l|l|}\n\\hline & 气体 & 方法 \\\\\n\\hline $\\mathrm{A}$ & 氨气 & 加热氯化铵固体 \\\\\n\\hline $\\mathrm{B}$ & 二氧化氮 & 将铝片加到冷浓硝酸中 \\\\\n\\hline $\\mathrm{C}$ & 硫化氢 & 向硫化钠固体滴加浓硫酸 \\\\\n\\hline $\\mathrm{D}$ & 氧气 & 加热氯酸钾和二氧化锰的混合物 \\\\\n\\hline\n\\end{tabular}\nA. A\nB. B\nC. C\nD. D\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "【详解】A. 氯化铵不稳定, 加热易分解生成氨气和氯化氢, 但两者遇冷又会化合生成氯化铵固体, 所以不 能用于制备氨气，A 不可行; B. 将铝片加到冷浓硝酸中会发生钝化现象，不能用于制备二氧化氮，B 不可行;\n\nC. 硫化氢为还原性气体, 浓硫酸具有强氧化性, 不能用浓硫酸与硫化钠固体反应制备该硫化氢气体, 因为 该气体会与浓硫酸发生氧化还原反应，C 不可行;\n\nD. 实验室加热氯酸钾和二氧化锰的混合物, 生成氯化钾和氧气, 二氧化锰作催化剂, 可用此方法制备氧气,\n\n$\\mathrm{D}$ 可行;\n\n故选 D。\n",
+    "index": 114,
+    "category": "选择"
+  },
+  {
+    "question": "6. （6 分) 短周期主族元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 的原子序数依次增大， $\\mathrm{W}$ 的简单氢化 物可用作制冷剂, $\\mathrm{Y}$ 的原子半径是所有短周期主族元素中最大的。由 $X 、 Y$ 和 $\\mathrm{Z}$ 三种元素形成的一种盐溶于水后, 加入稀盐酸, 有黄色沉淀析出, 同时 有刺激性气体产生。下列说法不正确的是（）\nA. $\\mathrm{X}$ 的简单氢化物的热稳定性比 $\\mathrm{W}$ 强\nB. $\\mathrm{Y}$ 与 $\\mathrm{X}$ 的简单离子的具有相同的电子层结构\nC. $\\mathrm{Y}$ 与 $\\mathrm{Z}$ 形成的化合物的水溶液可使蓝色石芯试纸变红\nD. $\\mathrm{Z}$ 与 $\\mathrm{X}$ 属于同一主族, 与 $\\mathrm{Y}$ 属于同一周期\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "解: 由以上分析可知 $\\mathrm{W}$ 为 $\\mathrm{N}$ 元素, $\\mathrm{X}$ 为 $\\mathrm{O}$ 元素, $\\mathrm{Y}$ 为 $\\mathrm{Na}$ 元素, $\\mathrm{Z}$ 为 $\\mathrm{S}$ 元素。\n\nA. 非金属性 $\\mathrm{O}>\\mathrm{N}$, 元素的非金属性越强, 对应的氢化物越稳定, 故 $\\mathrm{A}$ 正确;\n\nB. $\\mathrm{Y}$ 为 $\\mathrm{Na}$ 元素, $\\mathrm{X}$ 为 $\\mathrm{O}$ 元素, 对应的简单离子核外都有 10 个电子, 与 $\\mathrm{Ne}$ 的 核外电子排布相同, 故 B 正确;\n\nC. $\\mathrm{Y}$ 与 $\\mathrm{Z}$ 形成的化合物为 $\\mathrm{Na}_{2} \\mathrm{~S}$, 为强碱弱酸盐, 水解呈碱性, 则可使红色石䓌心 试液变蓝色, 蓝色石䓌试纸不变色, 故 C 错误;\n\nD. $\\mathrm{Z}$ 为 $\\mathrm{S}$ 元素, 与 $\\mathrm{O}$ 同主族, 与 $\\mathrm{Na}$ 同周期, 故 $\\mathrm{D}$ 正确。\n\n故选: C。\n",
+    "index": 65,
+    "category": "选择"
+  },
+  {
+    "question": "3.（6 分）已知\n\n(b)\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_375fa149c0ee65c4a57eg-01.jpg?height=160&width=154&top_left_y=1042&top_left_x=745)\n\n$(\\mathrm{d})$\n![](https://cdn.mathpix.com/cropped/2023_03_05_375fa149c0ee65c4a57eg-01.jpg?height=170&width=402&top_left_y=1032&top_left_x=1014)\n\n的分子式均为 $\\mathrm{C}_{6} \\mathrm{H}_{6}$, 下列说法正确的是（ $\\quad$ )\nA. $\\mathrm{b}$ 的同分异构体只有 $\\mathrm{d}$ 和 $\\mathrm{p}$ 两种\nB. 它们的二氯代物均只有三种\nC. 它们均可与酸性高锰酸钾溶液反应\nD. 只有 $\\mathrm{b}$ 的所有原子处于同一平面\n",
+    "answer": [
+      "D"
+    ],
+    "analysis": "解: A. b 为苯, 对应的同分异构体可为环状烃, 也可为链状烃, 如 HC $\\equiv \\mathrm{C}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{CH}=\\mathrm{CH}_{2}$, 则同分异构体不仅仅 $\\mathrm{d}$ 和 $\\mathrm{p}$ 两种, 故 $\\mathrm{A}$ 错误; B. $\\mathrm{d}$ 编号如图 4 , 对应的二氯代物中，两个氯原子可分别位于 $1 、 2 ， 1 、 3$ ，1、4, 2、3，2、5，3、6 等位置，故 B 错误;\n\nC. $\\mathrm{p}$ 为饱和烃, 与高锰酸钾不反应, 且 $\\mathrm{b}$ 也不反应, 故 $\\mathrm{C}$ 错误;\n\nD. $d 、 p$ 都含有饱和碳原子, 具有甲烷的结构特点, 则 $\\mathrm{d}, \\mathrm{p}$ 所有原子不可能处 于同一平面, 只有 $\\mathrm{b}$ 为平面形结构, 故 $\\mathrm{D}$ 正确。\n\n故选: D。\n",
+    "index": 64,
+    "category": "选择"
+  },
+  {
+    "question": "5. （6 分) $\\mathrm{N}_{\\mathrm{A}}$ 代表阿伏加德罗常数的值, 下列说法正确的是（）\nA. 常温常压下, $124 \\mathrm{gP}_{4}$ 中所含 $\\mathrm{P}-\\mathrm{P}$ 键数目为 $4 \\mathrm{~N}_{\\mathrm{A}}$\nB. $100 \\mathrm{~mL} 1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{FeCl}_{3}$ 溶液中所含 $\\mathrm{Fe}^{3+}$ 的数目为 $0.1 \\mathrm{~N}_{\\mathrm{A}}$\nC. 标准状况下, $11.2 \\mathrm{~L}$ 甲烷和乙烯混合物中含氢原子数目为 $2 \\mathrm{~N}_{\\mathrm{A}}$\nD. 密闭容器中, $2 \\mathrm{~mol} \\mathrm{SO}_{2}$ 和 $1 \\mathrm{molO}_{2}$ 催化反应后分子总数为 $2 \\mathrm{~N}_{\\mathrm{A}}$\n",
+    "answer": [
+      "C"
+    ],
+    "analysis": "解: $\\mathrm{A} .124 \\mathrm{gP}_{4}$ 的物质的量为 $\\frac{124 \\mathrm{~g}}{31 \\times 4 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 根据 $\\mathrm{P}_{4}$ 的结构式, $1 \\mathrm{molP}_{4}$ 含有 $6 \\mathrm{molP}-\\mathrm{P}$ 键, 即含有 $\\mathrm{P}-\\mathrm{P}$ 键数目为 $6 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{A}$ 错误;\n\nB. $\\mathrm{FeCl}_{3}$ 溶液中存在 $\\mathrm{Fe}^{3+}$ 的水解, 所以 $100 \\mathrm{~mL} 1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{FeCl}_{3}$ 溶液中所含 $\\mathrm{Fe}^{3+}$ 的 数目小于 $0.1 \\mathrm{~mol}$, 即小于 $0.1 \\mathrm{~N}_{\\mathrm{A}}$ ，故 $\\mathrm{B}$ 错误;\n\nC. $1 \\mathrm{~mol}$ 甲烷含有 $4 \\mathrm{molH}, 1 \\mathrm{~mol}$ 乙烯含有 $4 \\mathrm{molH}$, 二者无论按何种比例, 相当于 $1 \\mathrm{~mol}$ 混合气体含有 $4 \\mathrm{molH}$, 则标准状况下, $11.2 \\mathrm{~L}$ 甲烷和乙烯混合物中含 $\\mathrm{H}$ 有 $\\frac{11.2 \\mathrm{~L}}{22.4 \\mathrm{~L} / \\mathrm{mol}} \\times 4=2 \\mathrm{~mol}$, 即含氢原子数目为 $2 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{C}$ 正确;\n\nD. $\\mathrm{SO}_{2}$ 和 $\\mathrm{O}_{2}$ 的催化反应为可逆反应, 反应不可能完全进行, 存在一个化学平衡 , 所以密闭容器中, $2 \\mathrm{~mol} \\mathrm{SO}_{2}$ 和 $1 \\mathrm{molO}_{2}$ 催化反应后分子总数不一定为 $2 \\mathrm{~mol}$, 即不一定为 $2 \\mathrm{~N}_{\\mathrm{A}}$, 故 $\\mathrm{D}$ 错误，\n\n故选: C。\n",
+    "index": 82,
+    "category": "选择"
+  }
+]

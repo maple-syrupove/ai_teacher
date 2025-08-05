@@ -1,0 +1,8 @@
+{
+    "model_name": "qwen-max",
+    "num_successful_dialogues": 10,
+    "avg_rounds_per_dialogue": "13.60",
+    "avg_prompt_tokens_per_turn": "1035.65",
+    "avg_completion_tokens_per_turn": "39.70",
+    "total_completion_tokens": 5201
+}
