@@ -1,8 +1,0 @@
-{
-    "model_name": "deepseek-reasoner",
-    "num_successful_dialogues": 10,
-    "avg_rounds_per_dialogue": "4.80",
-    "avg_prompt_tokens_per_turn": "507.29",
-    "avg_completion_tokens_per_turn": "2151.11",
-    "total_completion_tokens": 81742
-}

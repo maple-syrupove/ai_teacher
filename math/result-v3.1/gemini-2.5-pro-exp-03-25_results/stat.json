@@ -1,8 +1,0 @@
-{
-    "model_name": "gemini-2.5-pro-exp-03-25",
-    "num_successful_dialogues": 10,
-    "avg_rounds_per_dialogue": "7.90",
-    "avg_prompt_tokens_per_turn": "699.16",
-    "avg_completion_tokens_per_turn": "2892.64",
-    "total_completion_tokens": 199592
-}

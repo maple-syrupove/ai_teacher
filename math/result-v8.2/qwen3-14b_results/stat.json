@@ -1,8 +1,0 @@
-{
-    "model_name": "qwen3-14b",
-    "num_successful_dialogues": 10,
-    "avg_rounds_per_dialogue": "9.80",
-    "avg_prompt_tokens_per_turn": "782.97",
-    "avg_completion_tokens_per_turn": "31.64",
-    "total_completion_tokens": 2848
-}

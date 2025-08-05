@@ -1,5 +1,0 @@
-student0:
-  count: 50
-  rounds_used mean: 15.04, std: 4.62
-  teacher_token_avg mean: 54.84, std: 9.82
-

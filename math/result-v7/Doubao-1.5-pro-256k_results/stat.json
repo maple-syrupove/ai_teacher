@@ -1,8 +1,0 @@
-{
-    "model_name": "Doubao-1.5-pro-256k",
-    "num_successful_dialogues": 10,
-    "avg_rounds_per_dialogue": "4.40",
-    "avg_prompt_tokens_per_turn": "572.41",
-    "avg_completion_tokens_per_turn": "55.85",
-    "total_completion_tokens": 1899
-}
