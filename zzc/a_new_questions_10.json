@@ -1,0 +1,88 @@
+[
+  {
+    "question": "16. (5 points) Let the maximum value of the function $f(x)=\\frac{(x+1)^{2}+\\sin x}{x^{2}+1}$ be $M$ and the minimum value be $m$. Then $M+m=$\n",
+    "answer": "2\n",
+    "analysis": "Solution: The function can be rewritten as $f(x)=\\frac{(x+1)^{2}+\\sin x}{x^{2}+1}=1+\\frac{2 x+\\sin x}{x^{2}+1}$.\n\nLet $g(x)=\\frac{2 x+\\sin x}{x^{2}+1}$. Then $g(x)=\\frac{2 x+\\sin x}{x^{2}+1}$ is an odd function,\n\n$\\therefore$ The sum of the maximum and minimum values of $\\mathrm{g}(\\mathrm{x})=\\frac{2 x+\\sin x}{x^{2}+1}$ is 0.\n\n$\\therefore$ The sum of the maximum and minimum values of the function $f(x)=\\frac{(x+1)^{2}+\\sin x}{x^{2}+1}$ is $1+1+0=2$. That is, $M+m=2$.\n\nTherefore, the answer is: 2.\n",
+    "index": 10,
+    "category": "Fill-in-the-blank"
+  },
+  {
+      "question": "1. (5 points) Given the sets $M=\\{x \\mid-3<x<1, x \\in R\\}$ and $N=\\{-3,-2,-1,0,1\\}$, then $M \\cap N=(\\quad)$\nA. $\\{-2,-1,0,1\\}$\nB. $\\{-3,-2,-1,0\\}$\nC. $\\{-2,-1,0\\}$\nD. $\\{-3,-2,-1\\}$\n",
+      "answer": [
+          "C"
+      ],
+      "analysis": "Solution: $\\because$ Given sets $M=\\{x \\mid-3<x<1, x \\in R\\}$ and $N=\\{-3,-2,-1,0,1\\}$,\n\n$\\therefore M \\cap N=\\{-2,-1,0\\}$.\n\nTherefore, choose: C.\n",
+      "index": 113,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "6. (5 points) Given $\\sin 2 \\alpha=\\frac{2}{3}$, then $\\cos ^{2}\\left(\\alpha+\\frac{\\pi}{4}\\right)=(\\quad)$\nA. $\\frac{1}{6}$\nB. $\\frac{1}{3}$\nC. $\\frac{1}{2}$\nD. $\\frac{2}{3}$\n",
+      "answer": [
+          "A"
+      ],
+      "analysis": "Solution: $\\because \\sin 2 \\alpha=\\frac{2}{3}$,\n\n$\\therefore \\cos ^{2}\\left(\\alpha+\\frac{\\pi}{4}\\right)=\\frac{1}{2}\\left[1+\\cos \\left(2 \\alpha+\\frac{\\pi}{2}\\right)\\right]=\\frac{1}{2}(1-\\sin 2 \\alpha)=\\frac{1}{2} \\times\\left(1-\\frac{2}{3}\\right)=\\frac{1}{6}$.\n\nTherefore, choose: A.\n",
+      "index": 117,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "5. (5 points) Let the domain for functions $f(x)$ and $g(x)$ both be $R$. If $f(x)$ is an odd function and $g(x)$ is an even function, which of the following conclusions is correct?()\nA. $f(x) \\bullet g(x)$ is an even function\nB. $|f(x)| \\bullet g(x)$ is an odd function\nC. $f(x) \\bullet|g(x)|$ is an odd function\nD. $|f(x) \\bullet g(x)|$ is an odd function\n",
+      "answer": [
+          "C"
+      ],
+      "analysis": "Solution: $\\because f(x)$ is an odd function, and $g(x)$ is an even function,\n\n$\\therefore f(-x)=-f(x), g(-x)=g(x)$.\n\nFor A, $f(-x) \\cdot g(-x)=-f(x) \\cdot g(x)$, so the function is odd. Thus, A is incorrect.\n\nFor B, $|f(-x)| \\cdot g(-x)=|-f(x)| \\cdot g(x)=|f(x)| \\cdot g(x)$, so the function is even. Thus, B is incorrect.\n\nFor C, $f(-x) \\cdot|g(-x)|=-f(x) \\cdot|g(x)|$, so the function is odd. Thus, C is correct.\n\nFor D, $|f(-x) \\cdot g(-x)|=| -f(x) \\cdot g(x) |=|f(x) \\cdot g(x)|$, so the function is even. Thus, D is incorrect.\n\nTherefore, choose: C.\n",
+      "index": 124,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "11. (5 points) If the function $f(x)=k x-\\ln x$ is monotonically increasing on the interval $(1,+\\infty)$, then the range of values for $k$ is $(\\quad)$\nA. $(-\\infty,-2]$\nB. $(-\\infty,-1]$\nC. $[2,+\\infty)$\nD. $[1,+\\infty)$\n",
+      "answer": [
+          "D"
+      ],
+      "analysis": "Solution: $f^{\\prime}(x)=k-\\frac{1}{x}$.\n\n$\\because$ The function $f(x)=kx-\\ln x$ is monotonically increasing on the interval $(1,+\\infty)$,\n\n$\\therefore f^{\\prime}(x) \\geqslant 0$ must hold true for the interval $(1,+\\infty)$.\n\n$\\therefore k \\geqslant \\frac{1}{x}$.\n\nSince $y=\\frac{1}{x}$ is monotonically decreasing on the interval $(1,+\\infty)$, its maximum value on this interval is approached as $x$ approaches 1, with $\\sup_\\limits{x>1}(\\frac{1}{x}) = 1$.\n\n$\\therefore k \\geqslant 1$.\n\n$\\therefore$ The range of values for k is: $[1,+\\infty)$.\n\nTherefore, choose: D.\n",
+      "index": 134,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "4. (5 points) If 3 positive integers can be the lengths of the three sides of a right-angled triangle, these 3 numbers are called a Pythagorean triple. If we randomly pick 3 different numbers from $1,2,3,4,5$, what is the probability that these 3 numbers form a Pythagorean triple? ( $)$\nA. $\\frac{3}{10}$\nB. $\\frac{1}{5}$\nC. $\\frac{1}{10}$\nD. $\\frac{1}{20}$\n",
+      "answer": [
+          "C"
+      ],
+      "analysis": "Solution: The total number of ways to pick 3 different numbers from $1,2,3,4,5$ is $C(5,3) = \\frac{5!}{3!2!} = 10$. The combinations are: $(1,2,3), (1,2,4), (1,2,5), (1,3,4), (1,3,5), (1,4,5), (2,3,4), (2,3,5), (2,4,5), (3,4,5)$.\n\nAmong these, only $(3,4,5)$ is a Pythagorean triple, because $3^2+4^2=5^2$.\n\nTherefore, the probability that these 3 numbers form a Pythagorean triple is $\\frac{1}{10}$.\n\nTherefore, choose: C.\n",
+      "index": 138,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "16. (4 points) The graph of the function $y=\\cos (2 x+\\phi) \\quad(-\\pi \\leqslant \\phi<\\pi)$ is shifted to the right by $\\frac{\\pi}{2}$ units. The resulting graph coincides with the graph of the function $y=\\sin \\left(2 x+\\frac{\\pi}{3}\\right)$. Then $\\phi=$\n",
+      "answer": "$\\frac{5 \\pi}{6}$\n",
+      "analysis": "Solution: Shifting the graph of $y=\\cos(2x+\\phi)$ right by $\\frac{\\pi}{2}$ units results in the function $y=\\cos\\left[2\\left(x-\\frac{\\pi}{2}\\right)+\\phi\\right]=\\cos(2x-\\pi+\\phi)$.\n\nThe function $y=\\sin\\left(2 x+\\frac{\\pi}{3}\\right)$ can be rewritten using the identity $\\sin A = \\cos(\\frac{\\pi}{2}-A)$ as $y=\\cos\\left(\\frac{\\pi}{2} - (2x+\\frac{\\pi}{3})\\right) = \\cos\\left(\\frac{\\pi}{6}-2x\\right)=\\cos\\left(2x-\\frac{\\pi}{6}\\right)$.\n\nSince the graphs coincide, their phases must be equivalent. Therefore, $2x-\\pi+\\phi = 2x-\\frac{\\pi}{6} + 2k\\pi$ for some integer $k$.\n\nThis simplifies to $\\phi = \\pi - \\frac{\\pi}{6} + 2k\\pi = \\frac{5\\pi}{6} + 2k\\pi$.\n\nGiven the constraint $-\\pi \\leqslant \\phi<\\pi$, the only valid solution is when $k=0$, which gives $\\phi = \\frac{5\\pi}{6}$.\n\nTherefore, the answer is: $\\frac{5\\pi}{6}$.\n",
+      "index": 16,
+      "category": "Fill-in-the-blank"
+  },
+  {
+      "question": "1. (5 points) Given the sets $A=\\{x \\mid x<2\\}$ and $B=\\{x \\mid 3-2 x>0\\}$, then（）\nA. $A \\cap B=\\left\\{x \\mid x<\\frac{3}{2}\\right\\}$\nB. $A \\cap B=\\varnothing$\nC. $A \\cup B=\\left\\{\\mathbf{x} \\mid \\mathbf{x}<\\frac{3}{2}\\right\\}$\nD. $A \\cup B=R$\n",
+      "answer": [
+          "A"
+      ],
+      "analysis": "Solution: $\\because$ The sets are $A=\\{x \\mid x<2\\}$ and $B=\\{x \\mid 3-2 x>0\\}=\\left\\{x \\mid x<\\frac{3}{2}\\right\\}$.\n\n$\\therefore A \\cap B=\\left\\{x \\mid x<\\frac{3}{2}\\right\\}$. Thus, A is correct and B is incorrect.\n\n$A \\cup B=\\{x \\mid x<2\\}$. Thus, C and D are incorrect.\n\nTherefore, choose: A.\n",
+      "index": 173,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "3. (5 points) The result of which of the following expressions is a purely imaginary number? ( )\nA. $i(1+i)^{2}$\nB. $i^{2}(1-i)$\nC. $(1+\\mathrm{i})^{2}$\nD. $i(1+i)$\n",
+      "answer": [
+          "C"
+      ],
+      "analysis": "Solution:\nA. $i(1+i)^{2}=i(1+2i+i^2) = i(1+2i-1) = i(2i) = 2i^2 = -2$, which is a real number.\n\nB. $i^{2}(1-i)=-1(1-i)=-1+i$, which is not a purely imaginary number.\n\nC. $(1+i)^{2}=1+2i+i^2 = 1+2i-1=2i$, which is a purely imaginary number.\n\nD. $i(1+i)=i+i^2 = i-1$, which is not a purely imaginary number.\n\nTherefore, choose: C.\n",
+      "index": 175,
+      "category": "Multiple Choice"
+  },
+  {
+      "question": "8. (5 points) The monotonically increasing interval of the function $f(x)=\\ln \\left(x^{2}-2 x-8 ）\\right.$ is ( $)$\nA. $(-\\infty,-2)$\nB. $(-\\infty,-1)$\nC. $(1,+\\infty)$\nD. $(4,+\\infty)$\n",
+      "answer": [
+          "D"
+      ],
+      "analysis": "Solution: First, find the domain of the function. We need $x^{2}-2 x-8>0$, which factors to $(x-4)(x+2)>0$. This inequality holds when $x>4$ or $x<-2$. So the domain is $(-\\infty,-2) \\cup(4,+\\infty)$.\n\nLet the inner function be $t=x^{2}-2 x-8$. The outer function is $y=\\ln t$. The function $f(x)$ increases when both the inner function $t$ and the outer function $y$ are increasing, or both are decreasing. Since $y=\\ln t$ is always increasing for $t>0$, we need to find where the inner function $t=x^{2}-2x-8$ is increasing within the domain of $f(x)$.\n\nThe parabola $t(x)$ has its vertex at $x = -\\frac{-2}{2(1)} = 1$. It is an upward-opening parabola, so it is increasing for $x > 1$.\n\nWe need to find the intersection of the interval where $t(x)$ is increasing, i.e., $(1, +\\infty)$, and the domain of $f(x)$, i.e., $(-\\infty,-2) \\cup(4,+\\infty)$.\n\nThe intersection is $(4,+\\infty)$.\n\nTherefore, the monotonically increasing interval of $f(x)$ is $(4,+\\infty)$.\n\nTherefore, choose: D.\n",
+      "index": 182,
+      "category": "Multiple Choice"
+  }
+]
